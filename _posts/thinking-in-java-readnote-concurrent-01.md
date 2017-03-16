@@ -1,7 +1,7 @@
 ---
 title: 《Thinking in Java》读书笔记之并发（一）
 date: 2017-03-16 14:19:15
-tags: [读书笔记, Java]
+tags: [读书笔记, Java, 并发]
 categories: ReadingNotes
 link_title: thinking-in-java-readnote-concurrent-01
 ---
