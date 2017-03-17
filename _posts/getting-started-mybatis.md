@@ -1,5 +1,5 @@
 ---
-title: Mybatis入门-Java项目中使用Mybatis入门程序
+title: Java项目中使用Mybatis入门程序
 date: 2017-03-09 17:35:41
 tags: [Mybatis, ORM框架, 入门, Java]
 categories: Mybatis

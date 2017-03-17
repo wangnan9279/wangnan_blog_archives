@@ -1,8 +1,8 @@
 ---
-title: 《深入理解Elasticsearch》读书笔记之第一章：Elasticsearch简介
+title: Elasticsearch简介
 date: 2017-03-08 12:31:23
-tags: [ElasticSearch, 搜索引擎, 读书笔记]
-categories: ElasticSearch
+tags: [Elasticsearch, 搜索引擎, 读书笔记]
+categories: Elasticsearch
 link_title: mastering_es_readnote_01
 ---
 > elasticsearch是一个可用于构建搜索应用的成品软件，区别去lucene这种中间件
@@ -71,3 +71,5 @@ es将数据散步到多个物理lucene索引上，这些索引称为分片，而
 
 #### 查询操作
 查询并不是一个简答的，单步骤的操作，一般来说，查询分为两个阶段，分散阶段和合并阶段
+
+（注：内容整理自《深入理解Elasticsearch》）

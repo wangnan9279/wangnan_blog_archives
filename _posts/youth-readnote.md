@@ -1,7 +1,7 @@
 ---
 title: 《年轻可以一无所有》读书笔记
 date: 2017-03-15 16:45:10
-tags: [读书笔记]
+tags: [读书笔记, 鸡汤]
 categories: ReadingNotes
 link_title: youth
 ---

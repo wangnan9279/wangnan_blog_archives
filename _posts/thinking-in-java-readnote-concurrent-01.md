@@ -1,8 +1,8 @@
 ---
-title: 《Thinking in Java》读书笔记之并发（一）
+title: Java多线程简介之基本概念、Thread类、Executor
 date: 2017-03-16 14:19:15
-tags: [读书笔记, Java, 并发]
-categories: ReadingNotes
+tags: [Java, 并发, 多线程]
+categories: Java
 link_title: thinking-in-java-readnote-concurrent-01
 ---
 >在没有接触并发编程概念之前，你学到的都是有关顺序编程的知识，即程序中的所以事物在任意时刻都只能执行一个步骤
@@ -204,3 +204,5 @@ result of TaskWithResult 8
 result of TaskWithResult 9
 *///:~
 ```
+
+（注：内容整理自《Thinking in Java》）

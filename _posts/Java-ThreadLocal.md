@@ -1,5 +1,5 @@
 ---
-title: 【转】Java ThreadLocal
+title: 【转】Java ThreadLocal 简介
 date: 2017-03-14 16:44:22
 tags: [Java, 并发]
 categories: Java

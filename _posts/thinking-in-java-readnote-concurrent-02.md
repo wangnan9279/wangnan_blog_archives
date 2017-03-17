@@ -1,8 +1,8 @@
 ---
-title: 《Thinking in Java》读书笔记之并发（二）
+title: Java多线程简介之休眠、优先级、让步、后台线程、加入一个线程、异常捕获、共享受限资源
 date: 2017-03-16 14:36:33
-tags: [读书笔记, Java, 并发]
-categories: ReadingNotes
+tags: [Java, 并发, 多线程]
+categories: Java
 link_title: thinking-in-java-readnote-concurrent-02
 ---
 >休眠 优先级 让步 后台线程 加入一个线程 异常捕获 共享受限资源
@@ -267,3 +267,7 @@ synchronized(syncObject){
 防止任务在共享资源上产生冲突的第二种方式是根除对变量的共享，线程本地是一种自动化机制，可以使用相同变量的每个不同线程都创建不同的存储，
 
 get()方法将返回与其线程相关联的对象的副本，而set()会将参数数据插入到为其线程储存的对象中。
+
+
+（注：内容整理自《Thinking in Java》）
+

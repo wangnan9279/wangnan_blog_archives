@@ -1,5 +1,5 @@
 ---
-title: 《redis实战》读书笔记-第一章：初识redis
+title: Redis初识
 date: 2017-03-09 15:57:27
 tags: [Redis, 缓存, 读书笔记]
 categories: Redis
@@ -40,3 +40,5 @@ LIST可以存储多个相同的字符串，而SET则可以通过散列来保证�
 ### ZSET 
 有序集合的值被称为分值，分值必须是浮点数，有序集合是redis里面为一个既可以根据成员访问，也可以根据分值以及分值的排列顺序来访问元素的结构 
 *基本命令*：ZADD ZRANGE ZRANGEBYSCORE ZREM
+
+（注：内容整理自《redis实战》）

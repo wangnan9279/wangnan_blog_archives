@@ -1,5 +1,5 @@
 ---
-title: 《redis实战》读书笔记-第二章：使用redis构建web应用
+title: 使用Redis构建web应用
 date: 2017-03-15 16:53:44
 tags: [Redis, 缓存, 读书笔记]
 categories: Redis
@@ -190,6 +190,7 @@ def check_token(conn,token):
 	    根据排名判断是否需要被缓存
         return rank is not None and rank<10000
 ```
+（注：内容整理自《redis实战》）
 
 
 

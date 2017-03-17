@@ -15,8 +15,7 @@ date: 2017-03-08 14:09:41
 ## 联系方式
 Email:wn9279@qq.com
 QQ:825130702
-### 版权声明
-本博客内容为原创内容，欢迎讨论和转载，转载请保留原文链接。
+
 </br>
 <blockquote class="blockquote-center">种树的最佳时间是20年前，仅次于它的最佳时间是现在。</blockquote>
 </br>

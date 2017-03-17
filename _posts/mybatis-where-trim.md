@@ -1,5 +1,5 @@
 ---
-title: Mybatis 使用<where>标签时遇到的一个问题与<trim>标签的使用
+title: Mybatis使用where标签时遇到的一个问题与trim标签的使用
 tags: [Mybatis, ORM框架]
 date: 2017-03-16 16:11:20
 categories: Mybatis
