@@ -2,7 +2,7 @@
 title: Elasticsearch学习笔记
 tags: [Elasticsearch, 搜索引擎, 读书笔记]
 date: 2017-03-17 14:51:47
-categories: Elasticsearch
+categories: ElasticSearch
 link_title: elasticsearch-study-note
 ---
 > Elasticsearch是一个可伸缩的开源全文搜索和分析引擎，它使你可以快速且接近实时的去保存，查询和分析海量的数据，他的潜在应用场景是作为一些有复杂搜索功能和需求的应用的搜索引擎

@@ -2,7 +2,7 @@
 title: Elasticsearch二次评分
 tags: [Elasticsearch, 搜索引擎, 读书笔记]
 date: 2017-03-20 16:33:12
-categories: Elasticsearch
+categories: ElasticSearch
 link_title: elasticsearch-rescore
 ---
 >二次评分给了用户很多机会来定制业务逻辑

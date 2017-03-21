@@ -2,7 +2,7 @@
 title:  Elasticsearch自动补齐建议-completion suggester
 tags: [Elasticsearch, 搜索引擎, 读书笔记]
 date: 2017-03-17 14:37:49
-categories: Elasticsearch
+categories: ElasticSearch
 link_title: elasticsearch-completion-suggester
 ---
 > mapping 添加测试数据 DSL 结果 代码
