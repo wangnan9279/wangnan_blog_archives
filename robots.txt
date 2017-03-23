@@ -2,11 +2,10 @@ User-agent: *
 Allow: /
 Allow: /archives/
 Allow: /categories/
-Allow: /read-tech/ 
-Allow: /read-life/ 
+Allow: /read/ 
 Allow: /about/ 
-Allow: /life/ 
 
+Disallow:  /life/ 
 Disallow: /vendors/
 Disallow: /js/
 Disallow: /css/
