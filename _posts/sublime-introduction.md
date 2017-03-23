@@ -2,7 +2,7 @@
 title: Sublime Text 3简介
 date: 2017-03-10 16:23:13
 tags: [Sublime, 简介, 工具]
-categories: Tools
+categories: 工具
 link_title: Sublime-introduction
 ---
 > sublime 是一款小巧绿色且速度非常快的代码编辑器，下面介绍一下它的安装和插件的使用

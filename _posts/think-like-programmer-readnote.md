@@ -2,7 +2,7 @@
 title: 《像程序员一样思考》读书笔记
 date: 2017-03-13 11:35:48
 tags: [读书笔记]
-categories: ReadingNotes
+categories: 读书笔记
 link_title: think-like-programmer-readnote
 ---
 > 这本书的第一章阐述了一些解决问题的策略，举了几个例子，还是挺有趣的，之后还用c++演示了一些具体的解决问题的方法，有兴趣可以读一下
