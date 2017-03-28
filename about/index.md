@@ -14,7 +14,6 @@ date: 2017-03-08 14:09:41
 南京邮电大学 电子科学与技术
 ## 联系方式
 Email:wn9279@qq.com
-QQ:825130702
 
 </br>
 <blockquote class="blockquote-center">种树的最佳时间是20年前，仅次于它的最佳时间是现在。</blockquote>

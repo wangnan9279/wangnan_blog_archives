@@ -3,14 +3,6 @@ title: 阅读记录
 date: 2017-03-14 17:22:39
 ---
 # todo
-> 《RabbitMQ实战》
-
-![01](index/12.png)
-
-> 《深入浅出MyBatis技术原理与实战》
-
-![01](index/13.png)
-
 > 《深入理解Java虚拟机》
 
 ![01](index/14.png)
@@ -60,6 +52,13 @@ date: 2017-03-14 17:22:39
 ![01](index/25.png)
 
 # done
+> 《RabbitMQ实战》
+
+![01](index/12.png)
+
+> 《深入浅出MyBatis技术原理与实战》
+
+![01](index/13.png)
 
 > 《redis实战》
 
