@@ -1,5 +1,5 @@
 ---
-title: rabbitMQ-理解消息通信-队列
+title: RabbitMQ-理解消息通信-队列
 tags: [RabbitMQ, 消息队列]
 date: 2017-03-30 16:44:06
 categories: RabbitMQ
