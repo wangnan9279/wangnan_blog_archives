@@ -1,6 +1,6 @@
 ---
 title:  Elasticsearch自动补齐建议-completion suggester
-tags: [ElasticSearch, 搜索引擎, 读书笔记]
+tags: [Elasticsearch, 搜索引擎, 读书笔记]
 date: 2017-03-17 14:37:49
 categories: ElasticSearch
 link_title: elasticsearch-completion-suggester

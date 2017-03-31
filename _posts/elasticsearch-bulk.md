@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch批量操作
-tags: [ElasticSearch, 搜索引擎, 读书笔记]
+tags: [Elasticsearch, 搜索引擎, 读书笔记]
 date: 2017-03-21 10:10:02
 categories: ElasticSearch
 link_title: elasticsearch-bulk

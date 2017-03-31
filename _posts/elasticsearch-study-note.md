@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch学习笔记
-tags: [ElasticSearch, 搜索引擎, 读书笔记]
+tags: [Elasticsearch, 搜索引擎, 读书笔记]
 date: 2017-03-17 14:51:47
 categories: ElasticSearch
 link_title: elasticsearch-study-note
