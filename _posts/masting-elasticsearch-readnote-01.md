@@ -1,7 +1,7 @@
 ---
 title: Elasticsearch简介
 date: 2017-03-08 12:31:23
-tags: [Elasticsearch, 搜索引擎, 读书笔记]
+tags: [ElasticSearch, 搜索引擎, 读书笔记]
 categories: ElasticSearch
 link_title: mastering_es_readnote_01
 ---
