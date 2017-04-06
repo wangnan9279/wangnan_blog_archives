@@ -1,5 +1,5 @@
 ---
-title: RabbitMQ概述
+title: RabbitMQ-概述
 tags: [RabbitMQ, 消息队列]
 date: 2017-03-29 16:27:05
 categories: RabbitMQ
