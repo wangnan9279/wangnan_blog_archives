@@ -3,7 +3,7 @@ title: Java多线程简介之基本概念、Thread类、Executor
 date: 2017-03-16 14:19:15
 tags: [Java, 并发, 多线程]
 categories: Java
-link_title: thinking-in-java-readnote-concurrent-01
+link_title: java-concurrent01
 ---
 >在没有接触并发编程概念之前，你学到的都是有关顺序编程的知识，即程序中的所以事物在任意时刻都只能执行一个步骤
 并行编程可以使程序执行速度得到极大的提高，或者为设计某些类型的程序提供更易用的模型，或者两者皆有。当并行执行的任务彼此开始产生互相干涉时，实际的并发问题就会接踵而至。这些并发问题，如果视而不见，就会遭到其反噬。

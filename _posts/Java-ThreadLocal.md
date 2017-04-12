@@ -3,7 +3,7 @@ title: 【转】Java ThreadLocal 简介
 date: 2017-03-14 16:44:22
 tags: [Java, 并发]
 categories: Java
-link_title: Java-ThreadLocal
+link_title: java-ThreadLocal
 ---
 > ThreadLocal在Spring中发挥着重要的作用，在管理request作用域的Bean、事务管理、任务调度、AOP等模块都出现了它们的身影，起着举足轻重的作用。要想了解Spring事务管理的底层技术，ThreadLocal是必须攻克的山头堡垒。
 <!-- more -->
@@ -146,7 +146,7 @@ ThreadLocal和线程同步机制相比有什么优势呢？ThreadLocal和线程�
 我们知道在一般情况下，只有无状态的Bean才可以在多线程环境下共享，在Spring中，绝大部分Bean都可以声明为singleton作用域。就是因为Spring对一些Bean（如RequestContextHolder、TransactionSynchronizationManager、LocaleContextHolder等）中非线程安全的“状态性对象”采用ThreadLocal进行封装，让它们也成为线程安全的“状态性对象”，因此有状态的Bean就能够以singleton的方式在多线程中正常工作了。
 
 一般的Web应用划分为展现层、服务层和持久层三个层次，在不同的层中编写对应的逻辑，下层通过接口向上层开放功能调用。在一般情况下，从接收请求到返回响应所经过的所有程序调用都同属于一个线程，如图9-2所示。
-![01](Java-ThreadLocal/01.png)
+![01](java-ThreadLocal/01.png)
 这样用户就可以根据需要，将一些非线程安全的变量以ThreadLocal存放，在同一次请求响应的调用线程中，所有对象所访问的同一ThreadLocal变量都是当前线程所绑定的。 
 下面的实例能够体现Spring对有状态Bean的改造思路：
 

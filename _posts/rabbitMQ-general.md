@@ -1,6 +1,6 @@
 ---
 title: RabbitMQ-概述
-tags: [RabbitMQ, 消息队列]
+tags: [RabbitMQ, 消息队列,《RabbitMQ实战》]
 date: 2017-03-29 16:27:05
 categories: RabbitMQ
 link_title: rabbitMQ-general

@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch二次评分
-tags: [ElasticSearch, 搜索引擎, 读书笔记]
+tags: [ElasticSearch, 搜索引擎, 《深入理解Elasticsearch》]
 date: 2017-03-20 16:33:12
 categories: ElasticSearch
 link_title: elasticsearch-rescore

@@ -1,9 +1,9 @@
 ---
 title: 《年轻可以一无所有》读书笔记
 date: 2017-03-15 16:45:10
-tags: [读书笔记, 鸡汤]
+tags: [读书笔记]
 categories: 读书笔记
-link_title: youth
+link_title: read-youth
 ---
 > 青春五千日 人生三万天
 

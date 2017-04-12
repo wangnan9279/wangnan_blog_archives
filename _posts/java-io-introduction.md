@@ -1,6 +1,6 @@
 ---
 title: Java IO 简介
-tags: [Java, 简介, IO]
+tags: [Java, IO]
 date: 2017-03-16 16:44:54
 categories: Java
 link_title: java-io-introduction

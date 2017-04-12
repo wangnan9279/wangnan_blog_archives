@@ -1,9 +1,9 @@
 ---
 title: Elasticsearch如何评分?-Apache Lucene默认评分公式解释
-tags: [ElasticSearch, 搜索引擎, 读书笔记, Lucene]
+tags: [ElasticSearch, 搜索引擎, 《深入理解Elasticsearch》, Lucene]
 date: 2017-03-17 11:24:39
 categories: ElasticSearch
-link_title: lucene-score-rule
+link_title: elasticsearch-lucene-score-rule
 ---
 > elasticsearch使用了lucene的评分功能,lucene默认评分机制：TF/IDF(词频/逆文档频率)算法
 
@@ -38,11 +38,11 @@ link_title: lucene-score-rule
 ## TF/IDF评分公式
 ### Lucene理论评分公式
 注意，你并不需要深入理解这个公式的来龙去脉，了解它的工作原理非常重要
-![](lucene-score-rule/01.png)
+![](elasticsearch-lucene-score-rule/01.png)
 上面的公式理论形式糅合了布尔检索模型和向量空间检索模型，我们可以不讨论这个理论评分公式，直接跳到lucene实际评分公式
 ### Lucene实际评分公式
 现在让我来看看Lucene实际评分公式：
-![](lucene-score-rule/02.png)
+![](elasticsearch-lucene-score-rule/02.png)
 
 解释：这是一个关于**查询q**和**文档d**的函数，有两个因子coord和queryNorm并不直接依赖查询词项，而是与查询词项的一个**求和公式**相乘，**求和公式**中的每个加数由以下因子连乘所得：词频 逆文档频率 词项权重 长度范数
 

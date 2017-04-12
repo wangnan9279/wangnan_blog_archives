@@ -1,9 +1,9 @@
 ---
 title: 使用Redis构建web应用
 date: 2017-03-15 16:53:44
-tags: [Redis, 缓存, 读书笔记]
+tags: [Redis, 缓存, 《redis实战》]
 categories: Redis
-link_title: redisinaction_readnote_02
+link_title: redis-webapp
 ---
 > 登录和cookie缓存  购物车 网页缓存 数据行缓存 网页分析
   代码格式有问题，见谅
@@ -11,7 +11,7 @@ link_title: redisinaction_readnote_02
 <!-- more -->
 
 ## 目录
-![01](redisinaction-readnote-02/00.png)
+![01](redis-webapp/00.png)
 
 ## 登录和cookie缓存
 cookie：当我们登录互联网服务的时候，这些服务都会使用cookie来记录我们的身份，cookie由少量数据组成，网站会要求我们的浏览器存储这些数据，并在每次服务发生请求时将这些数据传回给服务
@@ -22,7 +22,7 @@ cookie：当我们登录互联网服务的时候，这些服务都会使用cooki
 
 令牌cookie会在cookie里面储存一串随机字节作为令牌，服务器可以根据令牌在数据库中查找令牌的拥有者，随着时间的推移，旧令牌会被新令牌取代
 
- ![01](redisinaction-readnote-02/01.png)
+ ![01](redis-webapp/01.png)
 
 redis实现令牌登录cookie：首先，我们将使用一个hash来储存登录cookie令牌和已登录用户之间的映射，要检查一个用户是否已经登录，需要根据给定的令牌来查找与之对应的用户，并在用户已经登录的情况下，返回该用户的id
 

@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch地理位置查询-Geo Distance Range Query
-tags: [ElasticSearch, 搜索引擎, 读书笔记]
+tags: [ElasticSearch, 搜索引擎]
 date: 2017-03-17 13:50:17
 categories: ElasticSearch
 link_title: elasticsearch-geo-distance-query

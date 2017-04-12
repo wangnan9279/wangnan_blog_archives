@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch使用过滤器优化查询
-tags: [Elasticsearch, 搜索引擎, 读书笔记]
+tags: [ElasticSearch, 搜索引擎, 《深入理解Elasticsearch》]
 date: 2017-03-23 16:12:14
 categories: ElasticSearch
 link_title: elasticsearc-filtered
@@ -48,3 +48,5 @@ link_title: elasticsearc-filtered
 }
 ```
 第一次执行该查询以后，过滤器会被es缓存起来，如果后续的其他查询也要使用该过滤器，则她会被重复使用，避免es重复加载相关数据
+
+（注：内容整理自《深入理解Elasticsearch》）

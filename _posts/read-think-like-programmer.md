@@ -3,11 +3,11 @@ title: 《像程序员一样思考》读书笔记
 date: 2017-03-13 11:35:48
 tags: [读书笔记]
 categories: 读书笔记
-link_title: think-like-programmer-readnote
+link_title: read-think-like-programmer
 ---
 > 这本书的第一章阐述了一些解决问题的策略，举了几个例子，还是挺有趣的，之后还用c++演示了一些具体的解决问题的方法，有兴趣可以读一下
 <!-- more --> 
-![01](think-like-programmer-readnote/01.png)
+![01](read-think-like-programmer/01.png)
 
 > 认识到一个已解决的问题和一个未解决的问题之间可供利用的相似之处。如果我们发现问题A的一个特性与已经解决的问题B的一个特性有相似之处，就为解决A奠定了良好的基础。
 

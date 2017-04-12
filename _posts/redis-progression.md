@@ -1,6 +1,6 @@
 ---
 title: Redis进阶内容
-tags: [Redis, 缓存, 读书笔记]
+tags: [Redis, 缓存, 《redis实战》]
 date: 2017-03-17 16:20:39
 categories: Redis
 link_title: redis-progression

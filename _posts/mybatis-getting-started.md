@@ -1,9 +1,9 @@
 ---
 title: Java项目中使用Mybatis入门程序
 date: 2017-03-09 17:35:41
-tags: [Mybatis, ORM框架, 入门, Java]
+tags: [Mybatis, ORM框架, Java]
 categories: Mybatis
-link_title: getting-started-mybatis
+link_title: mybatis-getting-started
 ---
 > MyBatis 是支持定制化 SQL、存储过程以及高级映射的优秀的持久层框架。
 <!-- more --> 
@@ -29,7 +29,7 @@ http://mybatis.github.io/mybatis-3/zh/index.html
 
 我选择第二种，在Eclipse中新建一个maven项目 
 ## 项目结构： 
-![项目结构](getting-started-mybatis/01.jpg)
+![项目结构](mybatis-getting-started/01.jpg)
 
 ## 各文件介绍：
 - pom文件：由于使用了mySQL数据库，这里还依赖了一个mySQL驱动包

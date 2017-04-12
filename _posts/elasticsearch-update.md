@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch数据更新API
-tags: [ElasticSearch, 搜索引擎, 读书笔记]
+tags: [ElasticSearch, 搜索引擎, 《深入理解Elasticsearch》]
 date: 2017-03-22 16:26:59
 categories: ElasticSearch
 link_title: elasticsearch-update

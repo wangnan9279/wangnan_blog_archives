@@ -1,6 +1,6 @@
 ---
 title: MyBatis二级缓存
-tags: [Mybatis, ORM框架, 缓存]
+tags: [Mybatis, ORM框架]
 date: 2017-03-20 15:19:03
 categories: Mybatis
 link_title: mybatis-cache
