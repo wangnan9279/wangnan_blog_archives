@@ -1,6 +1,6 @@
 ---
 title: Mybaits-配置
-tags: [Mybatis, ORM框架]
+tags: [Mybatis, ORM框架, 《深入浅出MyBatis技术原理与实战》]
 date: 2017-04-10 14:26:18
 categories: Mybatis
 link_title: mybatis-config
