@@ -5,12 +5,7 @@ date: 2017-04-10 14:26:18
 categories: Mybatis
 link_title: mybatis-config
 ---
-> properties
-setting
-typeAliases
-typeHandler
-objectFactory
-environment
+> properties setting typeAliases typeHandler objectFactory environment
 
 <!--more-->
 

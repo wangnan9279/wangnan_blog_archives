@@ -5,14 +5,7 @@ date: 2017-04-13 13:40:42
 categories: Mybatis
 link_title: mybatis-mapper
 ---
-> select
-insert
-update
-delete
-参数
-sql元素
-resultMap
-缓存
+> select insert update delete 参数 sql元素 resultMap 缓存
 
 <!--more-->
 

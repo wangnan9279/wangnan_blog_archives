@@ -5,12 +5,7 @@ date: 2017-04-17 15:44:39
 categories: Mybatis
 link_title: mybaits-sql
 ---
-> 概述
-if
-choose when otherwise
-trim where set
-foreach
-test元素
+> 概述 if choose when otherwise trim where set foreach test
 
 <!--more-->
 
