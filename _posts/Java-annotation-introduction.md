@@ -1,7 +1,7 @@
 ---
 title: 【转】Java注解简介
 date: 2017-03-14 16:35:45
-tags: [简介, Java ,注解]
+tags: [Java ,注解]
 categories: Java
 link_title: java-annotation-introduction
 ---
