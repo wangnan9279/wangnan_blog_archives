@@ -7,14 +7,14 @@ link_title: elasticsearch-sort
 ---
 > 当你发送请求至elasticsearch,返回文档默认按文档得分降序排序，这是通常我们想要了，然而，有时候我们希望能改变这种排序方式
 
-<!-- more -->
-
 下面的例子就容易做到：
 ![01](elasticsearch-sort/01.png)
 该查询会返回所有在title字段上至少命中一个词项的文档，并且基于section数据排序
 
 **也可以通过添加查询sort部分的missing属性为那些section字段缺失的文档定制排序行为**
 ![02](elasticsearch-sort/02.png)
+
+<!-- more -->
 
 # 基于多值字段的排序
 某些文档的release-dates字段里面储存了多个电影上映日期（同一部电影在不同国家的上映日期不同）我们可以构造查询请求：

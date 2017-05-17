@@ -5,9 +5,7 @@ date: 2017-03-30 11:07:25
 categories: RabbitMQ
 link_title: rabbitMQ-producer-consumer
 ---
-> 消费者和生产者 消息 信道
 
-<!--more-->
 
 # 消费者和生产者
 
@@ -17,6 +15,9 @@ link_title: rabbitMQ-producer-consumer
 ## 消息
 什么是消息呢？ 
 消息包含两部分：**有效载荷（payload）和标签（label）**
+
+<!--more-->
+
 
 - **有效负荷**
 就是你想要传输的数据，它可以试任何内容，一个json数组或者是你最喜欢的mp4，Rabbitmq不会在意这些

@@ -5,10 +5,6 @@ date: 2017-05-11 14:47:21
 categories: Java
 link_title: java8-collect
 ---
-> 收集器简介 汇总 并行流
-
-<!--more-->
-
 # 收集器简介
 对流调用collect方法将对流中的元素触发一个规约操作
 
@@ -18,6 +14,7 @@ Collectors实用类提供了很多静态工程方法，可以方便地创建常�
 ```java
 List<Transcation> transactions = transcationStream.collect(Collectors.toList());
 ```
+<!--more-->
 
 ## 预定义收集器
 Collectors类提供的工厂方法（例如groupingBy）创建的收集器，他们主要提供了三大功能：

@@ -6,11 +6,13 @@ categories: Java
 link_title: java-annotation-introduction
 ---
 > 有必要对JDK 5.0新增的注解（Annotation）技术进行简单的学习，因为spring 支持@AspectJ，而@AspectJ本身就是基于JDK 5.0的注解技术。所以学习JDK 5.0的注解知识有助于我们更好地理解和掌握Spring的AOP技术。
-<!-- more -->
+
 
 # 了解注解
 
 对于Java开发人员来说，在编写代码时，除了源程序以外，我们还会使用Javadoc标签对类、方法或成员变量进行注释，以便使用Javadoc工具生成和源代码配套的Javadoc文档。这些@param、@return等Javadoc标签就是注解标签，它们为第三方工具提供了描述程序代码的注释信息。使用过Xdoclet的朋友，对此将更有感触，像Struts、hibernate都提供了Xdoclet标签，使用它们可以快速地生成对应程序代码的配置文件。
+
+<!-- more -->
 
 JDK5.0注解可以看成是Javadoc标签和Xdoclet标签的延伸和发展。在JDK5.0中，我们可以自定义这些标签，并通过Java语言的反射机制中获取类中标注的注解，完成特定的功能。 
 注解是代码的附属信息，它遵循一个基本原则：注解不能直接干扰程序代码的运行，无论增加或删除注解，代码都能够正常运行。Java语言解释器会忽略这些注解，而由第三方工具负责对注解进行处理。第三方工具可以利用代码中的注解间接控制程序代码的运行，它们通过Java反射机制读取注解的信息，并根据这些信息更改目标程序的逻辑，而这正是Spring AOP对@AspectJ提供支持所采取的方法。

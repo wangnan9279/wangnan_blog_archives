@@ -5,10 +5,6 @@ date: 2017-03-17 14:37:49
 categories: ElasticSearch
 link_title: elasticsearch-completion-suggester
 ---
-> mapping 添加测试数据 DSL 结果 代码
-
-<!--more -->
-
 ## 1.mapping
     curl -XPUT 192.168.0.1:9200/person -d'  //新建一个persion的索引
     {
@@ -28,6 +24,8 @@ link_title: elasticsearch-completion-suggester
           }
        }
     }'
+	
+<!--more -->
 
 ## 2 .添加测试数据
 

@@ -5,11 +5,6 @@ tags: [Redis, 缓存, 《redis实战》]
 categories: Redis
 link_title: redis-webapp
 ---
-> 登录和cookie缓存  购物车 网页缓存 数据行缓存 网页分析
-  代码格式有问题，见谅
-
-<!-- more -->
-
 ## 目录
 ![01](redis-webapp/00.png)
 
@@ -17,6 +12,8 @@ link_title: redis-webapp
 cookie：当我们登录互联网服务的时候，这些服务都会使用cookie来记录我们的身份，cookie由少量数据组成，网站会要求我们的浏览器存储这些数据，并在每次服务发生请求时将这些数据传回给服务
 
 对于用来登录的cookie，有两种方法可以将登录信息储存在cookie里面，一种是签名（signed）cookie一种是令牌（token）cookie
+
+<!-- more -->
 
 签名cookie通常会储存用户名，还可能有用户ID，用户最后一次成功登录的时间，以及网站觉得有用的其他信息，除此之外，cookie还会包含一个签名，服务器可以用它来验证浏览器发生的信息是否被改动（比如cookie中的登录用户名改成另一个用户）
 

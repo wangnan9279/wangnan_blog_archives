@@ -5,11 +5,6 @@ date: 2017-05-09 11:09:29
 categories: Java
 link_title: java8-stream-use
 ---
-> 
-筛选和切片 映射 查找和匹配 规约 数值流 构建流
-
-<!--more-->
-
 # 筛选和切片
 ## 用谓词筛选
 **filter方法**
@@ -19,6 +14,8 @@ link_title: java8-stream-use
 ```java
 List<Dish> vegetarianMenu = menu.stream().filter(Dish::isVegetarian).collect(toList());
 ```
+<!--more-->
+
 ## 筛选各异的元素
 **distinct方法**
 他会返回一个元素各异的流，实现原理是根据元素的hashCode和equals方法

@@ -7,7 +7,6 @@ link_title: rabbitMQ-vhost
 ---
 > 每个RabbitMQ服务器都能创建虚拟的消息服务器，我们称之为**虚拟主机(vhost)**每一个vhost本质上是一个mini版的RabbitMQ服务器，拥有自己的队列、交换器和绑定等等
 
-<!--more-->
 
 # 多租户模式：虚拟主机和隔离
 

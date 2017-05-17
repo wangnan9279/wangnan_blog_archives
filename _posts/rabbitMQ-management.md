@@ -5,9 +5,7 @@ date: 2017-04-05 14:44:12
 categories: RabbitMQ
 link_title: rabbitMQ-management
 ---
-> RabbitMQ 服务器管理、权限设置、使用统计
 
-<!--more-->
 
 # 服务器管理
 ## 概述
@@ -17,6 +15,8 @@ Erlang天生就能够让应用程序无须知道对方是否在同一个机器�
 
 为了达到“简单分布式”，需要两个你可能不太熟悉的概念：**Erlang节点和Erlang应用程序**
 如果你熟悉java虚拟机（jvm）的话，两者是很相似的
+
+<!--more-->
 ## 启动节点
 **节点**
 节点用来指代RabbitMQ服务器实例，事实上，节点描述的是一个Erlang节点运行着一个Erlang应用程序

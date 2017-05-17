@@ -6,7 +6,7 @@ categories: 工具
 link_title: tool-Sublime-introduction
 ---
 > sublime 是一款小巧绿色且速度非常快的代码编辑器，下面介绍一下它的安装和插件的使用
-<!-- more --> 
+
 
 # 安装
 官方下载地址：http://www.sublimetext.com/3 
@@ -14,6 +14,8 @@ link_title: tool-Sublime-introduction
 # 破解
 打开sublime_text.exe，help->enter License
 附 license：
+
+<!-- more --> 
 
 > license： 
 —– BEGIN LICENSE —– 

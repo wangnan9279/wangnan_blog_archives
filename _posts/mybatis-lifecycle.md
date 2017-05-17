@@ -6,11 +6,6 @@ categories: Mybatis
 link_title: mybatis-lifecycle
 ---
 > 
-- 基本构成
-- 生命周期
-
-<!--more-->
-
 # 基本构成
 - SqlSessionFactoryBuilder(构造器):它会根据配置信息或者代码来生成SqlSessionFactory(工厂接口)
 - SqlSessionFactory:依靠工厂来生成SqlSession(会话)
@@ -19,6 +14,8 @@ link_title: mybatis-lifecycle
 
 一张图表达他们的关联：
 ![](mybatis-lifecycle/01.png)
+
+<!--more-->
 
 ## SqlSessionFactory
 - SqlSessionFactory的实例可以通过SqlSessionFactoryBuilder获得

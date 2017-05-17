@@ -7,11 +7,11 @@ link_title: elasticsearch-study-note
 ---
 > Elasticsearch是一个可伸缩的开源全文搜索和分析引擎，它使你可以快速且接近实时的去保存，查询和分析海量的数据，他的潜在应用场景是作为一些有复杂搜索功能和需求的应用的搜索引擎
 
-<!-- more -->
-
 # 简介
 Elasticsearch是一个基于Apache Lucene(TM)的开源搜索引擎。无论在开源还是专有领域，Lucene可以被认为是迄今为止最先进、性能最好的、功能最全的搜索引擎库。
 但是，Lucene只是一个库。想要使用它，你必须使用Java来作为开发语言并将其直接集成到你的应用中，更糟糕的是，Lucene非常复杂，你需要深入了解检索的相关知识来理解它是如何工作的。Elasticsearch也使用Java开发并使用Lucene作为其核心来实现所有索引和搜索的功能，但是它的目的是通过简单的RESTful API来隐藏Lucene的复杂性，从而让全文搜索变得简单。
+
+<!-- more -->
 
 ## 与关系型数据库对比
 Relational DB -> Databases -> Tables -> Rows -> Columns

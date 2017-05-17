@@ -6,12 +6,14 @@ categories: RabbitMQ
 link_title: rabbitMQ-general
 ---
 > RabbitMQ是一个开源的消息代理和队列服务器，用来通过普通协议在完全不同的应用之间共享数据，或者简单地将作业队列以便让分布式服务器进行处理
-<!--more-->
+
 
 ![](rabbitMQ-general/00.png)
 
 # RabbitMQ概述
 RabbitMQ是一个开源的消息代理和队列服务器，用来通过普通协议在完全不同的应用之间共享数据，或者简单地将作业队列以便让分布式服务器进行处理
+
+<!--more-->
 
 它现实了AMQP协议，并且遵循Mozilla Public License开源协议，它支持多种语言，可以方便的和spring集成
 

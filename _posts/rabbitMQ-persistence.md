@@ -5,9 +5,7 @@ date: 2017-04-01 13:51:23
 categories: RabbitMQ
 link_title: rabbitMQ-persistence
 ---
-> 重启RabbitMQ后，队列和交换器都会消失（随同里面的消息），原因在于每个队列和交换器的durable属性，该属性默认为false
 
-<!--more-->
 # 概述
 
 重启RabbitMQ后，队列和交换器都会消失（随同里面的消息），原因在于每个队列和交换器的durable属性，该属性默认为false
@@ -23,6 +21,7 @@ link_title: rabbitMQ-persistence
 - 到达持久化队列
 
 
+<!--more-->
 
 RabbitMQ确保持久性消息能从服务器重启中恢复的方式是,将他们写入磁盘上的一个持久化日志文件。当发布一条持久化消息到持久交换器上时，Rabbit会在消息提交到日志文件后才发送响应
 
