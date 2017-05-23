@@ -1,6 +1,6 @@
 ---
 title: RabbitMQ-理解消息通信-持久化策略
-tags: [RabbitMQ, 消息队列,《RabbitMQ实战》]
+tags: [RabbitMQ, 消息队列]
 date: 2017-04-01 13:51:23
 categories: RabbitMQ
 link_title: rabbitMQ-persistence

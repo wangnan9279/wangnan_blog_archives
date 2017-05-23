@@ -1,6 +1,6 @@
 ---
 title: Redis命令
-tags: [Redis, 缓存,《redis实战》]
+tags: [Redis, 缓存]
 date: 2017-03-17 15:59:50
 categories: Redis
 link_title: redis-command

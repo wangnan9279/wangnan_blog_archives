@@ -1,6 +1,6 @@
 ---
 title: Java8-流-简介
-tags: [Java ,Java8, 《Java8实战》]
+tags: [Java ,Java8]
 date: 2017-05-08 13:33:09
 categories: Java
 link_title: java8-stream-introduction

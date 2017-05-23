@@ -1,7 +1,7 @@
 ---
 title: Redis初识
 date: 2017-03-09 15:57:27
-tags: [Redis, 缓存, 《redis实战》]
+tags: [Redis, 缓存]
 categories: Redis
 link_title: redis-introduction
 ---

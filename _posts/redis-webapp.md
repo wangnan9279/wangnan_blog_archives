@@ -1,7 +1,7 @@
 ---
 title: 使用Redis构建web应用
 date: 2017-03-15 16:53:44
-tags: [Redis, 缓存, 《redis实战》]
+tags: [Redis, 缓存]
 categories: Redis
 link_title: redis-webapp
 ---

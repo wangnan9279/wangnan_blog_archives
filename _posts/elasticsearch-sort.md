@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch排序
-tags: [ElasticSearch, 搜索引擎, 《深入理解Elasticsearch》]
+tags: [ElasticSearch, 搜索引擎]
 date: 2017-03-21 11:02:09
 categories: ElasticSearch
 link_title: elasticsearch-sort

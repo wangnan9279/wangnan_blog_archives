@@ -1,6 +1,6 @@
 ---
 title: Java8-行为参数化
-tags: [Java ,Java8, 《Java8实战》]
+tags: [Java ,Java8]
 date: 2017-05-02 16:49:47
 categories: Java
 link_title: java8-action-as-para

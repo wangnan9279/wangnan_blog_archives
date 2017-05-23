@@ -1,6 +1,6 @@
 ---
 title: Java8-Lambda表达式
-tags: [Java ,Java8, 《Java8实战》]
+tags: [Java ,Java8]
 date: 2017-05-05 15:55:47
 categories: Java
 link_title: java8-lambda

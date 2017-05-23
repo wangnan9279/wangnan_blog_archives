@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch段合并
-tags: [ElasticSearch, 搜索引擎, 《深入理解Elasticsearch》]
+tags: [ElasticSearch, 搜索引擎]
 date: 2017-03-28 15:41:03
 categories: ElasticSearch
 link_title: elasticsearch-segment-merging

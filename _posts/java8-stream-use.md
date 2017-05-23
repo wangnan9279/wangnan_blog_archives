@@ -1,6 +1,6 @@
 ---
 title: Java8-流-使用流
-tags: [Java ,Java8, 《Java8实战》]
+tags: [Java ,Java8]
 date: 2017-05-09 11:09:29
 categories: Java
 link_title: java8-stream-use

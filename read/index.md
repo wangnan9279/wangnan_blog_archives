@@ -1,6 +1,7 @@
 ---
 title: 阅读记录
 date: 2017-03-14 17:22:39
+layout: "read"
 ---
 # todo
 ![01](index/39.png)

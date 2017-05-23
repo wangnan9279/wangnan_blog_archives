@@ -1,6 +1,6 @@
 ---
 title: Mybaits-基本构成和生命周期
-tags: [Mybatis, ORM框架, 《深入浅出MyBatis技术原理与实战》]
+tags: [Mybatis, ORM框架]
 date: 2017-04-07 14:58:53
 categories: Mybatis
 link_title: mybatis-lifecycle

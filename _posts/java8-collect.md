@@ -1,6 +1,6 @@
 ---
 title: Java8-流-用流收集数据和并行流
-tags: [Java ,Java8, 《Java8实战》]
+tags: [Java ,Java8]
 date: 2017-05-11 14:47:21
 categories: Java
 link_title: java8-collect

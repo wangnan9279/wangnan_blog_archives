@@ -1,6 +1,6 @@
 ---
 title: Java8-概述
-tags: [Java ,Java8, 《Java8实战》]
+tags: [Java ,Java8]
 date: 2017-04-21 16:52:18
 categories: Java
 link_title: java8-general

@@ -1,6 +1,6 @@
 ---
 title: Mybaits-Java ORM来源于历史、Hibernate和MyBatis比较
-tags: [Mybatis, ORM框架, 《深入浅出MyBatis技术原理与实战》]
+tags: [Mybatis, ORM框架]
 date: 2017-04-06 16:17:20
 categories: Mybatis
 link_title: mybtis-introduction

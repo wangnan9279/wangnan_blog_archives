@@ -1,7 +1,7 @@
 ---
 title: Elasticsearch简介
 date: 2017-03-08 12:31:23
-tags: [ElasticSearch, 搜索引擎, 《深入理解Elasticsearch》]
+tags: [ElasticSearch, 搜索引擎]
 categories: ElasticSearch
 link_title: elasticsearch-introduction
 ---
