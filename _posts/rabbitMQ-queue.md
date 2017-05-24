@@ -5,6 +5,7 @@ date: 2017-03-30 16:44:06
 categories: RabbitMQ
 link_title: rabbitMQ-queue
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 
 # 队列

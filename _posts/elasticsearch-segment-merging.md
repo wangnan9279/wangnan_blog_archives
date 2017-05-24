@@ -5,6 +5,7 @@ date: 2017-03-28 15:41:03
 categories: ElasticSearch
 link_title: elasticsearch-segment-merging
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > elasticsearch 中每个索引都会创建一个到多个**分片**和零个到多个**副本**，这些分片或副本实质上都是**lucene索引**
 
 **lucene索引**是基于多个索引段创建，索引文件中绝大部分数据都是只写一次，读多次，而只有用于保存文档删除信息的文件才会被多次更改

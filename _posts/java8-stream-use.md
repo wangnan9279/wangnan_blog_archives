@@ -5,6 +5,7 @@ date: 2017-05-09 11:09:29
 categories: Java
 link_title: java8-stream-use
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 # 筛选和切片
 ## 用谓词筛选
 **filter方法**

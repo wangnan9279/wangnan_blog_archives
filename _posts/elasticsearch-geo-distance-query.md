@@ -5,6 +5,7 @@ date: 2017-03-17 13:50:17
 categories: ElasticSearch
 link_title: elasticsearch-geo-distance-query
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > ## 官方文档：
 https://www.elastic.co/guide/en/elasticsearch/reference/2.4/query-dsl-geo-distance-query.html#_geohash_3
 

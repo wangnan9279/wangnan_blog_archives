@@ -1,6 +1,4 @@
 ---
-title: about
-date: 2017-03-08 14:09:41
 ---
 
 <img src="index/00.png" width = "400" height = "1200" alt="test" align=center />

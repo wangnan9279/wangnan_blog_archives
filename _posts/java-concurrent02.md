@@ -5,6 +5,7 @@ tags: [Java, 并发, 多线程]
 categories: Java
 link_title: java-concurrent02
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/java.png)
 # 休眠
 
 影响任务的一种简单方式是调用sleep（），这将使任务中止执行给定的时间。 

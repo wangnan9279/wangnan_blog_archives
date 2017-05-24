@@ -5,7 +5,7 @@ date: 2017-04-10 14:26:18
 categories: Mybatis
 link_title: mybatis-config
 ---
-
+![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 Mybatis配置XML文件的层次结构
 
 ![](mybatis-config/01.png)

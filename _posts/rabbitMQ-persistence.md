@@ -5,6 +5,7 @@ date: 2017-04-01 13:51:23
 categories: RabbitMQ
 link_title: rabbitMQ-persistence
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 # 概述
 

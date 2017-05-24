@@ -5,6 +5,9 @@ date: 2017-04-17 15:44:39
 categories: Mybatis
 link_title: mybaits-sql
 ---
+
+![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
+
 如果使用JDBC或者其他框架，很多时候你得根据需要去拼装SQL,这是一个麻烦的事情，mybatis提供对sql语句动态的组装能力。大部分判断可以在mybatis的映射XML文件里面配置
 
 mybatis也可以在注解中配置SQL，但是由于注解配置功能受限，对于复杂SQL而言可读性差，较少使用

@@ -5,6 +5,7 @@ date: 2017-03-27 17:44:54
 categories: ElasticSearch
 link_title: elasticsearch-index-control
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 >   如何使用不同评分公式及其特性
     如何使用不同的倒排表格式极其特性
     如何处理准实时搜索、实时读取、以及搜索器重新打开之后的动作

@@ -5,6 +5,7 @@ date: 2017-03-31 10:54:20
 categories: RabbitMQ
 link_title: rabbitMQ-exchange
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 # 交换器和绑定
 

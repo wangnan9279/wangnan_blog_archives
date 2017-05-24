@@ -5,6 +5,7 @@ date: 2017-04-13 13:40:42
 categories: Mybatis
 link_title: mybatis-mapper
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 # 映射器主要元素
 - select  查询（可以自定义参数,返回结果集）
 - insert 插入（执行后返回一个整数，代表插入的条数）

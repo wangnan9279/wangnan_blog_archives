@@ -5,6 +5,7 @@ date: 2017-04-05 14:44:12
 categories: RabbitMQ
 link_title: rabbitMQ-management
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 
 # 服务器管理

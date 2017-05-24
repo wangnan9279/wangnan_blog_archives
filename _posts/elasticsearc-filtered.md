@@ -5,6 +5,8 @@ date: 2017-03-23 16:12:14
 categories: ElasticSearch
 link_title: elasticsearc-filtered
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
+
 > elasticsearch提供了一种特殊的缓存，即过滤器缓存（filter cache），用来储存过滤器的结果
 
 

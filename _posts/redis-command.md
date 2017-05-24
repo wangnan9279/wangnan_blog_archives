@@ -5,7 +5,11 @@ date: 2017-03-17 15:59:50
 categories: Redis
 link_title: redis-command
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
+
+
 >字符串 列表 集合 散列 有序集合
+
 
 <!-- more -->
 

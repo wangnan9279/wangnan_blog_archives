@@ -5,6 +5,7 @@ date: 2017-03-30 11:07:25
 categories: RabbitMQ
 link_title: rabbitMQ-producer-consumer
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 
 # 消费者和生产者

@@ -5,7 +5,7 @@ date: 2017-04-21 16:52:18
 categories: Java
 link_title: java8-general
 ---
-
+![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 # 1.概述
 **为什么你应该关系java8？**
 - 因为java8所做的改变，在许多方面比java历史上任何一次改变都深远

@@ -5,6 +5,7 @@ date: 2017-03-20 16:33:12
 categories: ElasticSearch
 link_title: elasticsearch-rescore
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 >二次评分给了用户很多机会来定制业务逻辑
 
 

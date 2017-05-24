@@ -5,6 +5,7 @@ date: 2017-03-22 16:26:59
 categories: ElasticSearch
 link_title: elasticsearch-update
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > 
 - 简单字段更新
 - 使用脚本按条件更新

@@ -5,6 +5,7 @@ date: 2017-04-07 14:58:53
 categories: Mybatis
 link_title: mybatis-lifecycle
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > 
 # 基本构成
 - SqlSessionFactoryBuilder(构造器):它会根据配置信息或者代码来生成SqlSessionFactory(工厂接口)

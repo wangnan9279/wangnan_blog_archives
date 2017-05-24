@@ -5,6 +5,7 @@ tags: [ElasticSearch, 搜索引擎]
 categories: ElasticSearch
 link_title: elasticsearch-introduction
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > elasticsearch是一个可用于构建搜索应用的成品软件，区别去lucene这种中间件
 
 

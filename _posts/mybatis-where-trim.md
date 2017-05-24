@@ -5,6 +5,7 @@ date: 2017-03-16 16:11:20
 categories: Mybatis
 link_title: mybatis-where-trim
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > 今天遇到一个场景需要写一个这样的查询语句：
 用户对象userInfo包含下面几个字段： 
 userName phone email qqId weiboId wxId

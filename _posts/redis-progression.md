@@ -5,6 +5,7 @@ date: 2017-03-17 16:20:39
 categories: Redis
 link_title: redis-progression
 ---
+http://onxkn9cbz.bkt.clouddn.com/redis.png
 > 减低内存占用 扩展Redis
 
 <!-- more -->

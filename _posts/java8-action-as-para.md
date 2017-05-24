@@ -5,6 +5,7 @@ date: 2017-05-02 16:49:47
 categories: Java
 link_title: java8-action-as-para
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 > 在软件工程中，一个众所周知的问题就是，不管你做什么，用户的需求肯定会变
 行为参数化就是可以帮助你处理频繁变更需求的一种软件开发模式。
 

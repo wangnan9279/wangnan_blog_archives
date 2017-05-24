@@ -5,6 +5,7 @@ tags: [Java, 并发]
 categories: Java
 link_title: java-ThreadLocal
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/java.png)
 > ThreadLocal在Spring中发挥着重要的作用，在管理request作用域的Bean、事务管理、任务调度、AOP等模块都出现了它们的身影，起着举足轻重的作用。要想了解Spring事务管理的底层技术，ThreadLocal是必须攻克的山头堡垒。
 <!-- more -->
 

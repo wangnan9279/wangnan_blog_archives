@@ -5,6 +5,7 @@ date: 2017-03-17 16:14:12
 categories: Redis
 link_title: redis-data-safety
 ---
+http://onxkn9cbz.bkt.clouddn.com/redis.png
 
 ## 持久化选项
 ![01](redis-data-safety/01.png)
