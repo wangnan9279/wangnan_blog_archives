@@ -5,7 +5,8 @@ tags: [Redis, 缓存]
 categories: Redis
 link_title: redis-webapp
 ---
-http://onxkn9cbz.bkt.clouddn.com/redis.png
+![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
+
 ## 目录
 ![01](redis-webapp/00.png)
 

@@ -5,6 +5,8 @@ date: 2017-04-17 16:02:42
 categories: 鸡汤
 link_title: soup06
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/photo08.jpg)
+
 - 事实越是明白无误，真实便越加渐行渐远。----《1Q84》
 
 - “做不到”这句话，是只有实际做过的人才有资格说的.

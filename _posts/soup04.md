@@ -5,6 +5,8 @@ date: 2017-04-10 14:52:52
 categories: 鸡汤
 link_title: soup04
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/photo02.jpg)
+
 - 种树的最佳时间是20年前，仅此于它的最佳时间是现在
 
 

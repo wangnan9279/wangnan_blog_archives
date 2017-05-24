@@ -5,6 +5,8 @@ tags: [鸡汤]
 categories: [鸡汤]
 link_title: soup12
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/photo02.jpg)
+
 - 要想做一个与众不同的人，就必须跳出习惯的思维模式，抛开人为的布局，敢于去怀疑一切--爱因斯坦
  
 - 人有两条路要走，一条是必须走的，一条是想走的，

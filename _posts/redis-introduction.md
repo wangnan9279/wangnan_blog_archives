@@ -5,7 +5,7 @@ tags: [Redis, 缓存]
 categories: Redis
 link_title: redis-introduction
 ---
-http://onxkn9cbz.bkt.clouddn.com/redis.png
+![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
 > redis是一个速度非常快的非关系数据库，他可以存储键与5种不同类型的值之间的映射，可以将储存在内存的键值对持久化到硬盘，可以使用复制特性来扩展读性能，还可以使用客户端分片来扩展读性能
 
 

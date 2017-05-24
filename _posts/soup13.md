@@ -5,6 +5,7 @@ tags: [鸡汤]
 categories: [鸡汤]
 link_title: soup13
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/photo01.jpg)
 
 - 春娇与志明
 我小时候就很喜欢吃便利店的肉酱意粉

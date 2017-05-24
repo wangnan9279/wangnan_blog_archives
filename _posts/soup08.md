@@ -5,6 +5,8 @@ date: 2017-05-05 15:53:17
 categories: 鸡汤
 link_title: soup08
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/photo06.jpg)
+
 - 成熟的标志不是会说大道理，而是你开始去理解，身边的小事情。
 
 - 如果说我有优势的话，优势即是我没有可以失去的东西。——村上春树

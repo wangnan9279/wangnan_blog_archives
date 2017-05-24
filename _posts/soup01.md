@@ -5,6 +5,8 @@ date: 2017-04-05 15:36:30
 categories: 鸡汤
 link_title: soup01
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/photo05.jpg)
+
 - 马云说，十年以后中国最大的两个产业，是健康产业（Health）和文娱产业（Happy），简称"双H产业"。前者让人民更健康，后者让人民更快乐。
 
 

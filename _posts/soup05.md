@@ -5,6 +5,9 @@ date: 2017-04-12 10:47:58
 categories: 鸡汤
 link_title: soup05
 ---
+
+![](http://onxkn9cbz.bkt.clouddn.com/photo01.jpg)
+
 - 人们嫉妒的不是远远超过自己的人，往往是身边的略微比自己强的人。
 
 

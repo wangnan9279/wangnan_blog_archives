@@ -5,6 +5,7 @@ date: 2017-05-22 16:07:32
 categories: [鸡汤]
 link_title: soup11
 ---
+![](http://onxkn9cbz.bkt.clouddn.com/photo03.jpg)
 
 - 不解释就弄不懂的事，就意味着怎样解释也弄不懂。----村上春树
 
