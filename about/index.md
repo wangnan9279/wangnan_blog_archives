@@ -1,7 +1,6 @@
-</br>
 <blockquote class="blockquote-center">种树的最佳时间是20年前，仅次于它的最佳时间是现在。</blockquote>
-</br>
 ## 关于我
+![](http://i1.piimg.com/4851/31778c12d0ac20b0.gif)
 王楠 90后 巨蟹男 现居南京
 ## 居住地
 江苏南京
@@ -14,8 +13,7 @@ QQ：825130702
 Email:wn9279@qq.com
 ## 感谢
 我最可爱的老婆
-<img src="index/00.png" width = "400" height = "1200" alt="2gether thru life" align=center />
-![](http://i1.piimg.com/4851/31778c12d0ac20b0.gif)
+<img src="index/00.png" width = "400" height = "400" alt="2gether thru life" align=center />
 > 最近访客
 <div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>
 
