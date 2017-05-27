@@ -4,6 +4,7 @@ tags: [Java ,Java8]
 date: 2017-05-08 13:33:09
 categories: Java
 link_title: java8-stream-introduction
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 > 几乎每个java应用程序都会制造和处理集合，要是没有集合，还能做什么呢？尽管集合对于几乎任何一个java应用都是不可或缺的，但是集合操作却远远算不上完美

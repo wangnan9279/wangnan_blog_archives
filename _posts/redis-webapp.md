@@ -4,6 +4,7 @@ date: 2017-03-15 16:53:44
 tags: [Redis, 缓存]
 categories: Redis
 link_title: redis-webapp
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
 

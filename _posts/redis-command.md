@@ -4,6 +4,7 @@ tags: [Redis, 缓存]
 date: 2017-03-17 15:59:50
 categories: Redis
 link_title: redis-command
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
 

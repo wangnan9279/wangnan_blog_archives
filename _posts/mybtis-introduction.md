@@ -4,6 +4,7 @@ tags: [Mybatis, ORM框架]
 date: 2017-04-06 16:17:20
 categories: Mybatis
 link_title: mybtis-introduction
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > 主要介绍了Java ORM来源于历史，JDBC、Hibernate和MyBatis的优缺点，比较他们之间区别和应用场景

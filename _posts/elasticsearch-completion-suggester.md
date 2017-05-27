@@ -4,6 +4,7 @@ tags: [ElasticSearch, 搜索引擎]
 date: 2017-03-17 14:37:49
 categories: ElasticSearch
 link_title: elasticsearch-completion-suggester
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 ## 1.mapping

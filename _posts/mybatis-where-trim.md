@@ -4,6 +4,7 @@ tags: [Mybatis, ORM框架]
 date: 2017-03-16 16:11:20
 categories: Mybatis
 link_title: mybatis-where-trim
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > 今天遇到一个场景需要写一个这样的查询语句：

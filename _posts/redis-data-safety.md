@@ -4,6 +4,7 @@ tags: [Redis, 缓存]
 date: 2017-03-17 16:14:12
 categories: Redis
 link_title: redis-data-safety
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
 

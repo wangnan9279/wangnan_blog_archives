@@ -4,6 +4,7 @@ tags: [Java ,Java8]
 date: 2017-05-05 15:55:47
 categories: Java
 link_title: java8-lambda
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 > Lambda表达式，它可以很简洁地表示一个行为或传递代码，现在你可以把Lambda表达式看作匿名功能，它基本上就是没有声明名称的方法，但和匿名类一样，它也可以作为参数传递给一个方法

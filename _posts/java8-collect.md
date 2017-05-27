@@ -4,6 +4,7 @@ tags: [Java ,Java8]
 date: 2017-05-11 14:47:21
 categories: Java
 link_title: java8-collect
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 # 收集器简介

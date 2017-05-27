@@ -4,6 +4,7 @@ date: 2017-03-10 16:23:13
 tags: [Sublime]
 categories: 工具
 link_title: tool-Sublime-introduction
+toc: true
 ---
 > sublime 是一款小巧绿色且速度非常快的代码编辑器，下面介绍一下它的安装和插件的使用
 

@@ -4,6 +4,7 @@ tags: [Mybatis, ORM框架]
 date: 2017-04-10 14:26:18
 categories: Mybatis
 link_title: mybatis-config
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 Mybatis配置XML文件的层次结构

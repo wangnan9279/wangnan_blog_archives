@@ -4,6 +4,7 @@ tags: [ElasticSearch, 搜索引擎]
 date: 2017-03-22 16:26:59
 categories: ElasticSearch
 link_title: elasticsearch-update
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > 

@@ -4,6 +4,7 @@ tags: [Java ,Java8]
 date: 2017-04-21 16:52:18
 categories: Java
 link_title: java8-general
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 # 1.概述

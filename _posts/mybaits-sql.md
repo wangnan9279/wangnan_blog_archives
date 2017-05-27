@@ -4,6 +4,7 @@ tags: [Mybatis, ORM框架]
 date: 2017-04-17 15:44:39
 categories: Mybatis
 link_title: mybaits-sql
+toc: true
 ---
 
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)

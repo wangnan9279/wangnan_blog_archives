@@ -4,6 +4,7 @@ tags: [ElasticSearch, 搜索引擎]
 date: 2017-03-21 10:10:02
 categories: ElasticSearch
 link_title: elasticsearch-bulk
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > elasticsearch提供了批量操作来读取数据和检索

@@ -14,7 +14,5 @@ Email:wn9279@qq.com
 ## 感谢
 我最可爱的老婆
 <img src="index/00.png" width = "400" height = "400" alt="2gether thru life" align=center />
-> 最近访客
-<div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>
 
 

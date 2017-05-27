@@ -4,6 +4,7 @@ tags: [ElasticSearch, 搜索引擎, Lucene]
 date: 2017-03-17 11:24:39
 categories: ElasticSearch
 link_title: elasticsearch-lucene-score-rule
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 # lucene默认评分机制：TF/IDF(词频/逆文档频率)算法默认评分公式解释

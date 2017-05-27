@@ -4,6 +4,7 @@ tags: [Java ,Java8]
 date: 2017-05-09 11:09:29
 categories: Java
 link_title: java8-stream-use
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 # 筛选和切片

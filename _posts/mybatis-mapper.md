@@ -4,6 +4,7 @@ tags: [Mybatis, ORM框架]
 date: 2017-04-13 13:40:42
 categories: Mybatis
 link_title: mybatis-mapper
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 # 映射器主要元素

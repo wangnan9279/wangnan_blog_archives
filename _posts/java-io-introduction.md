@@ -4,6 +4,7 @@ tags: [Java, IO]
 date: 2017-03-16 16:44:54
 categories: Java
 link_title: java-io-introduction
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/java.png)
 > 学习Java中的IO，首先要理解Java中IO的流模型。

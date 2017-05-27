@@ -4,6 +4,7 @@ date: 2017-03-09 17:35:41
 tags: [Mybatis, ORM框架, Java]
 categories: Mybatis
 link_title: mybatis-getting-started
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > MyBatis 是支持定制化 SQL、存储过程以及高级映射的优秀的持久层框架。

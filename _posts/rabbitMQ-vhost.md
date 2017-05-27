@@ -4,6 +4,7 @@ tags: [RabbitMQ, 消息队列]
 date: 2017-04-01 10:35:48
 categories: RabbitMQ
 link_title: rabbitMQ-vhost
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 

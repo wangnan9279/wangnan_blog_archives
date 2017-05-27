@@ -4,6 +4,7 @@ tags: [ElasticSearch, 搜索引擎]
 date: 2017-03-17 14:51:47
 categories: ElasticSearch
 link_title: elasticsearch-study-note
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > Elasticsearch是一个可伸缩的开源全文搜索和分析引擎，它使你可以快速且接近实时的去保存，查询和分析海量的数据，他的潜在应用场景是作为一些有复杂搜索功能和需求的应用的搜索引擎

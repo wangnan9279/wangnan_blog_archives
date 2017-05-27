@@ -4,6 +4,7 @@ tags: [Mybatis, ORM框架]
 date: 2017-03-20 15:19:03
 categories: Mybatis
 link_title: mybatis-cache
+toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > MyBatis提供一级缓存和二级缓存，其中一级缓存是sqlSession级别的缓存，不同的sqlSession之间的缓存互不影响。二级缓存是Mapper级别的缓存，多个sqlSession操作同一个Mapper，其二级缓存是可以共享的。
