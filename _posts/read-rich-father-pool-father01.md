@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 《富爸爸穷爸爸》读书笔记之序言
+title: 《富爸爸穷爸爸》读书笔记-序言
 date: 2017-05-26 09:43:43
 tags: [读书笔记, 理财]
 categories: 读书笔记
 link_title: read-rich-father-pool-father01
 ---
-![](http://onxkn9cbz.bkt.clouddn.com/10.jpg)
+![](http://onxkn9cbz.bkt.clouddn.com/02.jpg)
 
 - 得到好的教育和好的成绩不再能确保成功了。而孩子们似乎比我们先意识到了这一点。
 
