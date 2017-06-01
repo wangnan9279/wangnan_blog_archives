@@ -11,6 +11,8 @@ toc: true
 **为什么你应该关系java8？**
 - 因为java8所做的改变，在许多方面比java历史上任何一次改变都深远
 
+<!--more-->
+
 再也不哟写下面这种啰嗦的程序了(按苹果重量排序)
 ```
 Collections.sort(inventory,new Comparator<Apple>)(){
@@ -30,7 +32,7 @@ java8对cpu核的利用率提高.
 - 把代码传递给方法的简洁方式(方法引用，Lambda)，行为参数化
 - 接口中的默认方法
 
-<!--more-->
+
 
 # 2.java怎么还在变
 ## java在编程语言生态生态系统中的位置

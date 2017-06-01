@@ -13,11 +13,12 @@ toc: true
 - SqlSessionFactory:依靠工厂来生成SqlSession(会话)
 - SqlSession:是一个既可以发送SQL去执行并返回结果，也可以获取Mapper的接口
 - SQL Mapper:它是Mybatis新设计的组件，它是由一个java接口和xml文件（或注解）构成的，需要给出对应的sql和映射规则，它负责发送SQL去执行，并返回结果
+<!--more-->
 
 一张图表达他们的关联：
 ![](mybatis-lifecycle/01.png)
 
-<!--more-->
+
 
 ## SqlSessionFactory
 - SqlSessionFactory的实例可以通过SqlSessionFactoryBuilder获得

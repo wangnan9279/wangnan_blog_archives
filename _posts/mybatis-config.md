@@ -9,11 +9,13 @@ toc: true
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 Mybatis配置XML文件的层次结构
 
+<!--more-->
+
 ![](mybatis-config/01.png)
 
 这些层次是不能够颠倒顺序的，如果颠倒顺序，mybatis解析xml文件时会出现异常
 
-<!--more-->
+
 
 # properties元素
 

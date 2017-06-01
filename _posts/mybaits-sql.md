@@ -13,11 +13,12 @@ toc: true
 
 mybatis也可以在注解中配置SQL，但是由于注解配置功能受限，对于复杂SQL而言可读性差，较少使用
 
+<!--more-->
 # 概述
 动态SQL包括以下几种元素
 ![](mybaits-sql/01.png)
 
-<!--more-->
+
 
 # if
 if元素是最常用的判断语句，它常常与test属性联合使用

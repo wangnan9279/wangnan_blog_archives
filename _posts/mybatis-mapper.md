@@ -7,6 +7,9 @@ link_title: mybatis-mapper
 toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
+
+
+
 # 映射器主要元素
 - select  查询（可以自定义参数,返回结果集）
 - insert 插入（执行后返回一个整数，代表插入的条数）
@@ -17,8 +20,8 @@ toc: true
 - resultMap 从结果集中加载对象，提供映射规则
 - cache 给定命名空间的缓存配置
 - cache-ref 其他命名空间缓存配置
-
 <!--more-->
+
 
 # select
 ## 配置

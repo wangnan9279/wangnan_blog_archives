@@ -8,9 +8,10 @@ toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
 
+<!-- more -->
 ## 持久化选项
 ![01](redis-data-safety/01.png)
-<!-- more -->
+
 ## 复制
 ![02](redis-data-safety/02.png)
 ## 处理系统故障

@@ -10,6 +10,8 @@ toc: true
 # 休眠
 
 影响任务的一种简单方式是调用sleep（），这将使任务中止执行给定的时间。 
+<!-- more -->
+
 例程：
 ```java
 //: concurrency/SleepingTask.java
@@ -42,7 +44,7 @@ public class SleepingTask extends LiftOff {
 ```
 对sleep的调用可以抛出InterruptedException异常，并且你可以看到，它在main()中被捕获，因为异常不能跨越线程传播回main()，所以你必须在本地处理所有在任务内部产生的异常。
 
-<!-- more -->
+
 # 优先级
 线程的优先级先线程的重要性传递给调度器，尽管cpu处理现有线程集的顺序是不确定的，但是调度器更倾向于让优先级更高的线程先执行。线程优先级较低的线程不是不执行，仅仅是执行的频率较低。
 

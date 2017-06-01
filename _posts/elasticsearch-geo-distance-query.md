@@ -10,7 +10,7 @@ toc: true
 > ## 官方文档：
 https://www.elastic.co/guide/en/elasticsearch/reference/2.4/query-dsl-geo-distance-query.html#_geohash_3
 
-
+<!-- more -->
 
 ## 索引mapping定义:
 索引中定义一个字段pin，添加一个属性location，type为geo_point
@@ -23,7 +23,7 @@ https://www.elastic.co/guide/en/elasticsearch/reference/2.4/query-dsl-geo-distan
 		  }
 		}
 
-<!-- more -->
+
 ## DSL:
 报文中的包含一个match all的query  , filter中的distance指定了距离范围，pin.location是经纬度
 

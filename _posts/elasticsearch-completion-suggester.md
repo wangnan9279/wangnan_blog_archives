@@ -7,6 +7,8 @@ link_title: elasticsearch-completion-suggester
 toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
+
+<!--more -->
 ## 1.mapping
     curl -XPUT 192.168.0.1:9200/person -d'  //新建一个persion的索引
     {
@@ -27,7 +29,7 @@ toc: true
        }
     }'
 	
-<!--more -->
+
 
 ## 2 .添加测试数据
 

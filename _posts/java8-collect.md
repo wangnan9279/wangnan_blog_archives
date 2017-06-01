@@ -12,11 +12,13 @@ toc: true
 
 Collectors实用类提供了很多静态工程方法，可以方便地创建常用收集器的实例，只要拿来用就可以了
 
+<!--more-->
+
 最常用的是toList方法，它会把流收集到一个List中：
 ```java
 List<Transcation> transactions = transcationStream.collect(Collectors.toList());
 ```
-<!--more-->
+
 
 ## 预定义收集器
 Collectors类提供的工厂方法（例如groupingBy）创建的收集器，他们主要提供了三大功能：

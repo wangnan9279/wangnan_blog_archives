@@ -12,11 +12,13 @@ toc: true
 **filter方法**
 会接收一个谓词（一个返回Boolean）作为参数，并返回一个包括所有符号谓词的元素的流
 
+<!--more-->
+
 例子:筛选所有的素菜
 ```java
 List<Dish> vegetarianMenu = menu.stream().filter(Dish::isVegetarian).collect(toList());
 ```
-<!--more-->
+
 
 ## 筛选各异的元素
 **distinct方法**

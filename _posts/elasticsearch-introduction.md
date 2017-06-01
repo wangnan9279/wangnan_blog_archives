@@ -9,12 +9,12 @@ toc: true
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > elasticsearch是一个可用于构建搜索应用的成品软件，区别去lucene这种中间件
 
-
+<!-- more --> 
 ## Apache Lucence简介
 
 ### 为什么elasticsearch创始人觉得使用lucene而不是自己开发全文检索库？
 可能是因为lucene的成熟，高性能，可扩展以及强大的功能，得到创始人的青睐，lucene有很多扩展功能，如 多语言处理，拼写检查，高亮显示等
-<!-- more --> 
+
 ### lucene总体架构
 文档（document）,字段(field),词项(term)，词条(token)
 

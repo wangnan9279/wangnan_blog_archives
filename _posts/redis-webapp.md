@@ -8,6 +8,8 @@ toc: true
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
 
+<!-- more -->
+
 ## 目录
 ![01](redis-webapp/00.png)
 
@@ -16,7 +18,7 @@ cookie：当我们登录互联网服务的时候，这些服务都会使用cooki
 
 对于用来登录的cookie，有两种方法可以将登录信息储存在cookie里面，一种是签名（signed）cookie一种是令牌（token）cookie
 
-<!-- more -->
+
 
 签名cookie通常会储存用户名，还可能有用户ID，用户最后一次成功登录的时间，以及网站觉得有用的其他信息，除此之外，cookie还会包含一个签名，服务器可以用它来验证浏览器发生的信息是否被改动（比如cookie中的登录用户名改成另一个用户）
 
