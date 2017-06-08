@@ -1,8 +1,8 @@
 ---
-title: 《重新定义公司：谷歌是如何运营的》读书笔记
-tags: [读书笔记]
+title: 《重新定义公司：谷歌是如何运营的》书摘
+tags: [书摘]
 date: 2017-03-28 17:25:23
-categories: 读书笔记
+categories: 书摘
 link_title: read-how-google-work
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/photo06.jpg)

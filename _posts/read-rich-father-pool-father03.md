@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 《富爸爸穷爸爸》读书笔记-富人不为钱工作
+title: 《富爸爸穷爸爸》书摘-富人不为钱工作
 date: 2017-05-31 11:03:39
-tags: [读书笔记, 理财]
-categories: 读书笔记
+tags: [书摘, 理财]
+categories: 书摘
 comments: true
 link_title: read-rich-father-pool-father03
 ---

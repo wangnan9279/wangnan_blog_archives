@@ -1,8 +1,8 @@
 ---
-title: 《年轻可以一无所有》读书笔记
+title: 《年轻可以一无所有》书摘
 date: 2017-03-15 16:45:10
-tags: [读书笔记]
-categories: 读书笔记
+tags: [书摘]
+categories: 书摘
 link_title: read-youth
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/photo08.jpg)

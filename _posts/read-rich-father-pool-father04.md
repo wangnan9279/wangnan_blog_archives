@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 《富爸爸穷爸爸》读书笔记-为什么要教授财务知识
+title: 《富爸爸穷爸爸》书摘-为什么要教授财务知识
 date: 2017-06-01 10:48:23
-tags: [读书笔记, 理财]
-categories: 读书笔记
+tags: [书摘, 理财]
+categories: 书摘
 comments: true
 link_title: read-rich-father-pool-father04
 ---

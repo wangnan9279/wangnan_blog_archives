@@ -1,8 +1,8 @@
 ---
-title: 《像程序员一样思考》读书笔记
+title: 《像程序员一样思考》书摘
 date: 2017-03-13 11:35:48
-tags: [读书笔记]
-categories: 读书笔记
+tags: [书摘]
+categories: 书摘
 link_title: read-think-like-programmer
 ---
 ![01](read-think-like-programmer/01.png)

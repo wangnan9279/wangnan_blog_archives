@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 《富爸爸穷爸爸》读书笔记-序言
+title: 《富爸爸穷爸爸》书摘-序言
 date: 2017-05-26 09:43:43
-tags: [读书笔记, 理财]
-categories: 读书笔记
+tags: [书摘, 理财]
+categories: 书摘
 link_title: read-rich-father-pool-father01
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/02.jpg)

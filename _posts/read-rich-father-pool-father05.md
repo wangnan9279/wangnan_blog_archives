@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 《富爸爸穷爸爸》读书笔记-关注自己的事业
+title: 《富爸爸穷爸爸》书摘-关注自己的事业
 date: 2017-06-02 11:02:02
-tags: [读书笔记, 理财]
-categories: 读书笔记
+tags: [书摘, 理财]
+categories: 书摘
 comments: true
 link_title: read-rich-father-pool-father05
 ---
