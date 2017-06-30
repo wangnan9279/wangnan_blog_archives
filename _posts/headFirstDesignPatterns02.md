@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《Head First 设计模式》书摘-装饰者模式/抽象工厂模式/工厂方法模式
+title: 《HeadFirst设计模式》书摘-装饰者模式/抽象工厂模式/工厂方法模式
 date: 2017-06-13 16:00:52
 tags: [设计模式]
 categories: 设计模式
@@ -9,11 +9,10 @@ toc: true
 link_title: headFirstDesignPatterns02
 ---
 ![](http://onxkn9cbz.bkt.clouddn.com/dp02.jpg)
+<!--more-->
 # 装饰者模式
 ## 定义
 动态地将责任附加到对象上，想要扩展功能，装饰者提供有别于继承的另一种选择
-
-<!--more-->
 
 ## get到的oo原则
 - 对扩展开放，对修改关闭
