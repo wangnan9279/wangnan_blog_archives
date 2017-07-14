@@ -1,15 +1,18 @@
 ---
 layout: post
 title: 《富爸爸穷爸爸-财务自由之路》书摘
-date: 2017-06-30 14:36:05
+date: 2017-05-23 14:36:05
 tags: [书摘, 理财]
 categories: 书摘
-comments: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/18.jpg
+thumbnailImagePosition: left
 link_title: rich-father-pool-father-financial-free
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/18.jpg)
-<!--more-->
-着富爸爸的成功,他的闲暇却越来越多。我之所以学习到很多关于金钱、财务、商
+
+随着富爸爸的成功,他的闲暇却越来越多。我之所以学习到很多关于金钱、财务、商
 业和生活的知识,原因之一在于我的富爸爸有越来越多的自由时间陪伴我和他的孩子们。
 
 “如果你想成为人群的领导者,那么你首先需要成为语言的主人。”所以,

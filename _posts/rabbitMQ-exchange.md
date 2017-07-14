@@ -1,11 +1,14 @@
 ---
 title: RabbitMQ-理解消息通信-交换器和绑定
 tags: [RabbitMQ, 消息队列]
-date: 2017-03-31 10:54:20
+date: 2016-11-03 10:54:20
 categories: RabbitMQ
 link_title: rabbitMQ-exchange
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 # 交换器和绑定

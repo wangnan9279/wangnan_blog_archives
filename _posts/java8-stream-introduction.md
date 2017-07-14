@@ -1,15 +1,16 @@
 ---
 title: Java8-流-简介
 tags: [Java ,Java8]
-date: 2017-05-08 13:33:09
+date: 2017-02-03 13:33:09
 categories: Java
 link_title: java8-stream-introduction
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java8.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 > 几乎每个java应用程序都会制造和处理集合，要是没有集合，还能做什么呢？尽管集合对于几乎任何一个java应用都是不可或缺的，但是集合操作却远远算不上完美
-
-<!--more-->
 
 - 很多业务逻辑都涉及类似于数据库的操作，比如对几道菜按照类别进行分组，查找出最贵的菜，大部分数据库都允许你声明式地指定这些操作，你不需要实现如何筛选，你只需要表达你想要的，都替你办好了，**怎么到了集合就不能这样了呢？**
 - **如果要处理大量元素该怎么办？为了提高性能，你需要并行处理** ，并利用多核架构，但是写并行代码比迭代器还复制，调试困难

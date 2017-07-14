@@ -1,10 +1,14 @@
 ---
 title: 《年轻可以一无所有》书摘
-date: 2017-03-15 16:45:10
+date: 2016-06-28 16:45:10
 tags: [书摘]
 categories: 书摘
 link_title: read-youth
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/photo08.jpg
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/photo08.jpg)
 
 
@@ -16,7 +20,6 @@ link_title: read-youth
 
 大家总是盯着自己没有的东西，并为之死去活来的争，恨不得把什么都搭上，却不珍视自己所拥有的，不觉得那有什么价值。《纽约时报》著名专栏作家戴维布鲁克斯又一次吐露了真言：大概所以功成名就的中年人，都宁愿把自己的金钱和地位统统放弃来换回年轻！
 
-<!-- more -->
 
 但我知道有两样东西属于我的私有产权，别人想侵占也不可能：一是知识，一是健康。我正式因为精心守护这两样东西，而碰到了后来成为妻子的美丽女友–对方居然和我一样一无所有。
 

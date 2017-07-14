@@ -1,11 +1,14 @@
 ---
 title: Elasticsearch如何评分?-Apache Lucene默认评分公式解释
 tags: [ElasticSearch, 搜索引擎, Lucene]
-date: 2017-03-17 11:24:39
+date: 2016-07-28 11:24:39
 categories: ElasticSearch
 link_title: elasticsearch-lucene-score-rule
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png	
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 # lucene默认评分机制：TF/IDF(词频/逆文档频率)算法默认评分公式解释
 
@@ -13,7 +16,6 @@ toc: true
 ## 何时文档被匹配上
 当一个文档经过lucene返回，则意味着该文档与用户提交的查询时匹配的，在这种情况下，每个返回的文档都会有一个得分，得分越高，文档相关度更高，但是，**同一个文档针对不同查询的得分是不同的，比较某个文档在不同查询中的分数是没有意义的**，这是因为文档得分依赖多个因子，除了权重和查询本身的结构，还包括匹配的词项的数目，词项所在字段，以及用于查询规范化的匹配类型等。
 
-<!-- more -->
 
 ### 计算文档得分需要考虑以下因子
 

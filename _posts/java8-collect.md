@@ -1,18 +1,19 @@
 ---
 title: Java8-流-用流收集数据和并行流
 tags: [Java ,Java8]
-date: 2017-05-11 14:47:21
+date: 2017-02-13 14:47:21
 categories: Java
 link_title: java8-collect
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java8.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 # 收集器简介
 对流调用collect方法将对流中的元素触发一个规约操作
 
 Collectors实用类提供了很多静态工程方法，可以方便地创建常用收集器的实例，只要拿来用就可以了
-
-<!--more-->
 
 最常用的是toList方法，它会把流收集到一个List中：
 ```java

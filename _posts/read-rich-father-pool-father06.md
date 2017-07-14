@@ -1,19 +1,21 @@
 ---
 layout: post
 title: 《富爸爸穷爸爸》书摘-税收的历史和公司的力量
-date: 2017-06-05 10:33:14
+date: 2017-03-13 10:33:14
 tags: [书摘, 理财]
 categories: 书摘
-comments: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/06.jpg
+thumbnailImagePosition: left
 link_title: read-rich-father-pool-father06
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/06.jpg)
 
 - 税金通过工作和养老金的形式发放给了政府雇员,通过政府采购的形式付给了富人
 
 - 政府成了一个巨大的钱库,但问题是还有预算管理,这不是一个自动循环重复的系统。换句话说,政府的政策是,如果你是一个政府官员,就应避免拥有过多的钱；如果你没有用完预算资金,在下次预算中你就有被削减掉这些钱的风险,你不会因为有节余而被认为有效率并得到奖励；为避免被削减预算资金,政府雇员会大量花钱和雇人,虽然这很可能是在浪费。而商人,则因为有节余而被认为有效率
 
-<!--more-->
 
 - 成立公司就会流行起来了,因为企业所得税率低于个人收人所得税率。此外,公司的某些支出可以在税前获得抵减。
 

@@ -1,14 +1,16 @@
 ---
 title: Sublime Text 3简介
-date: 2017-03-10 16:23:13
+date: 2016-05-28 16:23:13
 tags: [Sublime]
 categories: 工具
 link_title: tool-Sublime-introduction
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/25.jpg	
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 > sublime 是一款小巧绿色且速度非常快的代码编辑器，下面介绍一下它的安装和插件的使用
 
-<!-- more --> 
 # 安装
 官方下载地址：http://www.sublimetext.com/3 
 

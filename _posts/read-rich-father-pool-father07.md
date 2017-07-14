@@ -1,20 +1,21 @@
 ---
 layout: post
 title: 《富爸爸穷爸爸》书摘-富人的投资　
-date: 2017-06-06 10:41:13
+date: 2017-03-18 10:41:13
 tags: [书摘, 理财]
 categories: 书摘
-comments: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/07.jpg
+thumbnailImagePosition: left
 link_title: read-rich-father-pool-father07
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/07.jpg)
 
 - 在现实世界里,人们往往是依靠勇气而不是聪明去领先于其他人的
 
 - 为什么必须不厌其烦地提高自己的财商？为什么必须懂得财务知识？
 　对此,我回答说,“就是为了获得更多的选择机会。”
-
-<!--more-->
 
 - 那么究竟为什么要努力提高自己的财商呢？因为这样做了,你就会获得更大的成功；而不这样做,对你来说,这个时代就会成为一个令人恐慌的时代。你会发现一些人勇敢地走在了前面,而另一些人却陷入生活的恶性循环并难以自拔。
 

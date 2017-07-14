@@ -1,14 +1,17 @@
 ---
-title: 【转】Java ThreadLocal 简介
-date: 2017-03-14 16:44:22
-tags: [Java, 并发]
+title: Java ThreadLocal 简介
+date: 2017-06-23 16:44:22
+tags: [Java, 多线程]
 categories: Java
 link_title: java-ThreadLocal
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/java.png)
 > ThreadLocal在Spring中发挥着重要的作用，在管理request作用域的Bean、事务管理、任务调度、AOP等模块都出现了它们的身影，起着举足轻重的作用。要想了解Spring事务管理的底层技术，ThreadLocal是必须攻克的山头堡垒。
-<!-- more -->
+
 
 我们知道spring通过各种模板类降低了开发者使用各种数据持久技术的难度。这些模板类都是线程安全的，也就是说，多个DAO可以复用同一个模板实例而不会发生冲突。我们使用模板类访问底层数据，根据持久化技术的不同，模板类需要绑定数据连接或会话的资源。但这些资源本身是非线程安全的，也就是说它们不能在同一时刻被多个线程共享。虽然模板类通过资源池获取数据连接或会话，但资源池本身解决的是数据连接或会话的缓存问题，并非数据连接或会话的线程安全问题。
 

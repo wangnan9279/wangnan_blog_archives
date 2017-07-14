@@ -1,11 +1,14 @@
 ---
 title: RabbitMQ-概述
 tags: [RabbitMQ, 消息队列]
-date: 2017-03-29 16:27:05
+date: 2016-10-18 16:27:05
 categories: RabbitMQ
 link_title: rabbitMQ-general
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 > RabbitMQ是一个开源的消息代理和队列服务器，用来通过普通协议在完全不同的应用之间共享数据，或者简单地将作业队列以便让分布式服务器进行处理

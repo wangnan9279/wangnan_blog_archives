@@ -1,17 +1,19 @@
 ---
 title: 《像程序员一样思考》书摘
-date: 2017-03-13 11:35:48
+date: 2016-12-05 11:35:48
 tags: [书摘]
 categories: 书摘
 link_title: read-think-like-programmer
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/read-think-like-programmer.png
+thumbnailImagePosition: left
 ---
-![01](read-think-like-programmer/01.png)
+<!-- toc -->
+<!-- more -->
+![01](http://onxkn9cbz.bkt.clouddn.com/read-think-like-programmer.png)
 
 > 这本书的第一章阐述了一些解决问题的策略，举了几个例子，还是挺有趣的，之后还用c++演示了一些具体的解决问题的方法，有兴趣可以读一下
 
 > 认识到一个已解决的问题和一个未解决的问题之间可供利用的相似之处。如果我们发现问题A的一个特性与已经解决的问题B的一个特性有相似之处，就为解决A奠定了良好的基础。
-
-<!-- more --> 
 
 > 用更形象化的方式重新陈述问题是一种非常出色的技巧，可以让我们拥有对问题更好的洞察力。许多程序员设法与其他程序员一起讨论问题，并不仅仅是因为对方可能已经有了答案，而是因为清晰的陈述问题常常会激发有用的新思路。重新陈述问题就相当于与其他程序员讨论问题，只不过现在一个人分饰两角。
 

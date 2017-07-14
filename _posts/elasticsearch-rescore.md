@@ -1,25 +1,22 @@
 ---
 title: Elasticsearch二次评分
 tags: [ElasticSearch, 搜索引擎]
-date: 2017-03-20 16:33:12
+date: 2016-09-08 16:33:12
 categories: ElasticSearch
 link_title: elasticsearch-rescore
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
->二次评分给了用户很多机会来定制业务逻辑
-
-
+> 二次评分给了用户很多机会来定制业务逻辑
 
 # 理解二次评分
 二次评分是指重新计算查询返回文档中**指定个数文档**的得分，es会截取查询返回的前N个，并使用预定义的二次评分方法来重新计算他们的得分
 
-<!-- more -->
-
 # 二次评分查询结构
 从最简单的查询入手：match_all查询类型，返回索引中所有文档，每个返回的文档的得分都是1.0，这样可以充分体现二次评分对查询返回文档集的影响
-
-
 
 查询范例如下：
 ![01](elasticsearch-rescore/01.png)

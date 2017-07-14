@@ -1,18 +1,19 @@
 ---
 title: Redis命令
 tags: [Redis, 缓存]
-date: 2017-03-17 15:59:50
+date: 2016-08-18 15:59:50
 categories: Redis
 link_title: redis-command
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/redis.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
 
 
 >字符串 列表 集合 散列 有序集合
 
-
-<!-- more -->
 
 ![01](redis-command/00.png)
 

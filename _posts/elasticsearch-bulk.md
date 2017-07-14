@@ -1,17 +1,18 @@
 ---
 title: Elasticsearch批量操作
-tags: [ElasticSearch, 搜索引擎]
-date: 2017-03-21 10:10:02
-categories: ElasticSearch
 link_title: elasticsearch-bulk
-toc: true
+tags: [ElasticSearch, 搜索引擎]
+date: 2016-09-13 10:10:02
+categories: ElasticSearch
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png	
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > elasticsearch提供了批量操作来读取数据和检索
-
 # 批量取
 可以通过_mget端点操作，一个请求获取多个文档，elasticsearch会返回哪些被索引的文档，**而不论这些文档可用于搜索还是暂时对查询不可见**
-<!-- more -->
 查看下面的操作：
 ![01](elasticsearch-bulk/01.png)
 elasticsearch返回如下形式的文档：

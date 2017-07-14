@@ -1,17 +1,18 @@
 ---
 title: Java8-概述
 tags: [Java ,Java8]
-date: 2017-04-21 16:52:18
+date: 2017-01-18 16:52:18
 categories: Java
 link_title: java8-general
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java8.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 # 1.概述
 **为什么你应该关系java8？**
 - 因为java8所做的改变，在许多方面比java历史上任何一次改变都深远
-
-<!--more-->
 
 再也不哟写下面这种啰嗦的程序了(按苹果重量排序)
 ```

@@ -1,11 +1,14 @@
 ---
 title: Redis数据安全与性能保障
 tags: [Redis, 缓存]
-date: 2017-03-17 16:14:12
+date: 2016-08-23 16:14:12
 categories: Redis
 link_title: redis-data-safety
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/redis.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
 
 <!-- more -->

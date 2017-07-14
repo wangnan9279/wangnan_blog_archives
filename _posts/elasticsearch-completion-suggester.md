@@ -1,14 +1,15 @@
 ---
 title:  Elasticsearch自动补齐建议-completion suggester
-tags: [ElasticSearch, 搜索引擎]
-date: 2017-03-17 14:37:49
-categories: ElasticSearch
 link_title: elasticsearch-completion-suggester
-toc: true
+tags: [ElasticSearch, 搜索引擎]
+date: 2016-08-08 14:37:49
+categories: ElasticSearch
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
-
-<!--more -->
 ## 1.mapping
     curl -XPUT 192.168.0.1:9200/person -d'  //新建一个persion的索引
     {

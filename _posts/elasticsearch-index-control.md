@@ -1,19 +1,20 @@
 ---
 title: Elasticsearch底层索引控制
 tags: [ElasticSearch, 搜索引擎]
-date: 2017-03-27 17:44:54
+date: 2016-10-03 17:44:54
 categories: ElasticSearch
 link_title: elasticsearch-index-control
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 >   如何使用不同评分公式及其特性
     如何使用不同的倒排表格式极其特性
     如何处理准实时搜索、实时读取、以及搜索器重新打开之后的动作
     配置搜索事务日志以满足应用需求，并查看它对部署的影响
-   
-<!--more-->
-    
+       
 #  如何使用不同评分公式及其特性 
 2012年Apache lucene 4.0发布之后，用户便可以改变默认的基于TF/IDF的评分算法了，这是因为lucene的API做了一些改变，使得用户能轻松地修改和扩展该评分公式
 

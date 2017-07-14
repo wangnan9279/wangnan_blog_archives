@@ -1,11 +1,14 @@
 ---
 title: Java IO 简介
 tags: [Java, IO]
-date: 2017-03-16 16:44:54
+date: 2016-07-23 16:44:54
 categories: Java
 link_title: java-io-introduction
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png	
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/java.png)
 > 学习Java中的IO，首先要理解Java中IO的流模型。
 所谓流，可以假想成河流，流的数据源，就是河流的发源地，流是单向的，流的单向性，就像河流的水流是单向的一样。

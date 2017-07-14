@@ -1,15 +1,17 @@
 ---
 title: Elasticsearch简介
-date: 2017-03-08 12:31:23
+date: 2016-05-08 12:31:23
 tags: [ElasticSearch, 搜索引擎]
 categories: ElasticSearch
 link_title: elasticsearch-introduction
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > elasticsearch是一个可用于构建搜索应用的成品软件，区别去lucene这种中间件
 
-<!-- more --> 
 ## Apache Lucence简介
 
 ### 为什么elasticsearch创始人觉得使用lucene而不是自己开发全文检索库？

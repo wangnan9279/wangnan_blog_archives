@@ -1,15 +1,16 @@
 ---
 title: Mybaits-Java ORM来源于历史、Hibernate和MyBatis比较
-tags: [Mybatis, ORM框架]
-date: 2017-04-06 16:17:20
+tags: [Mybatis]
+date: 2016-12-11 16:17:20
 categories: Mybatis
 link_title: mybtis-introduction
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > 主要介绍了Java ORM来源于历史，JDBC、Hibernate和MyBatis的优缺点，比较他们之间区别和应用场景
-
-<!--more-->
 
 # JDBC
 Java程序是通过JDBC(Java Data Base Connectivity)连接数据库的，JDBC是由SUN公司提出的一系列规范，但是它只定义了接口的规范，而具体的实现是交给了各个数据库厂商去实现的，JDBC是一种典型的桥接模式

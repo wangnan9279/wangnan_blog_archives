@@ -1,15 +1,15 @@
 ---
-layout: post
 title: 《HeadFirst设计模式》书摘-单例/命令/适配器/外观
-date: 2017-06-15 16:30:38
+date: 2017-04-18 16:30:38
 tags: [设计模式]
 categories: 设计模式
-comments: true
-toc: true
 link_title: headFirstDesignPatterns03
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp02.jpg
+thumbnailImagePosition: left
 ---
-![](http://onxkn9cbz.bkt.clouddn.com/dp01.jpg)
-<!--more-->
+<!-- toc -->
+<!-- more -->
+![](http://onxkn9cbz.bkt.clouddn.com/dp02.jpg)
 # 单例模式
 ## 定义
 确保一个类只有一个实例，并提供全局访问点

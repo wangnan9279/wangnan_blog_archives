@@ -1,15 +1,15 @@
 ---
-layout: post
 title: 《算法图解》书摘-递归/快速排序
-date: 2017-06-23 14:41:46
-tags: [算法图解]
-categories: 算法图解
-comments: true
-toc: true
 link_title: algorithm-illustration-02
+date: 2017-05-08 14:41:46
+tags: [算法图解]
+categories: 算法
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/15.jpg	
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/15.jpg)
-<!--more-->
 # 第三章 递归
 - 递归只是让解决方案更清晰，并没有性能上的优势。实际上，在有些情况下，使用循环的性能更好。
 

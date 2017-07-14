@@ -1,16 +1,17 @@
 ---
 title: Elasticsearch地理位置查询-Geo Distance Range Query
-tags: [ElasticSearch, 搜索引擎]
-date: 2017-03-17 13:50:17
-categories: ElasticSearch
 link_title: elasticsearch-geo-distance-query
-toc: true
+tags: [ElasticSearch, 搜索引擎]
+date: 2016-08-03 13:50:17
+categories: ElasticSearch
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png	
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > ## 官方文档：
 https://www.elastic.co/guide/en/elasticsearch/reference/2.4/query-dsl-geo-distance-query.html#_geohash_3
-
-<!-- more -->
 
 ## 索引mapping定义:
 索引中定义一个字段pin，添加一个属性location，type为geo_point

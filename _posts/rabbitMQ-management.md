@@ -1,11 +1,14 @@
 ---
 title: RabbitMQ-运行和管理RabbitMQ
 tags: [RabbitMQ, 消息队列]
-date: 2017-04-05 14:44:12
+date: 2016-11-18 14:44:12
 categories: RabbitMQ
 link_title: rabbitMQ-management
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 

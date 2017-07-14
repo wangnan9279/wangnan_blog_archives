@@ -1,14 +1,15 @@
 ---
 title: Mybatis映射器
-tags: [Mybatis, ORM框架]
-date: 2017-04-13 13:40:42
+tags: [Mybatis]
+date: 2017-01-08 13:40:42
 categories: Mybatis
 link_title: mybatis-mapper
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
-
-
 
 # 映射器主要元素
 - select  查询（可以自定义参数,返回结果集）

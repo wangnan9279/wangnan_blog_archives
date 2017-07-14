@@ -1,18 +1,19 @@
 ---
 title: Elasticsearch数据更新API
 tags: [ElasticSearch, 搜索引擎]
-date: 2017-03-22 16:26:59
+date: 2016-09-23 16:26:59
 categories: ElasticSearch
 link_title: elasticsearch-update
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > 
 - 简单字段更新
 - 使用脚本按条件更新
 - 使用更新api创建或删除文档
-
-<!-- more -->
 
 # 为什么我们无法真的更新索引中的文档
 在索引一个新文档的时候，lucene会对每个字段进行分析并产生词条流，词条流中的词条可以会经过过滤器的额外处理，而没有过滤掉的词条会写入倒排索引中，索引过程中，一些不需要的信息可能被抛弃，这些信息包括：

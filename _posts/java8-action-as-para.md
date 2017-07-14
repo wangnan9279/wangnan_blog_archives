@@ -1,17 +1,17 @@
 ---
 title: Java8-行为参数化
 tags: [Java ,Java8]
-date: 2017-05-02 16:49:47
+date: 2017-01-23 16:49:47
 categories: Java
 link_title: java8-action-as-para
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java8.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 > 在软件工程中，一个众所周知的问题就是，不管你做什么，用户的需求肯定会变
 行为参数化就是可以帮助你处理频繁变更需求的一种软件开发模式。
-
-
-<!--more-->
 
 它意味着拿出一个代码块，把它准备好却不执行它，这个代码块以后可以被你的程序其他部分调用
 

@@ -1,15 +1,16 @@
 ---
 title: Mybaits-配置
-tags: [Mybatis, ORM框架]
-date: 2017-04-10 14:26:18
+tags: [Mybatis]
+date: 2017-01-03 14:26:18
 categories: Mybatis
 link_title: mybatis-config
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 Mybatis配置XML文件的层次结构
-
-<!--more-->
 
 ![](mybatis-config/01.png)
 

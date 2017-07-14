@@ -1,15 +1,16 @@
 ---
 title: Elasticsearch排序
 tags: [ElasticSearch, 搜索引擎]
-date: 2017-03-21 11:02:09
+date: 2016-09-18 11:02:09
 categories: ElasticSearch
 link_title: elasticsearch-sort
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > 当你发送请求至elasticsearch,返回文档默认按文档得分降序排序，这是通常我们想要了，然而，有时候我们希望能改变这种排序方式
-
-<!-- more -->
 
 下面的例子就容易做到：
 ![01](elasticsearch-sort/01.png)

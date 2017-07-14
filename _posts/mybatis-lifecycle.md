@@ -1,11 +1,14 @@
 ---
 title: Mybaits-基本构成和生命周期
-tags: [Mybatis, ORM框架]
-date: 2017-04-07 14:58:53
+tags: [Mybatis]
+date: 2016-12-28 14:58:53
 categories: Mybatis
 link_title: mybatis-lifecycle
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > 
 # 基本构成
@@ -13,7 +16,6 @@ toc: true
 - SqlSessionFactory:依靠工厂来生成SqlSession(会话)
 - SqlSession:是一个既可以发送SQL去执行并返回结果，也可以获取Mapper的接口
 - SQL Mapper:它是Mybatis新设计的组件，它是由一个java接口和xml文件（或注解）构成的，需要给出对应的sql和映射规则，它负责发送SQL去执行，并返回结果
-<!--more-->
 
 一张图表达他们的关联：
 ![](mybatis-lifecycle/01.png)

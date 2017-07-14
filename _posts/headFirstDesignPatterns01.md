@@ -1,15 +1,15 @@
 ---
-layout: post
 title: 《HeadFirst设计模式》书摘-策略模式/观察者模式
-date: 2017-06-12 15:57:05
+date: 2017-04-08 15:57:05
 tags: [设计模式]
 categories: 设计模式
-comments: true
-toc: true
 link_title: headFirstDesignPatterns01
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp01.jpg
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/dp01.jpg)
-<!--more-->
 # 策略模式
 ## 定义：
 定义算法族，分别封装起来，让他们之间可以互相替换，此模式让算法的变化独立于使用算法的客户

@@ -1,11 +1,14 @@
 ---
 title: RabbitMQ-理解消息通信-持久化策略
 tags: [RabbitMQ, 消息队列]
-date: 2017-04-01 13:51:23
+date: 2016-11-13 13:51:23
 categories: RabbitMQ
 link_title: rabbitMQ-persistence
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 # 概述

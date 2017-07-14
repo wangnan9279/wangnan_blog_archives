@@ -1,19 +1,20 @@
 ---
 layout: post
 title: 《富爸爸穷爸爸》书摘-为什么要教授财务知识
-date: 2017-06-01 10:48:23
+date: 2017-03-03 10:48:23
 tags: [书摘, 理财]
 categories: 书摘
-comments: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/04.jpg
+thumbnailImagePosition: left
 link_title: read-rich-father-pool-father04
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/04.jpg)
 
 - 知识才能解决问题并创造财富,不是凭财务知识挣来的钱很快就会消失
 
 - 从长期来看,重要的不是你挣了多少钱,而是要看你能留下多少钱,以及留住了多久
-
-<!--more-->
 
 - 规则1、你必须明白瓷产和负债的区别,并且尽可能地购买资产。如果你想致富,这一点你必须知道。这就是第一号规则,也是仅有的一条规则,这听起来似乎太简单了,但人们大多不知道这条规则有多么深奥,大多数人就是因为不清楚资产与负债之间的区别而苦苦挣扎在财务问题里。
 

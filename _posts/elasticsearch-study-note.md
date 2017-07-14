@@ -1,16 +1,17 @@
 ---
 title: Elasticsearch学习笔记
 tags: [ElasticSearch, 搜索引擎]
-date: 2017-03-17 14:51:47
+date: 2016-08-13 14:51:47
 categories: ElasticSearch
 link_title: elasticsearch-study-note
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > Elasticsearch是一个可伸缩的开源全文搜索和分析引擎，它使你可以快速且接近实时的去保存，查询和分析海量的数据，他的潜在应用场景是作为一些有复杂搜索功能和需求的应用的搜索
 引擎
-
-<!-- more -->
 
 # 简介
 Elasticsearch是一个基于Apache Lucene(TM)的开源搜索引擎。无论在开源还是专有领域，Lucene可以被认为是迄今为止最先进、性能最好的、功能最全的搜索引擎库。

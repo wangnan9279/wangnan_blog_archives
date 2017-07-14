@@ -1,15 +1,16 @@
 ---
-layout: post
 title: 《算法图解》书摘-算法介绍/选择排序
-date: 2017-06-22 14:11:53
-tags: [算法图解]
-categories: 算法图解
-comments: true
-toc: true
 link_title: algorithm-illustration-01
+date: 2017-05-03 14:11:53
+tags: [算法图解]
+categories: 算法
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/14.jpg	
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/14.jpg)
-<!--more-->
+
 # 第一章 算法介绍
 
 ## 二分查找Python代码

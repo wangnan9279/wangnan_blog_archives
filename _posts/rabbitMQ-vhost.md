@@ -1,16 +1,18 @@
 ---
 title: RabbitMQ-理解消息通信-虚拟主机和隔离
 tags: [RabbitMQ, 消息队列]
-date: 2017-04-01 10:35:48
+date: 2016-11-08 10:35:48
 categories: RabbitMQ
 link_title: rabbitMQ-vhost
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
 
 > 每个RabbitMQ服务器都能创建虚拟的消息服务器，我们称之为**虚拟主机(vhost)**每一个vhost本质上是一个mini版的RabbitMQ服务器，拥有自己的队列、交换器和绑定等等
 
-<!--more-->
 
 # 多租户模式：虚拟主机和隔离
 

@@ -1,15 +1,15 @@
 ---
-layout: post
 title: 《HeadFirst设计模式》书摘-模板方法/模式迭代器/组合
-date: 2017-06-15 16:30:38
+date: 2017-04-23 16:30:38
 tags: [设计模式]
 categories: 设计模式
-comments: true
-toc: true
 link_title: headFirstDesignPatterns04
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp02.jpg
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/dp02.jpg)
-<!--more-->
 # 模板方法模式
 ## 定义
 在一个方法中定义一个算法的骨架，而将一些步骤延迟到子类中，模板方法使得子类可以在不改变算法结构的情况下，重新定义算法中的某些步骤

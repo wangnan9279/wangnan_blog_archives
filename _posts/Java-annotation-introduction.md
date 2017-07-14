@@ -1,15 +1,16 @@
 ---
-title: 【转】Java注解简介
-date: 2017-03-14 16:35:45
+title: Java注解简介
+date: 2016-06-18 16:35:45
 tags: [Java ,注解]
 categories: Java
 link_title: java-annotation-introduction
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/java.png)
 > 有必要对JDK 5.0新增的注解（Annotation）技术进行简单的学习，因为spring 支持@AspectJ，而@AspectJ本身就是基于JDK 5.0的注解技术。所以学习JDK 5.0的注解知识有助于我们更好地理解和掌握Spring的AOP技术。
-
-<!-- more -->
 
 # 了解注解
 

@@ -1,19 +1,21 @@
 ---
 layout: post
 title: 《富爸爸穷爸爸》书摘-克服困难　
-date: 2017-06-08 11:23:44
+date: 2017-03-28 11:23:44
 tags: [书摘, 理财]
 categories: 书摘
-comments: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/10.jpg
+thumbnailImagePosition: left
 link_title: read-rich-father-pool-father09
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/10.jpg)
 
 - 仅掌握财务知识的人很多时候仍然不能拥有充裕的资产项目,其主要原因有五个：1.恐惧心理；2.愤世嫉俗；3.懒惰；4.不良习惯；5.自负
 
 - 对可能损失金钱的畏惧心理。我从来没有遇到过喜欢损失金钱的人,但在我的一生中,也从来没有遇到过一位从未损失过金钱的富人。可我曾经遇到过许多从未损失过一毫的穷人——我是说在投资活动中
 
-<!--more-->
 
 - 不仅是对金钱,对生活中的任何事情的处理都是这样。富人和穷人之间的主要差别在于他们处理恐惧心理的方式不同
 

@@ -1,16 +1,18 @@
 ---
 title: Mybatis-trim标签
-tags: [Mybatis, ORM框架]
-date: 2017-03-16 16:11:20
+tags: [Mybatis]
+date: 2016-07-18 16:11:20
 categories: Mybatis
 link_title: mybatis-where-trim
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > 今天遇到一个场景需要写一个这样的查询语句：
 用户对象userInfo包含下面几个字段： 
 userName phone email qqId weiboId wxId
-<!-- more -->
 
 现在新注册用户，传过来一个注册userInfo对象，现在要到数据库中验证状态status=1 （表示激活的用户）的用户中，是否存在一个用户，只要它这些字段中至少有一个与新注册的对象对应的字段内容相同，那就说明重复注册。
 

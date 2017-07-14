@@ -1,15 +1,16 @@
 ---
 layout: post
 title: 《HeadFirst设计模式》书摘-状态模式/代理模式
-date: 2017-06-19 15:52:30
+date: 2017-04-28 15:52:30
 tags: [设计模式]
 categories: 设计模式
-comments: true
-toc: true
 link_title: headFirstDesignPatterns05
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp01.jpg
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/dp01.jpg)
-<!--more-->
 # 状态模式
 ## 定义
 允许对象在内部状态改变时改变它的行为，对象看起来好像修改了它的类

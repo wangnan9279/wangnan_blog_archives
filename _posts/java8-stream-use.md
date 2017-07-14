@@ -1,11 +1,14 @@
 ---
 title: Java8-流-使用流
 tags: [Java ,Java8]
-date: 2017-05-09 11:09:29
+date: 2017-02-08 11:09:29
 categories: Java
 link_title: java8-stream-use
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java8.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
 # 筛选和切片
 ## 用谓词筛选

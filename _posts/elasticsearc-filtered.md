@@ -1,20 +1,18 @@
 ---
 title: Elasticsearch使用过滤器优化查询
-tags: [ElasticSearch, 搜索引擎]
-date: 2017-03-23 16:12:14
-categories: ElasticSearch
 link_title: elasticsearc-filtered
-toc: true
+tags: [ElasticSearch, 搜索引擎]
+date: 2016-09-28 16:12:14
+categories: ElasticSearch
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
-
 > elasticsearch提供了一种特殊的缓存，即过滤器缓存（filter cache），用来储存过滤器的结果
 
-
 被缓存的过滤器不需要消耗过多的内存，因为他们只储存了哪些文档能与过滤器相匹配的相关信息，而且可供后续所有与之相关的查询重复使用，从而极大的提高了查询性能
-
-<!-- more -->
-
 
 执行下面这个查询：
 ```json

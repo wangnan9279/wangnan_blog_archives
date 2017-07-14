@@ -1,11 +1,14 @@
 ---
-title: Java多线程简介之休眠、优先级、让步、后台线程、加入一个线程、异常捕获、共享受限资源
-date: 2017-03-16 14:36:33
-tags: [Java, 并发, 多线程]
+title: Java多线程简介之休眠、优先级、让步等
+date: 2017-06-13 14:36:33
+tags: [Java,多线程]
 categories: Java
 link_title: java-concurrent02
-toc: true
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png	
+thumbnailImagePosition: left
 ---
+<!-- toc -->
+<!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/java.png)
 # 休眠
 

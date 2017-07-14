@@ -1,15 +1,16 @@
 ---
-layout: post
 title: 《算法图解》书摘-狄克斯特拉算法贪婪算法等
-date: 2017-06-29 14:01:44
-tags: [算法图解]
-categories: 算法图解
-comments: true
-toc: true
 link_title: algorithm-illustration-04
+date: 2017-05-18 14:01:44
+tags: [算法图解]
+categories: 算法
+thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/17.jpg	
+thumbnailImagePosition: left
 ---
-![](http://onxkn9cbz.bkt.clouddn.com/17.jpg)
+<!-- toc -->
+<!-- more -->
 <!--more-->
+![](http://onxkn9cbz.bkt.clouddn.com/17.jpg)
 # 第七章 狄克斯特拉算法
 - 前一章使用了广度优先搜索，它找出的是段数最少的路径（如第一个图所示）。如果你
 要找出最快的路径（如第二个图所示），该如何办呢？为此，可使用另一种算法——狄克斯特拉
