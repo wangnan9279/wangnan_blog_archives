@@ -2,8 +2,8 @@
 title: 《算法图解》书摘-算法介绍/选择排序
 link_title: algorithm-illustration-01
 date: 2017-05-03 14:11:53
-tags: [算法图解]
-categories: 算法
+tags: [算法]
+categories: 书摘
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/14.jpg	
 thumbnailImagePosition: left
 ---

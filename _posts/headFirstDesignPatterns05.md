@@ -3,7 +3,7 @@ layout: post
 title: 《HeadFirst设计模式》书摘-状态模式/代理模式
 date: 2017-04-28 15:52:30
 tags: [设计模式]
-categories: 设计模式
+categories: 书摘
 link_title: headFirstDesignPatterns05
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp01.jpg
 thumbnailImagePosition: left

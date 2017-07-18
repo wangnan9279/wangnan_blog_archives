@@ -1,6 +1,6 @@
 ---
 title: Java ThreadLocal 简介
-date: 2017-06-23 16:44:22
+date: 2016-06-23 16:44:22
 tags: [Java, 多线程]
 categories: Java
 link_title: java-ThreadLocal

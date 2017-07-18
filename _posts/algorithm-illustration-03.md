@@ -2,8 +2,8 @@
 title: 《算法图解》书摘-散列表/广度优先搜索
 link_title: algorithm-illustration-03
 date: 2017-05-13 11:04:05
-tags: [算法图解]
-categories: 算法
+tags: [算法]
+categories: 书摘
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/16.jpg	
 thumbnailImagePosition: left
 ---

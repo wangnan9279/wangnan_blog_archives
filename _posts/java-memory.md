@@ -2,7 +2,7 @@
 layout: post
 title: Java内存模型整理
 date: 2017-07-11 11:00:14
-tags: [Java]
+tags: [Java, JVM]
 categories: Java
 link_title: java-memory
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/21.jpg	

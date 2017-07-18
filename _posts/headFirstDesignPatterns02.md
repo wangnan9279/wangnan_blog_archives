@@ -2,7 +2,7 @@
 title: 《HeadFirst设计模式》书摘-装饰者模式/抽象工厂模式/工厂方法模式
 date: 2017-04-13 16:00:52
 tags: [设计模式]
-categories: 设计模式
+categories: 书摘
 link_title: headFirstDesignPatterns02
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp02.jpg
 thumbnailImagePosition: left

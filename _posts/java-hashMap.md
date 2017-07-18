@@ -1,7 +1,7 @@
 ---
 title: Java-HashMap整理
 date: 2017-06-18 14:40:29
-tags: [Java,Map]
+tags: [Java,JavaCollection]
 categories: Java
 link_title: hashMap-note
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/hashMap.jpg	

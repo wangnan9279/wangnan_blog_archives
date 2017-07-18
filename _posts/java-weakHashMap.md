@@ -2,7 +2,7 @@
 layout: post
 title: Java-WeakHashMap整理
 date: 2017-07-07 16:27:01
-tags: [Java]
+tags: [Java, JavaCollection]
 categories: Java
 comments: true
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/20.jpg

@@ -2,7 +2,7 @@
 title: Java-ConcurrentHashMap整理
 link_title: java-concurrentHashMap
 date: 2017-06-15 16:20:42
-tags: [Java,Map]
+tags: [Java,JavaCollection]
 categories: Java
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/concurrentHashMap.png
 thumbnailImagePosition: left

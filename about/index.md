@@ -11,7 +11,7 @@ title: 关于我
 毕业于 南京邮电大学 电子科学与工程学院
 ## 联系方式
 Email:wn9279@gmail.com
-## 鸣谢：本博客由我老婆亲情赞助
+## 鸣谢：本博客由我老婆倾情赞助
 <img src="http://onxkn9cbz.bkt.clouddn.com/lp.png" width = "400" height = "400" alt="2gether thru life" align=center />
 
 

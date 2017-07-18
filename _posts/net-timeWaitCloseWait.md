@@ -6,11 +6,11 @@ tags: [网络]
 categories: 网络
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/25.jpg	
 thumbnailImagePosition: left
-comments: true
 ---
-<!-- toc -->
+<span/>
 <!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/25.jpg)
+<!-- toc -->
 # TIME_WAIT和CLOSE_WAIT
 
 在服务器的日常维护过程中，会经常用到下面的命令：

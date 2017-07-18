@@ -2,7 +2,7 @@
 title: 《HeadFirst设计模式》书摘-策略模式/观察者模式
 date: 2017-04-08 15:57:05
 tags: [设计模式]
-categories: 设计模式
+categories: 书摘
 link_title: headFirstDesignPatterns01
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp01.jpg
 thumbnailImagePosition: left

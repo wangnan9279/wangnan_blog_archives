@@ -2,8 +2,8 @@
 title: 《算法图解》书摘-递归/快速排序
 link_title: algorithm-illustration-02
 date: 2017-05-08 14:41:46
-tags: [算法图解]
-categories: 算法
+tags: [算法]
+categories: 书摘
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/15.jpg	
 thumbnailImagePosition: left
 ---

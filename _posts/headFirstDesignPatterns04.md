@@ -2,7 +2,7 @@
 title: 《HeadFirst设计模式》书摘-模板方法/模式迭代器/组合
 date: 2017-04-23 16:30:38
 tags: [设计模式]
-categories: 设计模式
+categories: 书摘
 link_title: headFirstDesignPatterns04
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp02.jpg
 thumbnailImagePosition: left

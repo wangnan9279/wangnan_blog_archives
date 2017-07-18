@@ -5,10 +5,12 @@ categories: [网络]
 tags: [网络]
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/23.jpg	
 thumbnailImagePosition: left
+link_title: net-tcp
 ---
-<!-- toc -->
+<span/>
 <!-- more -->
 ![](http://onxkn9cbz.bkt.clouddn.com/23.jpg)
+<!-- toc -->
 # 网络分层
 > 网络分层就是将网络节点所要完成的数据的发送或转发、打包或拆包，控制信息的加载或拆出等工作，分别由不同的硬件和软件模块去完成。这样可以将往来通信和网络互连这一复杂的问题变得较为简单。
 

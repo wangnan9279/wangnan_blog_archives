@@ -2,7 +2,7 @@
 title: 《HeadFirst设计模式》书摘-单例/命令/适配器/外观
 date: 2017-04-18 16:30:38
 tags: [设计模式]
-categories: 设计模式
+categories: 书摘
 link_title: headFirstDesignPatterns03
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp02.jpg
 thumbnailImagePosition: left

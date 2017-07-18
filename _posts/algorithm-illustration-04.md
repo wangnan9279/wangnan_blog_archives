@@ -2,8 +2,8 @@
 title: 《算法图解》书摘-狄克斯特拉算法贪婪算法等
 link_title: algorithm-illustration-04
 date: 2017-05-18 14:01:44
-tags: [算法图解]
-categories: 算法
+tags: [算法]
+categories: 书摘
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/17.jpg	
 thumbnailImagePosition: left
 ---
