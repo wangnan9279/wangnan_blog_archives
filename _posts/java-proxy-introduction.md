@@ -1,7 +1,7 @@
 ---
 title: Java代理简介
 date: 2016-06-13 17:58:52
-tags: [Java, 代理]
+tags: [Java]
 categories: Java
 link_title: java-proxy-introduction
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png

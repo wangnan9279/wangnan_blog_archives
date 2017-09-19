@@ -2,7 +2,7 @@
 title: TCP协议三次握手四次挥手整理
 date: 2017-07-12 11:10:35
 categories: [网络]
-tags: [网络,TCP]
+tags: [网络]
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/24.jpg	
 thumbnailImagePosition: left
 link_title: tcp-shakehands

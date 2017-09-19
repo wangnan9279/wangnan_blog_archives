@@ -1,6 +1,6 @@
 ---
 title: Redis进阶内容
-tags: [Redis, 缓存]
+tags: [Redis]
 date: 2016-08-28 16:20:39
 categories: Redis
 link_title: redis-progression

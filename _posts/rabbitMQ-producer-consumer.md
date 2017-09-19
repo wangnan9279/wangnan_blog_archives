@@ -1,6 +1,6 @@
 ---
 title: RabbitMQ-理解消息通信-消费者和生产者
-tags: [RabbitMQ, 消息队列]
+tags: [RabbitMQ]
 date: 2016-10-23 11:07:25
 categories: RabbitMQ
 link_title: rabbitMQ-producer-consumer

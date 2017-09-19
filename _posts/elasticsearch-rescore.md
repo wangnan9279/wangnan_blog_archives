@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch二次评分
-tags: [ElasticSearch, 搜索引擎]
+tags: [ElasticSearch]
 date: 2016-09-08 16:33:12
 categories: ElasticSearch
 link_title: elasticsearch-rescore

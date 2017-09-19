@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch底层索引控制
-tags: [ElasticSearch, 搜索引擎]
+tags: [ElasticSearch]
 date: 2016-10-03 17:44:54
 categories: ElasticSearch
 link_title: elasticsearch-index-control

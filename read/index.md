@@ -19,6 +19,8 @@ title: 阅读列表
 《Netty实战》
 《Netty权威指南》
 《网络是怎样连接的》
+《数据科学入门》
+《Spring Cloud微服务实战 》
 # 2016
 《深入分析Java Web技术内幕》
 《Elasticsearch权威指南》

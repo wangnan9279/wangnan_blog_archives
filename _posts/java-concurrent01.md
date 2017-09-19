@@ -1,7 +1,7 @@
 ---
 title: Java多线程简介之基本概念、Thread类、Executor
 date: 2016-07-08 14:19:15
-tags: [Java,多线程]
+tags: [Java,JavaConcurrent]
 categories: Java
 link_title: java-concurrent01
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png	

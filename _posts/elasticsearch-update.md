@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch数据更新API
-tags: [ElasticSearch, 搜索引擎]
+tags: [ElasticSearch]
 date: 2016-09-23 16:26:59
 categories: ElasticSearch
 link_title: elasticsearch-update

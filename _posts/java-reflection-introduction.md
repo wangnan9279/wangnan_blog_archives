@@ -1,7 +1,7 @@
 ---
 title: Java反射简介
 date: 2016-06-08 17:36:02
-tags: [Java, 反射]
+tags: [Java]
 categories: Java
 link_title: java-reflection-introduction
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png

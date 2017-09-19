@@ -1,7 +1,7 @@
 ---
 title: 使用Redis构建web应用
 date: 2016-07-03 16:53:44
-tags: [Redis, 缓存]
+tags: [Redis]
 categories: Redis
 link_title: redis-webapp
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/redis.png

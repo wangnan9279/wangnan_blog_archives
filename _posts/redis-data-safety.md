@@ -1,6 +1,6 @@
 ---
 title: Redis数据安全与性能保障
-tags: [Redis, 缓存]
+tags: [Redis]
 date: 2016-08-23 16:14:12
 categories: Redis
 link_title: redis-data-safety

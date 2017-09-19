@@ -1,7 +1,7 @@
 ---
 title: Swagger简介
 date: 2016-05-23 15:05:04
-tags: [Swagger]
+tags: []
 categories: 工具
 link_title: tool-swagger-introduction
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/03.jpg	

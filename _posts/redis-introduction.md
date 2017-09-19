@@ -1,7 +1,7 @@
 ---
 title: Redis初识
 date: 2016-06-13 15:57:27
-tags: [Redis, 缓存]
+tags: [Redis]
 categories: Redis
 link_title: redis-introduction
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/redis.png

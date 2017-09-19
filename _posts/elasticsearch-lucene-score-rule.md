@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch如何评分?-Apache Lucene默认评分公式解释
-tags: [ElasticSearch, 搜索引擎, Lucene]
+tags: [ElasticSearch,Lucene]
 date: 2016-07-28 11:24:39
 categories: ElasticSearch
 link_title: elasticsearch-lucene-score-rule

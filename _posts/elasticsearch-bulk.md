@@ -1,7 +1,7 @@
 ---
 title: Elasticsearch批量操作
 link_title: elasticsearch-bulk
-tags: [ElasticSearch, 搜索引擎]
+tags: [ElasticSearch]
 date: 2016-09-13 10:10:02
 categories: ElasticSearch
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png	

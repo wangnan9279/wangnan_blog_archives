@@ -1,7 +1,7 @@
 ---
 title: Java注解简介
 date: 2016-06-18 16:35:45
-tags: [Java ,注解]
+tags: [Java]
 categories: Java
 link_title: java-annotation-introduction
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png

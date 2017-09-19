@@ -1,7 +1,7 @@
 ---
 title: Elasticsearch简介
 date: 2016-05-08 12:31:23
-tags: [ElasticSearch, 搜索引擎]
+tags: [ElasticSearch]
 categories: ElasticSearch
 link_title: elasticsearch-introduction
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png

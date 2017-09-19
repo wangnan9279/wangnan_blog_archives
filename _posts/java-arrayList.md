@@ -2,8 +2,8 @@
 title: Java-ArrayList快速失败机制/CopyOnWriteArrayList/扩容
 link_title: java-arrayList
 date: 2017-07-31 14:51:55
-tags: [ElasticSearch]
-categories: ElasticSearch
+tags: [Java, JavaCollection]
+categories: Java
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/33.jpg	
 thumbnailImagePosition: left
 ---

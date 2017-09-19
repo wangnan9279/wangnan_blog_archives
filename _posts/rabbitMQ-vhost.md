@@ -1,6 +1,6 @@
 ---
 title: RabbitMQ-理解消息通信-虚拟主机和隔离
-tags: [RabbitMQ, 消息队列]
+tags: [RabbitMQ]
 date: 2016-11-08 10:35:48
 categories: RabbitMQ
 link_title: rabbitMQ-vhost

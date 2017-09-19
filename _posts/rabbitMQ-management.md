@@ -1,6 +1,6 @@
 ---
 title: RabbitMQ-运行和管理RabbitMQ
-tags: [RabbitMQ, 消息队列]
+tags: [RabbitMQ]
 date: 2016-11-18 14:44:12
 categories: RabbitMQ
 link_title: rabbitMQ-management

@@ -2,7 +2,7 @@
 layout: post
 title: Java-BIO/NIO/AIO整理
 date: 2017-07-11 14:49:46
-tags: [Java]
+tags: [Java, JavaIO]
 categories: Java
 link_title: java-niobioaio
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/22.jpg	

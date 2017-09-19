@@ -1,6 +1,6 @@
 ---
 title: Redis命令
-tags: [Redis, 缓存]
+tags: [Redis]
 date: 2016-08-18 15:59:50
 categories: Redis
 link_title: redis-command
@@ -29,7 +29,7 @@ thumbnailImagePosition: left
 
 `DECRBY key-name amount`               将键储存的值减去整数amount         
 
-`INCRBYFLOAT key-name amount` 将键储存的值加上浮点数amount，这个命令在redis2.6或者以上的版本可用
+`INCRBYFLOAT key-name amount` 将键储存的值加上浮点数amount，但这个命令在redis2.6或者以上的版本可用
 
 ### redis还拥有对字符串其中一部分内容进行读取或者写入的操作
 ![01](redis-command/01.png)

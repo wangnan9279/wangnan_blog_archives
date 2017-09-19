@@ -1,7 +1,7 @@
 ---
 title: Java多线程简介之休眠、优先级、让步等
 date: 2017-06-13 14:36:33
-tags: [Java,多线程]
+tags: [Java,JavaConcurrent]
 categories: Java
 link_title: java-concurrent02
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png	

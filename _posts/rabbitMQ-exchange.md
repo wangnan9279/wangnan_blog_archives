@@ -1,6 +1,6 @@
 ---
 title: RabbitMQ-理解消息通信-交换器和绑定
-tags: [RabbitMQ, 消息队列]
+tags: [RabbitMQ]
 date: 2016-11-03 10:54:20
 categories: RabbitMQ
 link_title: rabbitMQ-exchange

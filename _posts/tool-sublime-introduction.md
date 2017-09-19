@@ -1,7 +1,7 @@
 ---
 title: Sublime Text 3简介
 date: 2016-05-28 16:23:13
-tags: [Sublime]
+tags: []
 categories: 工具
 link_title: tool-Sublime-introduction
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/25.jpg	

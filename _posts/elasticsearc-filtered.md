@@ -1,7 +1,7 @@
 ---
 title: Elasticsearch使用过滤器优化查询
 link_title: elasticsearc-filtered
-tags: [ElasticSearch, 搜索引擎]
+tags: [ElasticSearch]
 date: 2016-09-28 16:12:14
 categories: ElasticSearch
 thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
