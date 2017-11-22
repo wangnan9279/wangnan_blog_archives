@@ -20,7 +20,10 @@ title: 阅读列表
 《Netty权威指南》
 《网络是怎样连接的》
 《数据科学入门》
-《Spring Cloud微服务实战 》
+《Spring Cloud微服务实战》
+《亿级流量网站架构核心技术》
+《ELKstack权威指南》
+《ZooKeeper-分布式过程协同技术详解》
 # 2016
 《深入分析Java Web技术内幕》
 《Elasticsearch权威指南》
