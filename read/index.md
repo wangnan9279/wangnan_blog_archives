@@ -1,6 +1,12 @@
 ---
 title: 阅读列表
 ---
+# 2018
+《TensorFlow实战Google深度学习框架》 
+《机器学习笔记-吴恩达》 
+《深度学习笔记-吴恩达》 
+《hadoop权威指南》  
+《spark快速大数据分析》
 # 2017
 《Redis实战》                   
 《深入理解Elasticsearch》
