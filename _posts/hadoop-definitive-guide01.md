@@ -15,7 +15,7 @@ thumbnailImagePosition: left
 **转载请注明出处**
 独立博客：http://wangnan.tech 
 简书:http://www.jianshu.com/u/244399b1d776**
-知乎：https://zhuanlan.zhihu.com/c_121958856
+知乎：https://zhuanlan.zhihu.com/ghoststories
 
 ## 数据！数据！
 我们生活在一个数据爆炸的时代，我们必须想办法好好的的储存和分析这些数据

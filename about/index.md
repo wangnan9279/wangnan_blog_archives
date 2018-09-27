@@ -5,9 +5,9 @@ title: 关于我
 ## 简介
 90后 巨蟹座 现居南京
 毕业于 南京邮电大学
-从事 互联网电商 后端工程师
+从事 后端开发工程师（Java、搜索、大数据等方向）
 ## 联系方式
-Email:wn9279@gmail.com
+wn9279@gmail.com 或 wn9279@qq.com
 ## 爆照
 <img src="http://onxkn9cbz.bkt.clouddn.com/lp.png" width = "200" height = "200" alt="2gether thru life" align=center />
 本博客由老婆倾情赞助

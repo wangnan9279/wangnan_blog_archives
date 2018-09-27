@@ -15,7 +15,7 @@ thumbnailImagePosition: left
 **转载请注明出处**
 独立博客：http://wangnan.tech 
 简书:http://www.jianshu.com/u/244399b1d776**
-知乎：https://zhuanlan.zhihu.com/c_121958856
+知乎：https://zhuanlan.zhihu.com/ghoststories
 
 MapReduce是一种可用于数据处理的编程模型，MapReduce程序本质上是并行运行的，因此可以将大规模数据分析任务分发给任何一个拥有足够多机器的数据中心，它的优势在于处理大规模数据
 

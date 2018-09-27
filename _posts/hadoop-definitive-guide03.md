@@ -15,7 +15,7 @@ thumbnailImagePosition: left
 **转载请注明出处**
 独立博客：http://wangnan.tech 
 简书:http://www.jianshu.com/u/244399b1d776**
-知乎：https://zhuanlan.zhihu.com/c_121958856
+知乎：https://zhuanlan.zhihu.com/ghoststories
 
 # 设计
 - 超大文件，已经有储存PB级数据的Hadoop集群了
