@@ -4,12 +4,12 @@ date: 2016-06-13 15:57:27
 tags: [Redis]
 categories: Redis
 link_title: redis-introduction
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/redis.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-62f90e62a67ab070.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/244/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
+![](https://upload-images.jianshu.io/upload_images/79431-62f90e62a67ab070.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/244/format/webp)
 > redis是一个速度非常快的非关系数据库，他可以存储键与5种不同类型的值之间的映射，可以将储存在内存的键值对持久化到硬盘，可以使用复制特性来扩展读性能，还可以使用客户端分片来扩展读性能
 
 ### reids简介

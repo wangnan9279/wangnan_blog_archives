@@ -4,12 +4,12 @@ tags: [Redis]
 date: 2016-08-23 16:14:12
 categories: Redis
 link_title: redis-data-safety
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/redis.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-62f90e62a67ab070.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/244/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/redis.png)
+![](https://upload-images.jianshu.io/upload_images/79431-62f90e62a67ab070.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/244/format/webp)
 
 <!-- more -->
 ## 持久化选项

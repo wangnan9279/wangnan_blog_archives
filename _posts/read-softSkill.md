@@ -4,13 +4,13 @@ title: 《软技能-代码之外的生存指南》书摘
 date: 2017-06-07 15:55:58
 tags: [书摘]
 categories: 书摘
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/13.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-07c2350495c78744.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
 thumbnailImagePosition: left
 link_title: read-softSkill
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/13.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-07c2350495c78744.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
 
 - 你所犯的最大的错误就是相信自己是在为别人工作，这样一来你对工作的安全感已然尽失，职业发展的驱动力一定是来自个体本身，记住：工作是属于公司的，而职业生涯是属于你自己的--厄尔 南丁格尔
 

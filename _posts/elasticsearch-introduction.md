@@ -1,15 +1,14 @@
 ---
 title: Elasticsearch简介
-date: 2016-05-08 12:31:23
+date: 2016-06-01 12:31:23
 tags: [ElasticSearch]
 categories: ElasticSearch
 link_title: elasticsearch-introduction
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp		
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
 > elasticsearch是一个可用于构建搜索应用的成品软件，区别去lucene这种中间件
 
 ## Apache Lucence简介
@@ -74,5 +73,3 @@ es将数据散步到多个物理lucene索引上，这些索引称为分片，而
 
 #### 查询操作
 查询并不是一个简答的，单步骤的操作，一般来说，查询分为两个阶段，分散阶段和合并阶段
-
-（注：内容整理自《深入理解Elasticsearch》）

@@ -4,13 +4,13 @@ link_title: algorithm-illustration-04
 date: 2017-05-18 14:01:44
 tags: [算法]
 categories: 书摘
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/17.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-a09fe00cff3f929e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/494/format/webp	
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
 <!--more-->
-![](http://onxkn9cbz.bkt.clouddn.com/17.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-a09fe00cff3f929e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/494/format/webp	)
 # 第七章 狄克斯特拉算法
 - 前一章使用了广度优先搜索，它找出的是段数最少的路径（如第一个图所示）。如果你
 要找出最快的路径（如第二个图所示），该如何办呢？为此，可使用另一种算法——狄克斯特拉

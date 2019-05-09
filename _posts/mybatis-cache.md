@@ -4,12 +4,13 @@ tags: [Mybatis]
 date: 2016-09-03 15:19:03
 categories: Mybatis
 link_title: mybatis-cache
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-74576230a7ae676d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/414/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
+
+
 > MyBatis提供一级缓存和二级缓存，其中一级缓存是sqlSession级别的缓存，不同的sqlSession之间的缓存互不影响。二级缓存是Mapper级别的缓存，多个sqlSession操作同一个Mapper，其二级缓存是可以共享的。
 
 MyBatis有多种二级缓存方案可供选择。其中对Memcached的支持较为成熟，现以Memcached为例介绍与spring项目的集成。

@@ -4,12 +4,12 @@ link_title: java-gc-collector
 date: 2017-08-22 14:03:13
 tags: [Java, JVM]
 categories: Java
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/39.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ef494d28c439e8cc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/39.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-ef494d28c439e8cc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
 <!-- toc -->
 # 说明
 针对jdk7
@@ -58,7 +58,7 @@ thumbnailImagePosition: left
 不同的垃圾回收器对堆内存的分配方式可能是不同的。一个良好的垃圾收集器应该有一个合理的堆内存区间划分。
 
 # 垃圾收集器介绍
-![](http://onxkn9cbz.bkt.clouddn.com/gc.png)
+![](https://upload-images.jianshu.io/upload_images/79431-53192cd5725d94a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/601/format/webp)
 
 ## 新生代串行收集器
 

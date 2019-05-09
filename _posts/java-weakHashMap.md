@@ -5,13 +5,13 @@ date: 2017-07-07 16:27:01
 tags: [Java, JavaCollection]
 categories: Java
 comments: true
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/20.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-f4c585b7b24daa24.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
 thumbnailImagePosition: left
 link_title: WeakHashMap
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/20.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-f4c585b7b24daa24.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
 参考：
 - http://mikewang.blog.51cto.com/3826268/880775
 - http://www.wanghd.com/%E5%90%8E%E7%AB%AF/2012/08/01/weakhashmapzuo-yong-he-shi-li.html

@@ -4,12 +4,11 @@ tags: [Mybatis]
 date: 2016-07-18 16:11:20
 categories: Mybatis
 link_title: mybatis-where-trim
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-74576230a7ae676d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/414/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > 今天遇到一个场景需要写一个这样的查询语句：
 用户对象userInfo包含下面几个字段： 
 userName phone email qqId weiboId wxId

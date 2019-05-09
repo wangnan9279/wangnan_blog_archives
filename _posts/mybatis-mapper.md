@@ -4,13 +4,11 @@ tags: [Mybatis]
 date: 2017-01-08 13:40:42
 categories: Mybatis
 link_title: mybatis-mapper
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-74576230a7ae676d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/414/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
-
 # 映射器主要元素
 - select  查询（可以自定义参数,返回结果集）
 - insert 插入（执行后返回一个整数，代表插入的条数）

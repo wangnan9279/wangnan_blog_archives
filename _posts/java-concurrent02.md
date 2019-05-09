@@ -4,12 +4,12 @@ date: 2017-06-13 14:36:33
 tags: [Java,JavaConcurrent]
 categories: Java
 link_title: java-concurrent02
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp	
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/java.png)
+![](https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp)
 # 休眠
 
 影响任务的一种简单方式是调用sleep（），这将使任务中止执行给定的时间。 

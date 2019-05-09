@@ -4,13 +4,13 @@ title: 《富爸爸穷爸爸》书摘-税收的历史和公司的力量
 date: 2017-03-13 10:33:14
 tags: [书摘, 理财]
 categories: 书摘
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/06.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-1eeb83c0143434ef.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/475/format/webp
 thumbnailImagePosition: left
 link_title: read-rich-father-pool-father06
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/06.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-1eeb83c0143434ef.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/475/format/webp)
 
 - 税金通过工作和养老金的形式发放给了政府雇员,通过政府采购的形式付给了富人
 

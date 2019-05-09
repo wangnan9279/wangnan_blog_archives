@@ -4,12 +4,12 @@ tags: [ElasticSearch]
 date: 2016-09-18 11:02:09
 categories: ElasticSearch
 link_title: elasticsearch-sort
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
+![](https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp)
 > 当你发送请求至elasticsearch,返回文档默认按文档得分降序排序，这是通常我们想要了，然而，有时候我们希望能改变这种排序方式
 
 下面的例子就容易做到：

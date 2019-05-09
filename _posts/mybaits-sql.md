@@ -4,12 +4,11 @@ tags: [Mybatis]
 date: 2017-01-13 15:44:39
 categories: Mybatis
 link_title: mybaits-sql
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-74576230a7ae676d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/414/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 
 如果使用JDBC或者其他框架，很多时候你得根据需要去拼装SQL,这是一个麻烦的事情，mybatis提供对sql语句动态的组装能力。大部分判断可以在mybatis的映射XML文件里面配置
 

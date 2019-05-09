@@ -4,12 +4,12 @@ date: 2017-04-18 16:30:38
 tags: [设计模式]
 categories: 书摘
 link_title: headFirstDesignPatterns03
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/dp02.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-9c7528524c137f05.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/232/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/dp02.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-9c7528524c137f05.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/232/format/webp)
 # 单例模式
 ## 定义
 确保一个类只有一个实例，并提供全局访问点

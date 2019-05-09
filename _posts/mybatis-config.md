@@ -4,12 +4,11 @@ tags: [Mybatis]
 date: 2017-01-03 14:26:18
 categories: Mybatis
 link_title: mybatis-config
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-74576230a7ae676d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/414/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 Mybatis配置XML文件的层次结构
 
 ![](mybatis-config/01.png)

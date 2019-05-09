@@ -1,15 +1,15 @@
 ---
 title: 《Hadoop权威指南》书摘-MapReduce概述
 link_title: hadoop-definitive-guide02
-date: 2018-07-23 14:38:03
+date: 2018-06-01 14:38:03
 tags: [Hadoop]
 categories: BigData
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/hadoop/hadoop.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-923e4afdf70e9574.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/464/format/webp
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop/hadoop.png)
+![](https://upload-images.jianshu.io/upload_images/79431-923e4afdf70e9574.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/464/format/webp)
 <!-- toc -->
 
 **转载请注明出处**
@@ -21,7 +21,7 @@ MapReduce是一种可用于数据处理的编程模型，MapReduce程序本质�
 
 ### map和reduce
 MapReduce任务可以分为两个处理阶段：map阶段和reduce阶段，每个阶段都以键值对作为输入和输出
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop02/01.png)
+![](https://upload-images.jianshu.io/upload_images/79431-afc5d832da3986d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/719/format/webp)
 
 ### 一些概念
 **job**
@@ -47,7 +47,7 @@ Hadoop在储存有输入数据（HDFS中的数据）的节点上运行map任务�
 reduce任务并不具备数据本地化优势，单个reduce任务的输入通常来自于所有mapper的输出，reduce的输出通常储存在HDFS中以实现可靠储存，reduce输出的每个HDFS块，第一个副本储存在本地节点上，其他复本出于可靠性考虑储存在其他机架的节点上
 
 reduce数据流图
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop02/02.png)
+![](https://upload-images.jianshu.io/upload_images/79431-145c928440af4cd0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/628/format/webp)
 
 reduce任务的数量并非由输入数据的大小决定，相反是独立的
 
@@ -55,7 +55,7 @@ reduce任务的数量并非由输入数据的大小决定，相反是独立的
 如果有好多个reduce任务，每个map任务就会针对输出进行分区（partition）,即为每个reduce任务建一个分区，每个分区有许多键，但每个建对应的键值对记录都在同一个分区中，分区可以由用户定义的分区函数控制，但通常默认的partitioner通过哈希函数来分区，很高效
 
 
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop02/03.png)
+![](https://upload-images.jianshu.io/upload_images/79431-4d3b339f5eba475b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/632/format/webp)
 **shuffle**
 多个reduce任务的数据流如图，map和reduce任务之间的数据流成为shuffle（混洗），因为每个reduce任务的输入都来自许多map任务，shuffle一般比图中所示的更负责，而且调整shuffle参数对作业总执行时间影响比较大
 

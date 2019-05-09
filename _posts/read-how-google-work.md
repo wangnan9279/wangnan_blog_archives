@@ -4,12 +4,12 @@ tags: [书摘]
 date: 2016-10-13 17:25:23
 categories: 书摘
 link_title: read-how-google-work
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/photo06.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-b4657d17df30a00f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/512/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/photo06.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-b4657d17df30a00f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/512/format/webp)
 
 
 > 大卫帕卡德严肃对待企业文化，1960年，在一次面对惠普管理者的演讲中，他提出，企业之所以存在，就是为了“做些有意义的事情，为社会做一份贡献......放眼四周，我们仍然能看到那些只盯着钱的人，但是多数人之所以有动力前进，是因为他们想要做一番事业：制作一款产品，提供一种服务，一言以蔽之，就是想要做些有意义的事”

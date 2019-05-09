@@ -4,12 +4,12 @@ link_title: elasticsearch-bulk
 tags: [ElasticSearch]
 date: 2016-09-13 10:10:02
 categories: ElasticSearch
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
+![](https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp)
 > elasticsearch提供了批量操作来读取数据和检索
 # 批量取
 可以通过_mget端点操作，一个请求获取多个文档，elasticsearch会返回哪些被索引的文档，**而不论这些文档可用于搜索还是暂时对查询不可见**

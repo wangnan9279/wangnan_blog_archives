@@ -1,15 +1,15 @@
 ---
 title: Lucene学习笔记
 link_title: lucene-study-note
-date: 2017-12-20 16:54:36
+date: 2018-08-18 16:54:36
 tags: [Lucene]
 categories: Lucene
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/09.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-63bdd612e56fc934.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/09.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-63bdd612e56fc934.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
 <!-- toc -->
 
 > 概要：
@@ -49,7 +49,7 @@ thumbnailImagePosition: left
 **这种先建立索引，再对索引进行搜索的过程就叫全文检索(Full-text Search)**
 
 ## 全文检索的过程
-![image](http://onxkn9cbz.bkt.clouddn.com/lucene01.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-9b8e7e82eecdd251.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/604/format/webp)
 
 提出三个问题：
 - 索引里面究竟存些什么？(Index)
@@ -67,7 +67,7 @@ thumbnailImagePosition: left
 反向索引报错信息一般如下：
 假设有100个文档，id为1-100，我们得到如下的结构
 
-![image](http://onxkn9cbz.bkt.clouddn.com/lucene02.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-a913c229a41c03ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/598/format/webp)
 
 左边报错的一系列字符串，称为**词典**
 右边的文档链表称为**倒排表**
@@ -77,7 +77,7 @@ thumbnailImagePosition: left
 2. 取出包含字符串“solr”的文档链表。
 3. 通过合并链表，找出既包含“lucene”又包含“solr”的文件。
 
-![image](http://onxkn9cbz.bkt.clouddn.com/lucene03.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-22a392e2974a611f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/606/format/webp)
 
 索引反映出了全文搜索优势：一次索引，多次使用。
 
@@ -119,15 +119,15 @@ thumbnailImagePosition: left
 **第四步，将得到的词(Term)传给索引组件(Indexer)**
 1. 利用得到的词(Term)创建一个字典。
 
-![image](http://onxkn9cbz.bkt.clouddn.com/lucene04.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-2b26bc124ab2228c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/442/format/webp)
 
 2.对字典按字母顺序进行排序
 
-![image](http://onxkn9cbz.bkt.clouddn.com/lucene05.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-bc727881a13a8e98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/442/format/webp)
 
 3. 合并相同的词(Term)成为文档倒排(Posting List)链表。
 
-![image](http://onxkn9cbz.bkt.clouddn.com/lucene06.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-2a9072f16117d966.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/599/format/webp)
 
 在此表中，有几个定义：
 - Document Frequency 即文档频次，表示总共有多少文件包含此词(Term)。
@@ -146,7 +146,7 @@ thumbnailImagePosition: left
 
 ## 全文检索原理总结
 
-![image](http://onxkn9cbz.bkt.clouddn.com/lucene07.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-7370a4974548c96f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/601/format/webp)
 
 刚才说的信息检索技术(Information retrieval)中的基本理论，Lucene就是对这种基本理论的一种基本的的实践。
 
@@ -166,7 +166,7 @@ Lucene是一个高效的，可扩展的，基于Java的全文检索库
 
 
 ## 索引结构
-![image](http://onxkn9cbz.bkt.clouddn.com/lucene08.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-c5930ee39168608f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 - index
 同一文件夹中的所有的文件构成一个Lucene 索引

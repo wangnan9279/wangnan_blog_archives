@@ -4,12 +4,12 @@ link_title: elasticsearch-analyzer
 date: 2017-09-18 15:50:59
 tags: [ElasticSearch]
 categories: ElasticSearch
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/43.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-27660e8a42b51714.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/513/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/43.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-27660e8a42b51714.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/513/format/webp)
 <!-- toc -->
 
 # 一些概念
@@ -29,7 +29,7 @@ thumbnailImagePosition: left
 Analyzer（分析器）由Tokenizer（分词器）和Filter（过滤器）组成
 
 ## 图片
-![image](http://onxkn9cbz.bkt.clouddn.com/analyer.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-d65616497a39d77b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/530/format/webp)
 
 # ES中的分词器
 ## ES内置分析器

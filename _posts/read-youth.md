@@ -4,12 +4,12 @@ date: 2016-06-28 16:45:10
 tags: [书摘]
 categories: 书摘
 link_title: read-youth
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/photo08.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-04062861cf5e850f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/photo08.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-04062861cf5e850f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
 
 
 > 青春五千日 人生三万天

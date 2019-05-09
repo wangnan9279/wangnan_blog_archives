@@ -4,13 +4,13 @@ title: 《富爸爸穷爸爸》书摘-为什么要教授财务知识
 date: 2017-03-03 10:48:23
 tags: [书摘, 理财]
 categories: 书摘
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/04.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-e6a274bd932cc627.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp
 thumbnailImagePosition: left
 link_title: read-rich-father-pool-father04
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/04.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-e6a274bd932cc627.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
 
 - 知识才能解决问题并创造财富,不是凭财务知识挣来的钱很快就会消失
 

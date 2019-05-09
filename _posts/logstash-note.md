@@ -1,15 +1,15 @@
 ---
 title: Logstash学习笔记
 link_title: logstash-note
-date: 2017-11-02 17:06:12
+date: 2018-09-01 17:06:12
 tags: [Logstash]
 categories: ELKstack
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/logstash.png	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-242d4984f703f03f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/358/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/logstash.png)
+![](https://upload-images.jianshu.io/upload_images/79431-242d4984f703f03f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/358/format/webp)
 <!-- toc -->
 
 # 背景
@@ -178,7 +178,7 @@ Pipeline main started
 
 ```
 然后到es的head插件中查看,es中已经存在一条数据了：
-![image](http://onxkn9cbz.bkt.clouddn.com/logstash-note-01.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-61523e15c096eccb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/487/format/webp)
 
 你将发现Logstash可以足够灵巧的在Elasticsearch上建立索引... 每天会按照默认格式是logstash-YYYY.MM.DD来建立索引。在午夜(GMT)，Logstash自动按照时间戳更新索引。我们可以根据追溯多长时间的数据作为依据来制定保持多少数据，当然你也可以把比较老的数据迁移到其他的地方(重新索引)来方便查询，
 
@@ -246,7 +246,7 @@ logstash输出：
 }
 ```
 然后到es的head插件中查看,es中已经存在一条数据了：
-![image](http://onxkn9cbz.bkt.clouddn.com/logstash-note-04.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-cb0cb0ec9b07fbc9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/603/format/webp)
 
 Logstash(使用了grok过滤器)能够将一行的日志数据(Apache的"combined log"格式)分割设置为不同的数据字段。这一点对于日后解析和查询我们自己的日志数据非常有用。比如：HTTP的返回状态码，IP地址相关等等，非常的容易。很少有匹配规则没有被grok包含，所以如果你正尝试的解析一些常见的日志格式，或许已经有人为了做了这样的工作。
 
@@ -334,7 +334,7 @@ Logstash 是由 JRuby 编写的，使用基于消息的简单架构，在 JVM �
 
 虽然模块仅仅比 MapReduce 框架多了一个，但是无三不成几，通过不同的拓扑结构，可以完成各类数据处理应用。不过这里我们主要还是以日志汇总处理系统的思路来进行介绍，一个典型的架构为：
 
-![image](http://onxkn9cbz.bkt.clouddn.com/logstash-note-02.png)
+![image](https://upload-images.jianshu.io/upload_images/79431-a6ffb52a2e4d5fdd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/893/format/webp)
 
 
 ## 配置语法

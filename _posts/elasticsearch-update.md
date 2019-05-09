@@ -4,12 +4,12 @@ tags: [ElasticSearch]
 date: 2016-09-23 16:26:59
 categories: ElasticSearch
 link_title: elasticsearch-update
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
+![](https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp)
 > 
 - 简单字段更新
 - 使用脚本按条件更新

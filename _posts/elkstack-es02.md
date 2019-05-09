@@ -1,15 +1,15 @@
 ---
 title: Elasticsearch数据接口用例
 link_title: elkstack-es02
-date: 2017-11-24 13:56:15
+date: 2018-10-16 13:56:15
 tags: [Elasticsearch]
 categories: ELKstack
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/06.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-4549186abf87e6f8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/475/format/webp
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/06.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-4549186abf87e6f8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/475/format/webp)
 <!-- toc -->
 # 目录
 - 增删改查

@@ -4,12 +4,12 @@ link_title: hadoop-definitive-guide05
 date: 2018-08-08 14:15:38
 tags: [Hadoop]
 categories: BigData
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/hadoop/hive.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-5177ccec636afe6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/237/format/webp
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop/hive.png)
+![](https://upload-images.jianshu.io/upload_images/79431-5177ccec636afe6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/237/format/webp)
 <!-- toc -->
 
 **转载请注明出处**

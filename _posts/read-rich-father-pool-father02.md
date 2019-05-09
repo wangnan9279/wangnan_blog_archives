@@ -5,12 +5,12 @@ date: 2017-02-23 10:26:45
 tags: [书摘, 理财]
 categories: 书摘
 link_title: read-rich-father-pool-father02
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/01.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ab1b345d1015d686.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/01.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-ab1b345d1015d686.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
 
 - 我有两个爸爸,一个富,一个穷。一个受过良好的教育,聪明绝顶,拥有博士的光环,他曾经在不到两年的时间里修完了四年制的大学本科学业,随后又在斯坦福大学、芝加哥大学和西北大学进一步深造,并且在所有这些学校都拿到了全奖；与之相反的是,我的另一个爸爸连八年级都没能念完。
 应该说两位爸爸的事业都相当成功,而且一辈子都很勤奋,因此,两人都有着丰厚的收入。然而其中一个人终其一生都在个人财务问题的泥沼中挣扎,另一个人则成了夏威夷最富有的人之一。一个爸爸身后为教堂、慈善机构和家人留下数千万美元的巨额遗产,而另一个爸爸却只留下一些待付的账单。

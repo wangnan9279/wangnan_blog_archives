@@ -4,12 +4,12 @@ tags: [Java ,Java8]
 date: 2017-01-28 15:55:47
 categories: Java
 link_title: java8-lambda
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java8.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
+![](https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp)
 > Lambda表达式，它可以很简洁地表示一个行为或传递代码，现在你可以把Lambda表达式看作匿名功能，它基本上就是没有声明名称的方法，但和匿名类一样，它也可以作为参数传递给一个方法
 
 <!--more-->

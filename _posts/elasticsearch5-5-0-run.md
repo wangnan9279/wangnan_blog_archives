@@ -4,12 +4,12 @@ link_title: elasticsearch5-5-0-run
 date: 2017-07-26 14:05:17
 tags: [ElasticSearch]
 categories: ElasticSearch
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/32.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-72bdb5cc3831e3d2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/32.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-72bdb5cc3831e3d2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
 <!-- toc -->
 # 1.环境与准备工作
 1. WINDOWS 10
@@ -21,7 +21,7 @@ thumbnailImagePosition: left
 gitlab地址：
 [elasticsearch](https://github.com/elastic/elasticsearch)
 
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch5-5-0-run01.png)
+![](https://upload-images.jianshu.io/upload_images/79431-48108e41f9c7cdb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 复制到sourcetree中，tag选择 v5.5.0
 
@@ -42,20 +42,20 @@ gradle build -x test
 对源码进行编译
 
 # 4.idea打开项目
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch5-5-0-run03.png)
+![](https://upload-images.jianshu.io/upload_images/79431-0c9fc5d7d4e90e59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/370/format/webp)
 
 配置好gradle的文件地址，其他的直接使用默认设置，直接next
 
 文件结构是这样的：
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch5-5-0-run04.png)
+![](https://upload-images.jianshu.io/upload_images/79431-154b84551fd0e93d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/465/format/webp)
 
 # 5.启动main函数
 打开类：org.elasticsearch.bootstrap.Elasticsearch
 运行里面的main函数
 需要添加一些启动参数：
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch5-5-0-run05.png)
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch5-5-0-run06.png)
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch5-5-0-run07.png)
+![](https://upload-images.jianshu.io/upload_images/79431-6dd9c4ce81c138ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/565/format/webp)
+![](https://upload-images.jianshu.io/upload_images/79431-ec42bc8e517f1c9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+![](https://upload-images.jianshu.io/upload_images/79431-60189d45dec23c56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/835/format/webp)
 
 **-Des.path.home**
 指定es的目录地址，elasticsearch在启动中会加载一些默认配置以及插件,我们直接加载elasticsearch安装目录下的配置和插件即可
@@ -81,12 +81,12 @@ https://www.elastic.co/downloads/elasticsearch
 
 # 6.运行main方法
 控制台看到如下说明启动成功
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch5-5-0-run09.png)
+![](https://upload-images.jianshu.io/upload_images/79431-b391c53daf704f83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 
 # 7.浏览器访问
 http://localhost:9200
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch5-5-0-run10.png)
+![](https://upload-images.jianshu.io/upload_images/79431-01f51d6a252df875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/453/format/webp)
 
 
 

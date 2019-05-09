@@ -4,12 +4,12 @@ link_title: java-LinkedHashMap-LRUcache
 date: 2017-07-19 15:58:09
 tags: [Java, JavaCollection]
 categories: Java
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/28.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-24ae55ead8346990.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/28.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-24ae55ead8346990.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
 <!-- toc -->
 # LRU 缓存介绍
 我们平时总会有一个电话本记录所有朋友的电话，但是，如果有朋友经常联系，那些朋友的电话号码不用翻电话本我们也能记住，但是，如果长时间没有联系了，要再次联系那位朋友的时候，我们又不得不求助电话本，但是，通过电话本查找还是很费时间的。但是，我们大脑能够记住的东西是一定的，**我们只能记住自己最熟悉的，而长时间不熟悉的自然就忘记了**。

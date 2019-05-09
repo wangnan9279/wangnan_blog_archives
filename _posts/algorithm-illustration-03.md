@@ -4,12 +4,12 @@ link_title: algorithm-illustration-03
 date: 2017-05-13 11:04:05
 tags: [算法]
 categories: 书摘
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/16.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-34a2a30bee4744f4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/16.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-34a2a30bee4744f4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
 <!--more-->
 # 第五章 散列表
 - 散列函数“将输入映射到数字”

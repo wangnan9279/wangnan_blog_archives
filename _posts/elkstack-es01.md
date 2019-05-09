@@ -1,15 +1,15 @@
 ---
 title: Elasticsearch架构原理
 link_title: elkstack-es01
-date: 2017-11-22 17:11:46
+date: 2018-10-08 17:11:46
 tags: [Elasticsearch]
 categories: ELKstack
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/05.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-f14239006327cf5d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/05.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-f14239006327cf5d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
 <!-- toc -->
 
 # 架构原理

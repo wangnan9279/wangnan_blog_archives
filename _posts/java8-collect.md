@@ -4,12 +4,12 @@ tags: [Java ,Java8]
 date: 2017-02-13 14:47:21
 categories: Java
 link_title: java8-collect
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java8.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
+![](https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp)
 # 收集器简介
 对流调用collect方法将对流中的元素触发一个规约操作
 

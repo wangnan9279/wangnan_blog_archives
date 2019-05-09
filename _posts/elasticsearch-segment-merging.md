@@ -4,12 +4,12 @@ tags: [ElasticSearch]
 date: 2016-10-08 15:41:03
 categories: ElasticSearch
 link_title: elasticsearch-segment-merging
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
+![](https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp)
 > elasticsearch 中每个索引都会创建一个到多个**分片**和零个到多个**副本**，这些分片或副本实质上都是**lucene索引**
 
 

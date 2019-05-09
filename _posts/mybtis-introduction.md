@@ -4,12 +4,11 @@ tags: [Mybatis]
 date: 2016-12-11 16:17:20
 categories: Mybatis
 link_title: mybtis-introduction
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-74576230a7ae676d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/414/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > 主要介绍了Java ORM来源于历史，JDBC、Hibernate和MyBatis的优缺点，比较他们之间区别和应用场景
 
 # JDBC

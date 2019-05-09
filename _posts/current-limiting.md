@@ -4,12 +4,12 @@ link_title: current-limiting
 date: 2017-10-25 10:07:58
 tags: []
 categories: 架构
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/01.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-500e4398a87b1738.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/01.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-500e4398a87b1738.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
 <!-- toc -->
 # 概述
 高并发系统时有三把利器用来保护系统：缓存、降级和限流，缓存的目的是提升系统访问速度和增大系统能处理的容量，降级是当服务出问题或者影响到核心流程的性能则需要暂时屏蔽掉，待高峰或者问题解决后再打开，而有些场景并不能用缓存和降级来解决，比如稀缺资源（秒杀、抢购）、写服务（如评论、下单）、频繁的复杂查询（评论的最后几页），因此需有一种手段来限制这些场景的并发/请求量，即限流
@@ -26,9 +26,9 @@ thumbnailImagePosition: left
 
 # 限流算法
 ## 令牌桶
-![](http://onxkn9cbz.bkt.clouddn.com/current-limiting01.png)
+![](https://upload-images.jianshu.io/upload_images/79431-d19d892c42a49a52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/485/format/webp)
 ## 漏桶
-![](http://onxkn9cbz.bkt.clouddn.com/current-limiting02.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-03d86f2392f16acd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
 ## 计数器
 有时候我们还使用计数器来进行限流，主要用来限制总并发数，比如数据库连接池、线程池、秒杀的并发数；只要全局总请求数或者一定时间段的总请求数设定的阀值则进行限流，是简单粗暴的总数量限流，而不是平均速率限流
 

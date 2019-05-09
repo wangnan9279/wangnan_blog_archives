@@ -1,15 +1,15 @@
 ---
 title: ES官方调优指南翻译
 link_title: elasticsearch-how-to
-date: 2018-01-30 13:43:28
+date: 2018-10-01 13:43:28
 tags: [ElasticSearch]
 categories: ElasticSearch
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/10.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-4080b403bb442c50.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/511/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/10.jpg	)
+![](https://upload-images.jianshu.io/upload_images/79431-4080b403bb442c50.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/511/format/webp)
 <!-- toc -->
 
 原文：https://www.elastic.co/guide/en/elasticsearch/reference/current/how-to.html

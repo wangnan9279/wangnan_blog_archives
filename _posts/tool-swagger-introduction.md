@@ -4,7 +4,7 @@ date: 2016-05-23 15:05:04
 tags: []
 categories: 工具
 link_title: tool-swagger-introduction
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/03.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-1eeb83c0143434ef.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/475/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->

@@ -4,12 +4,12 @@ tags: [Java, JavaIO]
 date: 2016-07-23 16:44:54
 categories: Java
 link_title: java-io-introduction
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java.png	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp	
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/java.png)
+![](https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp)
 > 学习Java中的IO，首先要理解Java中IO的流模型。
 所谓流，可以假想成河流，流的数据源，就是河流的发源地，流是单向的，流的单向性，就像河流的水流是单向的一样。
 

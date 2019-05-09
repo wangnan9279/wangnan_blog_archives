@@ -4,13 +4,13 @@ title: 《富爸爸穷爸爸》书摘-不要为钱而工作　
 date: 2017-03-23 11:25:05
 tags: [书摘, 理财]
 categories: 书摘
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/09.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-48eee1f8ef7dcf2d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp
 thumbnailImagePosition: left
 link_title: read-rich-father-pool-father08
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/09.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-48eee1f8ef7dcf2d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 - 世界上到处都是精明、才华横溢、受过良好教育以及很有天赋的人,我们每天都会碰到他们,他们就在我们的周围。几天前,我的汽车不大灵便。我把它开进维修厂,一位年轻的机械工几分钟之内就把它修好了。他仅凭倾听发动机的声音就能确定哪儿有毛病,这使我感到非常惊讶。然而遗憾的是,真正能够很好地利用这种非凡才华的人总是太少。
 　　

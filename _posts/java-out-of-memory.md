@@ -4,12 +4,12 @@ link_title: java-out-of-memory
 date: 2017-08-15 11:31:24
 tags: [Java, JVM]
 categories: Java
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/35.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6474b28c8703e1d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/35.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-c6474b28c8703e1d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
 <!-- toc -->
 # 写在前面 
 ## 内存溢出和内存泄漏的区别：

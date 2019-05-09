@@ -4,12 +4,12 @@ date: 2017-06-18 14:40:29
 tags: [Java,JavaCollection]
 categories: Java
 link_title: hashMap-note
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/hashMap.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-227301979b380e86.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/218/format/webp	
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/hashMap.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-227301979b380e86.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/218/format/webp)
 参考：
 - http://blog.csdn.net/vking_wang/article/details/14166593
 - http://wiki.jikexueyuan.com/project/java-collection/hashmap.html

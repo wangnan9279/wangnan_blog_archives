@@ -4,12 +4,12 @@ link_title: elasticsearch-geo-distance-query
 tags: [ElasticSearch]
 date: 2016-08-03 13:50:17
 categories: ElasticSearch
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp	
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
+![](https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp)
 > ## 官方文档：
 https://www.elastic.co/guide/en/elasticsearch/reference/2.4/query-dsl-geo-distance-query.html#_geohash_3
 

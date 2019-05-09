@@ -1,15 +1,14 @@
 ---
 title: Java项目中使用Mybatis入门程序
-date: 2016-05-18 17:35:41
+date: 2016-06-08 17:35:41
 tags: [Mybatis, Java]
 categories: Mybatis
 link_title: mybatis-getting-started
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-74576230a7ae676d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/414/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/mybatis.jpg)
 > MyBatis 是支持定制化 SQL、存储过程以及高级映射的优秀的持久层框架。
 
 # 什么是 MyBatis ?

@@ -4,12 +4,12 @@ tags: [Java ,Java8]
 date: 2017-02-03 13:33:09
 categories: Java
 link_title: java8-stream-introduction
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/java8.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/java8.png)
+![](https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp)
 > 几乎每个java应用程序都会制造和处理集合，要是没有集合，还能做什么呢？尽管集合对于几乎任何一个java应用都是不可或缺的，但是集合操作却远远算不上完美
 
 - 很多业务逻辑都涉及类似于数据库的操作，比如对几道菜按照类别进行分组，查找出最贵的菜，大部分数据库都允许你声明式地指定这些操作，你不需要实现如何筛选，你只需要表达你想要的，都替你办好了，**怎么到了集合就不能这样了呢？**

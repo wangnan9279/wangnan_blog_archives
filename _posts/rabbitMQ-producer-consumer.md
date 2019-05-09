@@ -4,12 +4,12 @@ tags: [RabbitMQ]
 date: 2016-10-23 11:07:25
 categories: RabbitMQ
 link_title: rabbitMQ-producer-consumer
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-10233747fe467500.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/368/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/rabbitmq.png)
+![](https://upload-images.jianshu.io/upload_images/79431-10233747fe467500.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/368/format/webp)
 
 
 # 消费者和生产者

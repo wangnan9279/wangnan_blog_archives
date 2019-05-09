@@ -4,12 +4,12 @@ link_title: git-rebase
 date: 2017-10-16 17:02:43
 tags: [Git]
 categories: 工具
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/46.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-e24df1aef80b447f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/502/format/webp
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/46.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-e24df1aef80b447f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/502/format/webp)
 <!-- toc -->
 ## merge 和rebase什么关系
 git rebase 和git merge 做的事其实是一样的。它们都被设计来将一个分支的更改并入另一个分支，只不过方式有些不同。

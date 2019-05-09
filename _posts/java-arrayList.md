@@ -4,12 +4,12 @@ link_title: java-arrayList
 date: 2017-07-31 14:51:55
 tags: [Java, JavaCollection]
 categories: Java
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/33.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-d6973a0090c265ca.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/453/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/33.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-d6973a0090c265ca.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/453/format/webp)
 <!-- toc -->
 
 # 1.迭代ArrayList时做add或remove操作会发生什么？

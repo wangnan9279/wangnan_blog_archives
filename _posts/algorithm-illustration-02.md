@@ -4,12 +4,12 @@ link_title: algorithm-illustration-02
 date: 2017-05-08 14:41:46
 tags: [算法]
 categories: 书摘
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/15.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-e6f6e6307252a234.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/15.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-e6f6e6307252a234.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
 # 第三章 递归
 - 递归只是让解决方案更清晰，并没有性能上的优势。实际上，在有些情况下，使用循环的性能更好。
 

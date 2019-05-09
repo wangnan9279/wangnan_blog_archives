@@ -4,13 +4,13 @@ title: 《富爸爸穷爸爸》书摘-克服困难　
 date: 2017-03-28 11:23:44
 tags: [书摘, 理财]
 categories: 书摘
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/10.jpg
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-1cc1c5a5c6f65609.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp
 thumbnailImagePosition: left
 link_title: read-rich-father-pool-father09
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/10.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-1cc1c5a5c6f65609.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 - 仅掌握财务知识的人很多时候仍然不能拥有充裕的资产项目,其主要原因有五个：1.恐惧心理；2.愤世嫉俗；3.懒惰；4.不良习惯；5.自负
 

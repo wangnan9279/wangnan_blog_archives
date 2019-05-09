@@ -4,12 +4,12 @@ link_title: hadoop-definitive-guide04
 date: 2018-07-27 14:55:32
 tags: [Hadoop]
 categories: BigData
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/hadoop/hadoop.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-923e4afdf70e9574.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/464/format/webp
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop/hadoop.png)
+![](https://upload-images.jianshu.io/upload_images/79431-923e4afdf70e9574.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/464/format/webp)
 <!-- toc -->
 
 **转载请注明出处**
@@ -22,7 +22,7 @@ Apache YARN (Yet Another Resource Negotiaor的缩写)是Hadoop的集群资源管
 
 YARN提供请求和使用集群资源的API，但这些API很少直接用于用户代码，用户代码用的是分布式计算框架提供的更高层API,如图，一些分布式计算框架（MapReduce Spark）作为YARN应用运行在集群计算层（YARN）和集群储存层（HDFS和Hbase）上
 
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop04/01.png)
+![](https://upload-images.jianshu.io/upload_images/79431-7a260170b3afe591.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/666/format/webp)
 
 # 运行机制
 YARN通过两类长期运行的守护进程提供自己的核心服务：
@@ -32,7 +32,7 @@ YARN通过两类长期运行的守护进程提供自己的核心服务：
 **容器**
 容器用于执行特定应用程序的进程，每个容器都有资源限制（内存，cpu等）一个容器可以是一个unix进程，也可以是一个linux cgroup 取决于yarn的配置
 
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop04/02.png)
+![](https://upload-images.jianshu.io/upload_images/79431-95558482420867c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/683/format/webp)
 
 为了在yarn上运行一个应用，首先，客户端联系资源管理器，要求它运行一个application master进程，然后，资源管理器找到一个能够子啊容器中启动application master 的节点管理器
 
@@ -72,7 +72,7 @@ YARN有三种调度器
 - 容量调度器
 - 公平调度器
 
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop04/03.png)
+![](https://upload-images.jianshu.io/upload_images/79431-58255ed56bfb1ba9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/483/format/webp)
 
 
 **FIFO调度器**

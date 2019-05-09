@@ -4,12 +4,12 @@ link_title: hadoop-definitive-guide03
 date: 2018-07-26 16:14:32
 tags: [Hadoop]
 categories: BigData
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/hadoop/hadoop.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-923e4afdf70e9574.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/464/format/webp
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop/hadoop.png)
+![](https://upload-images.jianshu.io/upload_images/79431-923e4afdf70e9574.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/464/format/webp)
 <!-- toc -->
 
 **转载请注明出处**
@@ -56,13 +56,13 @@ hadoop配置了一对  active-standy namenode 当活动namenode失效，备用na
 
 # 数据流
 ## 文件读取
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop03/01.png)
+![](https://upload-images.jianshu.io/upload_images/79431-eddcdd26303a9789.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/628/format/webp)
 
 - 客户端通过RPC调用namenode，以确定文件起始块的位置,对于每一个块，namenode返回存在该快副本的datanode地址，此外，这些datanode根据他们与客户端的距离来排序，如果该客户端本身就是一个datanode，那么该客户端将会从保存有相应数据块复本的本地datanode读取数据
 
 
 ## 文件写入
-![](http://onxkn9cbz.bkt.clouddn.com/hadoop03/02.png)
+![](https://upload-images.jianshu.io/upload_images/79431-fc8fa64892ce3f33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/641/format/webp)
 
 - 客户端通过RPC调用namenode，在文件系统的命名空间中新建一个文件，此时该文件中还没有相应的数据块
 - namenode执行各种不同的检查以确保这个文件不存在以及客户端有新建该文件的权限，如果通过，就为创建新文件记录一条记录

@@ -4,12 +4,12 @@ link_title: net-why-https
 date: 2017-09-19 14:05:04
 tags: [网络]
 categories: 网络
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/44.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-35a135fc1cf56376.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/453/format/webp	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/44.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-35a135fc1cf56376.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/453/format/webp)
 <!-- toc -->
 # 前言
 HTTP 是一种超文本传输协议，它是无状态的、简单快速的、基于 TCP 的可靠传输协议。

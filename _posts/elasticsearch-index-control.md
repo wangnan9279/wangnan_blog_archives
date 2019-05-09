@@ -4,12 +4,12 @@ tags: [ElasticSearch]
 date: 2016-10-03 17:44:54
 categories: ElasticSearch
 link_title: elasticsearch-index-control
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/elasticsearch.png)
+![](https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp)
 >   如何使用不同评分公式及其特性
     如何使用不同的倒排表格式极其特性
     如何处理准实时搜索、实时读取、以及搜索器重新打开之后的动作

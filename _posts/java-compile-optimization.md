@@ -4,12 +4,12 @@ link_title: java-compile-optimization
 date: 2017-08-23 10:06:45
 tags: [Java, JVM]
 categories: Java
-thumbnailImage: http://onxkn9cbz.bkt.clouddn.com/40.jpg	
+thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-07c9bb57c523b4d9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](http://onxkn9cbz.bkt.clouddn.com/40.jpg)
+![](https://upload-images.jianshu.io/upload_images/79431-07c9bb57c523b4d9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
 <!-- toc -->
 在部分的商用虚拟机中，Java 程序最初是通过解释器（Interpreter ）进行解释执行的，**当虚拟机发现某个方法或代码块的运行特别频繁的时候，就会把这些代码认定为“热点代码”。为了提高热点代码的执行效率，在运行时，即时编译器（Just In Time Compiler ）会把这些代码编译成与本地平台相关的机器码，并进行各种层次的优化。**
 
@@ -22,7 +22,7 @@ thumbnailImagePosition: left
 - 编译器优点：在程序运行时，随着时间的推移，编译器逐渐发挥作用根据热点探测功能，，将有价值的字节码编译为本地机器指令，以换取更高的程序执行效率。 
 因此，整个虚拟机执行架构中，解释器与编译器经常配合工作。
 
-![](http://onxkn9cbz.bkt.clouddn.com/jvm-compile.png)
+![](https://upload-images.jianshu.io/upload_images/79431-7bcc1f2be00bb562.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/646/format/webp)
 
 
 HotSpot中内置了两个即时编译器，分别称为 Client Compiler和 Server Compiler ，或者简称为 C1编译器和 C2编译器。
