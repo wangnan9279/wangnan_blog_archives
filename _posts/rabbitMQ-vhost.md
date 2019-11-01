@@ -4,12 +4,12 @@ tags: [RabbitMQ]
 date: 2016-11-08 10:35:48
 categories: RabbitMQ
 link_title: rabbitMQ-vhost
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-10233747fe467500.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/368/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/qxFNC2JSAngio3Y.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-10233747fe467500.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/368/format/webp)
+![](https://i.loli.net/2019/09/25/qxFNC2JSAngio3Y.png)
 
 > 每个RabbitMQ服务器都能创建虚拟的消息服务器，我们称之为**虚拟主机(vhost)**每一个vhost本质上是一个mini版的RabbitMQ服务器，拥有自己的队列、交换器和绑定等等
 

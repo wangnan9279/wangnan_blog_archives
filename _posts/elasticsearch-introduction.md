@@ -4,7 +4,7 @@ date: 2016-06-01 12:31:23
 tags: [ElasticSearch]
 categories: ElasticSearch
 link_title: elasticsearch-introduction
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp		
+thumbnailImage: https://i.loli.net/2019/09/25/wOcjeg83JZbDn2E.png		
 thumbnailImagePosition: left
 ---
 <!-- toc -->

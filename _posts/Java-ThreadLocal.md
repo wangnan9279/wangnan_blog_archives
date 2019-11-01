@@ -4,12 +4,12 @@ date: 2016-06-23 16:44:22
 tags: [Java, JavaConcurrent]
 categories: Java
 link_title: java-ThreadLocal
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp)
+![](https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png)
 > ThreadLocal在Spring中发挥着重要的作用，在管理request作用域的Bean、事务管理、任务调度、AOP等模块都出现了它们的身影，起着举足轻重的作用。要想了解Spring事务管理的底层技术，ThreadLocal是必须攻克的山头堡垒。
 
 

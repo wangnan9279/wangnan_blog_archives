@@ -4,12 +4,12 @@ link_title: lucene-study-note
 date: 2018-08-18 16:54:36
 tags: [Lucene]
 categories: Lucene
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-63bdd612e56fc934.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/5h8JU1iRIONgMAs.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-63bdd612e56fc934.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/5h8JU1iRIONgMAs.png)
 <!-- toc -->
 
 > 概要：

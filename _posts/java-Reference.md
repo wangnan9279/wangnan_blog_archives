@@ -4,12 +4,12 @@ date: 2017-07-06 10:15:54
 tags: [Java]
 categories: Java
 link_title: java-Reference
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-0553b25851106a31.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/287/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-0553b25851106a31.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/287/format/webp)
+![](https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png)
 
 
 > 在JDK 1.2以前的版本中，若一个对象不被任何变量引用，那么程序就无法再使用这个对象。也就是说，只有对象处于可触及（reachable）状态，程序才能使用它。从JDK 1.2版本开始，把对象的引用分为4种级别，从而使程序能更加灵活地控制对象的生命周期。这4种级别由高到低依次为：**强引用、软引用、弱引用和虚引用**。

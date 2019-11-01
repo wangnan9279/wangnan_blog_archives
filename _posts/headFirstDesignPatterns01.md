@@ -4,12 +4,12 @@ date: 2017-04-08 15:57:05
 tags: [设计模式]
 categories: 书摘
 link_title: headFirstDesignPatterns01
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-9c7528524c137f05.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/232/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/YEDeBCFmRxt9V1J.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-9c7528524c137f05.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/232/format/webp)
+![](https://i.loli.net/2019/09/25/YEDeBCFmRxt9V1J.png)
 # 策略模式
 ## 定义：
 定义算法族，分别封装起来，让他们之间可以互相替换，此模式让算法的变化独立于使用算法的客户

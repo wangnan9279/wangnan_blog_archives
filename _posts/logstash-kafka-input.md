@@ -4,12 +4,12 @@ link_title: logstash-kafka-input
 date: 2018-09-30 16:06:41
 tags: [Logstash]
 categories: ELKstack
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-32818f9e191f0782.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/Xnpcz12sZgDPytY.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-32818f9e191f0782.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/Xnpcz12sZgDPytY.png)
 <!-- toc -->
 # 安装
 

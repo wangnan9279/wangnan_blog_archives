@@ -3,13 +3,13 @@ title: TCP协议三次握手四次挥手整理
 date: 2017-07-12 11:10:35
 categories: [网络]
 tags: [网络]
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-6fdd85bed4ea6d46.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/CPHbAVTq8vDG2LX.png	
 thumbnailImagePosition: left
 link_title: tcp-shakehands
 ---
 <span/>
 <!--more-->
-![](https://upload-images.jianshu.io/upload_images/79431-6fdd85bed4ea6d46.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/CPHbAVTq8vDG2LX.png)
 <!-- toc -->
 #  TCP协议中的三次握手
 ## 直接上图

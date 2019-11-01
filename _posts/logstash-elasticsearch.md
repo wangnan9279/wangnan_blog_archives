@@ -4,12 +4,12 @@ link_title: logstash-elasticsearch
 date: 2018-09-16 10:05:46
 tags: [Logstash]
 categories: ELKstack
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-5cce9ecc97cffe6f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/pj9LiBTDMHNhEAY.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-5cce9ecc97cffe6f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/pj9LiBTDMHNhEAY.png)
 <!-- toc -->
 # output配置中elasticsearch配置
 ## action 

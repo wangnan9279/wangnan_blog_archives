@@ -4,12 +4,12 @@ date: 2016-12-05 11:35:48
 tags: [书摘]
 categories: 书摘
 link_title: read-think-like-programmer
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ab1b345d1015d686.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/gRfbN1UWMxp57zY.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![01](https://upload-images.jianshu.io/upload_images/79431-ab1b345d1015d686.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/25/gRfbN1UWMxp57zY.png)
 
 > 这本书的第一章阐述了一些解决问题的策略，举了几个例子，还是挺有趣的，之后还用c++演示了一些具体的解决问题的方法，有兴趣可以读一下
 

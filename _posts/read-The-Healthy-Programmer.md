@@ -5,13 +5,13 @@ date: 2017-07-06 14:17:47
 tags: [书摘]
 categories: 书摘
 comments: true
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-62db945a1e9b6222.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/x5Dbgi798YZuaGm.png
 thumbnailImagePosition: left
 link_title: The-Healthy-Programmer
 ---
 <!-- toc -->
 <!--more-->
-![](https://upload-images.jianshu.io/upload_images/79431-62db945a1e9b6222.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/x5Dbgi798YZuaGm.png)
 - 给自己称重，但不要执着于此。健康是个多面体，单单专注于其中的一面，无
 法给你的健康情况做出一个准确的描述。
 - 看看本章开头的问题清单，把答案写下来。时不时回顾答案，看看情况是否有

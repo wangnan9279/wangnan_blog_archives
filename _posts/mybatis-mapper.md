@@ -4,7 +4,7 @@ tags: [Mybatis]
 date: 2017-01-08 13:40:42
 categories: Mybatis
 link_title: mybatis-mapper
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-74576230a7ae676d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/414/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/fSiV6E5CYoMK9uF.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->

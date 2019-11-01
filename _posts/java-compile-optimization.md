@@ -4,12 +4,12 @@ link_title: java-compile-optimization
 date: 2017-08-23 10:06:45
 tags: [Java, JVM]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-07c9bb57c523b4d9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/xVaugCrGe9JPFyA.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-07c9bb57c523b4d9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/xVaugCrGe9JPFyA.png)
 <!-- toc -->
 在部分的商用虚拟机中，Java 程序最初是通过解释器（Interpreter ）进行解释执行的，**当虚拟机发现某个方法或代码块的运行特别频繁的时候，就会把这些代码认定为“热点代码”。为了提高热点代码的执行效率，在运行时，即时编译器（Just In Time Compiler ）会把这些代码编译成与本地平台相关的机器码，并进行各种层次的优化。**
 

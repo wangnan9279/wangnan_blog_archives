@@ -4,12 +4,12 @@ link_title: es5.x-deploy-problem
 date: 2017-09-08 15:12:24
 tags: [ElasticSearch]
 categories: ElasticSearch
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-a021cbc24f0ba70f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/7CBLzvXhm2uGMT9.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-a021cbc24f0ba70f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/7CBLzvXhm2uGMT9.png)
 <!-- toc -->
 # 问题一
 > can not run elasticsearch as root

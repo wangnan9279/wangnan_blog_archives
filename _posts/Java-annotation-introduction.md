@@ -4,12 +4,12 @@ date: 2016-06-18 16:35:45
 tags: [Java]
 categories: Java
 link_title: java-annotation-introduction
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp)
+![](https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png)
 > 有必要对JDK 5.0新增的注解（Annotation）技术进行简单的学习，因为spring 支持@AspectJ，而@AspectJ本身就是基于JDK 5.0的注解技术。所以学习JDK 5.0的注解知识有助于我们更好地理解和掌握Spring的AOP技术。
 
 # 了解注解

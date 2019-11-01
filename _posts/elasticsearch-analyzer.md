@@ -4,12 +4,12 @@ link_title: elasticsearch-analyzer
 date: 2017-09-18 15:50:59
 tags: [ElasticSearch]
 categories: ElasticSearch
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-27660e8a42b51714.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/513/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/DhM2R4YacPsOzfm.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-27660e8a42b51714.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/513/format/webp)
+![](https://i.loli.net/2019/09/24/DhM2R4YacPsOzfm.png)
 <!-- toc -->
 
 # 一些概念

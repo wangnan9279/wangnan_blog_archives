@@ -4,12 +4,12 @@ link_title: java-ThreadPoolExecutor
 date: 2017-07-25 16:14:51
 tags: [Java, JavaConcurrent]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-4c5250ccfeea7489.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/1e9jMRtJdlvCQ2k.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-4c5250ccfeea7489.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/1e9jMRtJdlvCQ2k.png)
 <!-- toc -->
 # 概述
 从Java5开始，Java提供了自己的线程池。每次只执行指定数量的线程，java.util.concurrent.ThreadPoolExecutor 就是这样的线程池

@@ -4,12 +4,12 @@ link_title: elasticsearc-filtered
 tags: [ElasticSearch]
 date: 2016-09-28 16:12:14
 categories: ElasticSearch
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/wOcjeg83JZbDn2E.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp)
+![](https://i.loli.net/2019/09/25/wOcjeg83JZbDn2E.png)
 > elasticsearch提供了一种特殊的缓存，即过滤器缓存（filter cache），用来储存过滤器的结果
 
 被缓存的过滤器不需要消耗过多的内存，因为他们只储存了哪些文档能与过滤器相匹配的相关信息，而且可供后续所有与之相关的查询重复使用，从而极大的提高了查询性能

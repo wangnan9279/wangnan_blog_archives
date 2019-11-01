@@ -4,12 +4,12 @@ link_title: java-gc-collector
 date: 2017-08-22 14:03:13
 tags: [Java, JVM]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ef494d28c439e8cc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/QRJBwpzMgVvqafl.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-ef494d28c439e8cc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/QRJBwpzMgVvqafl.png)
 <!-- toc -->
 # 说明
 针对jdk7

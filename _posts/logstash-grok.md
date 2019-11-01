@@ -4,12 +4,12 @@ link_title: logstash-grok
 date: 2018-09-08 09:49:48
 tags: [Logstash]
 categories: ELKstack
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ff86f5a25b24dc4e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/y8pX6aMDFxSP9OC.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-ff86f5a25b24dc4e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/y8pX6aMDFxSP9OC.png)
 <!-- toc -->
 # 概述
 Grok 是 Logstash 最重要的插件。你可以在 grok 里预定义好命名正则表达式

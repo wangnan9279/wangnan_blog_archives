@@ -4,12 +4,12 @@ tags: [ElasticSearch]
 date: 2016-08-13 14:51:47
 categories: ElasticSearch
 link_title: elasticsearch-study-note
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/wOcjeg83JZbDn2E.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp)
+![](https://i.loli.net/2019/09/25/wOcjeg83JZbDn2E.png)
 > Elasticsearch是一个可伸缩的开源全文搜索和分析引擎，它使你可以快速且接近实时的去保存，查询和分析海量的数据，他的潜在应用场景是作为一些有复杂搜索功能和需求的应用的搜索
 引擎
 

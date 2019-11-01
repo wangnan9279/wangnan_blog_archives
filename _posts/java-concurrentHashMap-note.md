@@ -4,12 +4,12 @@ link_title: java-concurrentHashMap
 date: 2017-06-15 16:20:42
 tags: [Java,JavaCollection]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-1611259bde4b1226.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/265/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/ltZSmsBdRPOEoFy.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-https://upload-images.jianshu.io/upload_images/79431-1611259bde4b1226.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/265/format/webp
+![](https://i.loli.net/2019/09/25/ltZSmsBdRPOEoFy.png)
 参考：
 - http://blog.csdn.net/qq_27093465/article/details/52279473
 - http://blog.csdn.net/u010723709/article/details/48007881

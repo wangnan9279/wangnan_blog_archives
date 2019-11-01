@@ -4,12 +4,12 @@ tags: [ElasticSearch]
 date: 2016-09-08 16:33:12
 categories: ElasticSearch
 link_title: elasticsearch-rescore
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/wOcjeg83JZbDn2E.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-c6d398af52f4b48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/558/format/webp)
+![](https://i.loli.net/2019/09/25/wOcjeg83JZbDn2E.png)
 > 二次评分给了用户很多机会来定制业务逻辑
 
 # 理解二次评分

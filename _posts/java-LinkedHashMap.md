@@ -4,12 +4,12 @@ link_title: java-LinkedHashMap
 date: 2017-07-17 15:45:03
 tags: [Java, JavaCollection]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-b396d879a27c7de2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/hUpETKZRcieINy8.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-b396d879a27c7de2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/hUpETKZRcieINy8.png)
 <!-- toc -->
 # 概述
 - HashMap 是无序的，HashMap 在 put 的时候是根据 key 的 hashcode 进行 hash 然后放入对应的地方。所以遍历 HashMap 的顺序跟 put 的顺序不同

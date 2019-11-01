@@ -4,12 +4,12 @@ date: 2016-07-03 16:53:44
 tags: [Redis]
 categories: Redis
 link_title: redis-webapp
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-62f90e62a67ab070.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/244/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/NLX2v7dwDOUfrnT.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-62f90e62a67ab070.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/244/format/webp)
+![](https://i.loli.net/2019/09/25/NLX2v7dwDOUfrnT.png)
 
 
 ## 目录

@@ -4,12 +4,12 @@ link_title: elkstack-es03
 date: 2018-10-30 10:46:05
 tags: [Elasticsearch]
 categories: ELKstack
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-4b84cdece6d7964c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/512/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/blxsp94CIGzf7iq.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-4b84cdece6d7964c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/512/format/webp)
+![](https://i.loli.net/2019/09/24/blxsp94CIGzf7iq.png)
 <!-- toc -->
 # 目录
 - 批量提交

@@ -4,12 +4,11 @@ date: 2016-06-08 17:36:02
 tags: [Java]
 categories: Java
 link_title: java-reflection-introduction
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp
-thumbnailImagePosition: left
+thumbnailImage: https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp)
+![](https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png)
 > Java语言允许通过程序化的方式间接对Class进行操作，Class文件由类装载器装载后，在JVM中将形成一份描述Class结构的元信息对象，通过该元信息对象可以获知Class的结构信息：如构造函数、属性和方法等。Java允许用户借由这个Class相关的元信息对象间接调用Class对象的功能，这就为使用程序化方式操作Class对象开辟了途径。
 
 > 原文链接：http://stamen.iteye.com/blog/1497981

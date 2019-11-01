@@ -5,12 +5,12 @@ date: 2017-07-11 11:00:14
 tags: [Java, JVM]
 categories: Java
 link_title: java-memory
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-9973d5493466523a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/vrXDzOGqiZVj2ed.png	
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-9973d5493466523a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/vrXDzOGqiZVj2ed.png)
 <!--more-->
 - 一般地大家讲到的Java内存其实就是Jvm内存
 - Java代码是运行在Java虚拟机之上的，由Java虚拟机通过解释执行(解释器)或编译执行(即时编译器)来完成，故Java内存模型，也就是指Java虚拟机的运行时内存模型。

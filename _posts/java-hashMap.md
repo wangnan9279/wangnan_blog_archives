@@ -4,12 +4,12 @@ date: 2017-06-18 14:40:29
 tags: [Java,JavaCollection]
 categories: Java
 link_title: hashMap-note
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-227301979b380e86.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/218/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/25/DrKHRdAlguNWFX2.png	
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-227301979b380e86.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/218/format/webp)
+![](https://i.loli.net/2019/09/25/DrKHRdAlguNWFX2.png)
 参考：
 - http://blog.csdn.net/vking_wang/article/details/14166593
 - http://wiki.jikexueyuan.com/project/java-collection/hashmap.html

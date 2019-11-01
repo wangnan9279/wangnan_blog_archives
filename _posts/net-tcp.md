@@ -3,13 +3,13 @@ title: 网络分层、TCP、IP、Http、Socket整理
 date: 2017-07-12 10:05:41
 categories: [网络]
 tags: [网络]
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-25d0972c0b509b94.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/452/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/LOYVfZQRJX24nPl.png	
 thumbnailImagePosition: left
 link_title: net-tcp
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-25d0972c0b509b94.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/452/format/webp)
+![](https://i.loli.net/2019/09/24/LOYVfZQRJX24nPl.png)
 <!-- toc -->
 # 网络分层
 > 网络分层就是将网络节点所要完成的数据的发送或转发、打包或拆包，控制信息的加载或拆出等工作，分别由不同的硬件和软件模块去完成。这样可以将往来通信和网络互连这一复杂的问题变得较为简单。

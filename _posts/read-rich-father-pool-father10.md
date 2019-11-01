@@ -4,13 +4,13 @@ title: 《富爸爸穷爸爸》书摘-开始行动
 date: 2017-04-03 10:54:00
 tags: [书摘, 理财]
 categories: 书摘
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-04062861cf5e850f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/W7kHjU8Xb6weFI5.png
 thumbnailImagePosition: left
 link_title: read-rich-father-pool-father10
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-04062861cf5e850f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/25/W7kHjU8Xb6weFI5.png)
 
 - 我相信,我们每个人都拥有内在的理财天赋,问题是,这种理财天赋一直处于休眠状态。这种天赋处于休眠状态的原因,是因为我们的文化把对金钱的需要视为万恶之源,并把这种观念灌输给了我们,这种观念促使我们学习某种技能,并为金钱而工作,却没能教给我们如何让金钱来为我们而工作。我们被告知不必去担忧将来的财务状况,因为一旦我们退休了,公司或者政府会照顾我们。然而,现在在同样的学校体制下受教育的我们的孩子们,他们将来却有可能不再向公司和政府支付提供这种照顾所需要的钱。可现有的信息仍告诉我们努力工作,挣钱维生,当缺钱时,我们总能借到钱。
 

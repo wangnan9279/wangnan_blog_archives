@@ -4,12 +4,12 @@ tags: [Java ,Java8]
 date: 2017-02-08 11:09:29
 categories: Java
 link_title: java8-stream-use
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp)
+![](https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png)
 # 筛选和切片
 ## 用谓词筛选
 **filter方法**

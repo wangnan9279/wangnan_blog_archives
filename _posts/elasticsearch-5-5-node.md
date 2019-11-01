@@ -4,12 +4,12 @@ link_title: elasticsearch-5.5-node
 date: 2017-08-17 10:05:08
 tags: [ElasticSearch]
 categories: ElasticSearch
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-f4086aad4813358e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/ItDpOwVBznqW28G.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-f4086aad4813358e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/ItDpOwVBznqW28G.png)
 <!-- toc -->
 # 概述
 章节：Moudles>>Node

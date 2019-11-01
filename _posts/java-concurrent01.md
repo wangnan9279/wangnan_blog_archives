@@ -4,12 +4,12 @@ date: 2016-07-08 14:19:15
 tags: [Java,JavaConcurrent]
 categories: Java
 link_title: java-concurrent01
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-ecfaca092a4a12a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp)
+![](https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png)
 >在没有接触并发编程概念之前，你学到的都是有关顺序编程的知识，即程序中的所以事物在任意时刻都只能执行一个步骤
 并行编程可以使程序执行速度得到极大的提高，或者为设计某些类型的程序提供更易用的模型，或者两者皆有。当并行执行的任务彼此开始产生互相干涉时，实际的并发问题就会接踵而至。这些并发问题，如果视而不见，就会遭到其反噬。
 因此，使用并发时你得自食其力，并且只有变得多疑而且自信，才能用Java编写出可靠的多线程代码。

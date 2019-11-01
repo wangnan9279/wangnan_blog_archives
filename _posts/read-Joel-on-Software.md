@@ -5,12 +5,12 @@ date: 2017-06-07 14:47:47
 tags: [书摘]
 categories: 书摘
 link_title: read-Joel-on-Software
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-0358a3c27aa26d94.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/rBQ4Oe7zvxaHL9A.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-0358a3c27aa26d94.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/25/rBQ4Oe7zvxaHL9A.png)
 
 - 比尔盖茨对技术的了解令人惊叹，他理解可变数据类型，COM对象，IDispathch接口以及Automation与虚表有何不同，他明白这种不同可能会导致双重接口，因此他担心日期 函数并非心血来潮，如果他信任那个干事的人，他就不会干涉软件，但是，你不要糊弄他，哪怕是一分钟，因为他也是一个程序员，一个真正的，现实的程序员
 

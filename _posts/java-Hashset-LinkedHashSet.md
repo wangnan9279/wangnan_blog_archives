@@ -4,12 +4,12 @@ link_title: java-Hashset-LinkedHashSet
 date: 2017-07-18 13:57:18
 tags: [Java, JavaCollection]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-56b3e94b4e1e631a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/qcAHgWZXDvPeUYo.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-56b3e94b4e1e631a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/qcAHgWZXDvPeUYo.png)
 <!-- toc -->
 # HashSet
 ## 概述

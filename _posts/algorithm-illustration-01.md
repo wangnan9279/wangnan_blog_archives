@@ -4,12 +4,12 @@ link_title: algorithm-illustration-01
 date: 2017-05-03 14:11:53
 tags: [算法]
 categories: 书摘
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-5f282848266cf082.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/25/YSky1CIhA4zLHa2.png	
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-5f282848266cf082.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/25/YSky1CIhA4zLHa2.png)
 
 # 第一章 算法介绍
 

@@ -4,12 +4,12 @@ link_title: elasticsearch5-5-0-run
 date: 2017-07-26 14:05:17
 tags: [ElasticSearch]
 categories: ElasticSearch
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-72bdb5cc3831e3d2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/yk74MYgSu3TEBdG.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-72bdb5cc3831e3d2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/yk74MYgSu3TEBdG.png)
 <!-- toc -->
 # 1.环境与准备工作
 1. WINDOWS 10

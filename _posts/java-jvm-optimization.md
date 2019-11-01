@@ -4,12 +4,12 @@ link_title: java-jvm-optimization
 date: 2017-08-16 09:51:29
 tags: [Java, JVM]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-ea3d24682cefb7fd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/557/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/lrX2pLFfaCK4xVt.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-ea3d24682cefb7fd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/557/format/webp)
+![](https://i.loli.net/2019/09/24/lrX2pLFfaCK4xVt.png)
 <!-- toc -->
 # 说明
 调优是一个循序渐进的过程，必然需要经历多次迭代，最终才能换取一个较好的折中方案。

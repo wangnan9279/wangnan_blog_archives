@@ -4,12 +4,12 @@ tags: [Java ,Java8]
 date: 2017-01-23 16:49:47
 categories: Java
 link_title: java8-action-as-para
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-cb92a9e9a8693c35.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/225/format/webp)
+![](https://i.loli.net/2019/09/24/4kPOL3i5aAqcfNs.png)
 > 在软件工程中，一个众所周知的问题就是，不管你做什么，用户的需求肯定会变
 行为参数化就是可以帮助你处理频繁变更需求的一种软件开发模式。
 

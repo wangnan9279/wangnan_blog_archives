@@ -4,12 +4,12 @@ link_title: elasticsearch-zen-discovery
 date: 2017-08-21 09:40:54
 tags: [ElasticSearch]
 categories: ElasticSearch
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-875d1ea42fb5b528.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/LqfXFd4GsrZERt9.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-875d1ea42fb5b528.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/LqfXFd4GsrZERt9.png)
 <!-- toc -->
 # 章节
 Modules » Discovery » Zen Discovery

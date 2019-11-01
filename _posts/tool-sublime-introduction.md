@@ -4,7 +4,7 @@ date: 2016-05-28 16:23:13
 tags: []
 categories: 工具
 link_title: tool-Sublime-introduction
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-e6a274bd932cc627.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/25/UrT3etJkoHQN7vz.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->

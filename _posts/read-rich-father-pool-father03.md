@@ -4,13 +4,13 @@ title: 《富爸爸穷爸爸》书摘-富人不为钱工作
 date: 2017-02-28 11:03:39
 tags: [书摘, 理财]
 categories: 书摘
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-1925e2cbbb135727.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/1tCzg4cBP8Gw7vj.png
 thumbnailImagePosition: left
 link_title: read-rich-father-pool-father03
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-1925e2cbbb135727.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/25/1tCzg4cBP8Gw7vj.png)
 
 - 如果你们放弃了你们才真的只能当穷人了。一件事情的成败并不重要,重要的是你们曾经尝试过。要知道大多数人只是谈论和梦想发财,而你们已经付出了行动。我再说一遍,我为你们骄傲,孩子们,别灰心,别放弃。
 

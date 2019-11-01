@@ -5,12 +5,12 @@ date: 2017-04-28 15:52:30
 tags: [设计模式]
 categories: 书摘
 link_title: headFirstDesignPatterns05
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-9c7528524c137f05.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/232/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/YEDeBCFmRxt9V1J.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-9c7528524c137f05.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/232/format/webp)
+![](https://i.loli.net/2019/09/25/YEDeBCFmRxt9V1J.png)
 # 状态模式
 ## 定义
 允许对象在内部状态改变时改变它的行为，对象看起来好像修改了它的类

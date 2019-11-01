@@ -4,12 +4,12 @@ link_title: java-memory-manage
 date: 2017-08-14 14:22:40
 tags: [Java, JVM]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-127ce3c8f092e521.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/7L1XgSPbdCjBYam.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-127ce3c8f092e521.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/7L1XgSPbdCjBYam.png)
 <!-- toc -->
 > Java技术体系中所提倡的自动内存管理最终可以归结为自动化地解决了两个问题：给对象分配内存以及回收分配给对象的内存。
 

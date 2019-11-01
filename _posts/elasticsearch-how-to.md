@@ -4,12 +4,12 @@ link_title: elasticsearch-how-to
 date: 2018-10-01 13:43:28
 tags: [ElasticSearch]
 categories: ElasticSearch
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-4080b403bb442c50.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/511/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/TegFRc9okhqz5JQ.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-4080b403bb442c50.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/511/format/webp)
+![](https://i.loli.net/2019/09/24/TegFRc9okhqz5JQ.png)
 <!-- toc -->
 
 原文：https://www.elastic.co/guide/en/elasticsearch/reference/current/how-to.html

@@ -4,7 +4,7 @@ date: 2016-06-08 17:35:41
 tags: [Mybatis, Java]
 categories: Mybatis
 link_title: mybatis-getting-started
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-74576230a7ae676d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/414/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/fSiV6E5CYoMK9uF.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->

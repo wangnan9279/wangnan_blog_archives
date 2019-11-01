@@ -4,13 +4,13 @@ title: 《富爸爸穷爸爸》书摘-富人的投资　
 date: 2017-03-18 10:41:13
 tags: [书摘, 理财]
 categories: 书摘
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-b4657d17df30a00f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/512/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/pQRYZJ5aGLhTglb.png
 thumbnailImagePosition: left
 link_title: read-rich-father-pool-father07
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-b4657d17df30a00f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/512/format/webp)
+![](https://i.loli.net/2019/09/25/pQRYZJ5aGLhTglb.png)
 
 - 在现实世界里,人们往往是依靠勇气而不是聪明去领先于其他人的
 

@@ -4,12 +4,12 @@ link_title: logstash-note
 date: 2018-09-01 17:06:12
 tags: [Logstash]
 categories: ELKstack
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-242d4984f703f03f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/358/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/57s9SxIPF1oWD3E.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-242d4984f703f03f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/358/format/webp)
+![](https://i.loli.net/2019/09/24/57s9SxIPF1oWD3E.png)
 <!-- toc -->
 
 # 背景

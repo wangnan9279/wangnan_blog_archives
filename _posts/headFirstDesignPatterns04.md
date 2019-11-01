@@ -4,12 +4,12 @@ date: 2017-04-23 16:30:38
 tags: [设计模式]
 categories: 书摘
 link_title: headFirstDesignPatterns04
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-9c7528524c137f05.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/232/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/YEDeBCFmRxt9V1J.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-9c7528524c137f05.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/232/format/webp)
+![](https://i.loli.net/2019/09/25/YEDeBCFmRxt9V1J.png)
 # 模板方法模式
 ## 定义
 在一个方法中定义一个算法的骨架，而将一些步骤延迟到子类中，模板方法使得子类可以在不改变算法结构的情况下，重新定义算法中的某些步骤

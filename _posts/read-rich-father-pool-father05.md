@@ -4,13 +4,13 @@ title: 《富爸爸穷爸爸》书摘-关注自己的事业
 date: 2017-03-08 11:02:02
 tags: [书摘, 理财]
 categories: 书摘
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-e6a274bd932cc627.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/jf9dYTaD5KlJc3u.png
 thumbnailImagePosition: left
 link_title: read-rich-father-pool-father05
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-e6a274bd932cc627.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/25/jf9dYTaD5KlJc3u.png)
 
 - 麦当劳今天已是世界上最大的房地产商了,它拥有的房地产甚至超过了天主教会。今天,麦当劳已经拥有美国以及世界其他地方的一些最值钱的街角和十字路口的黄金地段
 

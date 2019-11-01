@@ -4,12 +4,12 @@ link_title: hadoop-definitive-guide04
 date: 2018-07-27 14:55:32
 tags: [Hadoop]
 categories: BigData
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-923e4afdf70e9574.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/464/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/iaJnuj4XeqwR6C5.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-923e4afdf70e9574.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/464/format/webp)
+![](https://i.loli.net/2019/09/24/iaJnuj4XeqwR6C5.png)
 <!-- toc -->
 
 **转载请注明出处**

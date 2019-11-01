@@ -4,12 +4,12 @@ link_title: elkstack-es01
 date: 2018-10-08 17:11:46
 tags: [Elasticsearch]
 categories: ELKstack
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-f14239006327cf5d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/EXZeSf2TorU57j1.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-f14239006327cf5d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/EXZeSf2TorU57j1.png)
 <!-- toc -->
 
 # 架构原理

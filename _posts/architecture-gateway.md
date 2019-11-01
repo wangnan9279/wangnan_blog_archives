@@ -4,12 +4,12 @@ link_title: architecture-gateway
 date: 2017-09-20 09:49:32
 tags: [架构]
 categories: 架构
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-d40cdd3cca302fc3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/644/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/JrvksSTbyB1D5UA.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-d40cdd3cca302fc3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/644/format/webp)
+![](https://i.loli.net/2019/09/24/JrvksSTbyB1D5UA.png)
 <!-- toc -->
 # 背景
 是出现在系统边界上的一个面向API的、串行集中式的强管控服务

@@ -4,12 +4,12 @@ link_title: current-limiting
 date: 2017-10-25 10:07:58
 tags: []
 categories: 架构
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-500e4398a87b1738.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/IlPnH2SJFTa1WjD.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-500e4398a87b1738.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/IlPnH2SJFTa1WjD.png)
 <!-- toc -->
 # 概述
 高并发系统时有三把利器用来保护系统：缓存、降级和限流，缓存的目的是提升系统访问速度和增大系统能处理的容量，降级是当服务出问题或者影响到核心流程的性能则需要暂时屏蔽掉，待高峰或者问题解决后再打开，而有些场景并不能用缓存和降级来解决，比如稀缺资源（秒杀、抢购）、写服务（如评论、下单）、频繁的复杂查询（评论的最后几页），因此需有一种手段来限制这些场景的并发/请求量，即限流

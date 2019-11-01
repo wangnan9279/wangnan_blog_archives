@@ -4,12 +4,12 @@ link_title: java-thread-synchronize
 date: 2017-07-24 14:48:38
 tags: [Java, JavaConcurrent]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-d50a70be5057649e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/XgSh7fIxE5icZkA.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-d50a70be5057649e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/XgSh7fIxE5icZkA.png)
 <!-- toc -->
 # 同步方法
 即**有synchronized关键字修饰的方法**。 由于java的每个对象都有一个内置锁，当用此关键字修饰方法时，内置锁会保护整个方法。在调用该方法前，需要获得内置锁，否则就处于阻塞状态。

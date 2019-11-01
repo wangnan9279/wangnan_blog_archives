@@ -4,16 +4,16 @@ link_title: architecture-microservice
 date: 2017-08-30 16:31:29
 tags: []
 categories: 架构
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-675cd8394eced84f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/563/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/qtMO6DUygj7EFNI.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-675cd8394eced84f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/563/format/webp)
+![](https://i.loli.net/2019/09/24/qtMO6DUygj7EFNI.png)
 <!-- toc -->
 # 思维导图
-![](https://upload-images.jianshu.io/upload_images/79431-cf53d8fd4fb84566.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
-![](https://upload-images.jianshu.io/upload_images/79431-1c74eda021186282.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+![](https://i.loli.net/2019/09/24/rw6C2YloRVGhg3q.png)
+![](https://i.loli.net/2019/09/24/sMVFx3GUmbdtE45.png)
 
 
 # 介绍

@@ -4,12 +4,12 @@ tags: [RabbitMQ]
 date: 2016-11-18 14:44:12
 categories: RabbitMQ
 link_title: rabbitMQ-management
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-10233747fe467500.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/368/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/qxFNC2JSAngio3Y.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-10233747fe467500.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/368/format/webp)
+![](https://i.loli.net/2019/09/25/qxFNC2JSAngio3Y.png)
 
 
 # 服务器管理

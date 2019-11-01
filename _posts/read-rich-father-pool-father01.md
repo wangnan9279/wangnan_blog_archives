@@ -5,12 +5,12 @@ date: 2017-02-18 09:43:43
 tags: [书摘, 理财]
 categories: 书摘
 link_title: read-rich-father-pool-father01
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-12fcd2d95fdb9e43.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp
+thumbnailImage: https://i.loli.net/2019/09/25/fsbxPScZDyaR3Qt.png
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-12fcd2d95fdb9e43.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/25/fsbxPScZDyaR3Qt.png)
 
 - 得到好的教育和好的成绩不再能确保成功了。而孩子们似乎比我们先意识到了这一点。
 

@@ -4,12 +4,12 @@ link_title: timeWaitCloseWait
 date: 2017-07-13 10:48:05
 tags: [网络]
 categories: 网络
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-3a19d39c05ed5438.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/UtQusjEKVgboBHP.png	
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-3a19d39c05ed5438.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/509/format/webp)
+![](https://i.loli.net/2019/09/24/UtQusjEKVgboBHP.png)
 <!-- toc -->
 # TIME_WAIT和CLOSE_WAIT
 

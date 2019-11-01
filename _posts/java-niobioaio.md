@@ -5,12 +5,12 @@ date: 2017-07-11 14:49:46
 tags: [Java, JavaIO]
 categories: Java
 link_title: java-niobioaio
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-63bdd612e56fc934.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp	
+thumbnailImage: https://i.loli.net/2019/09/24/XJoasZ8uO9GtUyQ.png	
 thumbnailImagePosition: left
 ---
 <!-- toc -->
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-63bdd612e56fc934.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/XJoasZ8uO9GtUyQ.png)
 - 参考
 http://qindongliang.iteye.com/blog/2018539
 

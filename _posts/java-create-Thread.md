@@ -4,12 +4,12 @@ link_title: java-create-Thread
 date: 2017-07-20 15:41:18
 tags: [Java, JavaConcurrent]
 categories: Java
-thumbnailImage: https://upload-images.jianshu.io/upload_images/79431-93fd0edcd83e9d68.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp
+thumbnailImage: https://i.loli.net/2019/09/24/XSGfCcgJTU4DuIL.png
 thumbnailImagePosition: left
 ---
 <span/>
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/79431-93fd0edcd83e9d68.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/510/format/webp)
+![](https://i.loli.net/2019/09/24/XSGfCcgJTU4DuIL.png)
 <!-- toc -->
 # 概述
 1. 继承Thread类创建线程类
